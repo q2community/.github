@@ -26,7 +26,7 @@
 
 ### DDay 
 | Links |
-| --- | --- |
+| --- |
 |![](images/discord.jpg) - [DDay: Normandy Discord](https://discord.gg/Xkpct32)
 |![](http://www.ddaydev.com/site/include/images/links/ddc_anim1.gif) - [D-Day Dev Central](http://www.ddaydev.com/site/index.php)
 |![](images/dday.gif) - [D-Day Archives](http://www.quakewiki.net/archives/dday.planetquake.gamespy.com/site/)
