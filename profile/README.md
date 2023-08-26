@@ -1,7 +1,5 @@
 # Quake II Community Github
 
-Fill in this section with info!
-
 ## General Quake II Links and Resources
 
 * [Quake II on Steam](https://store.steampowered.com/app/2320/Quake_II/)
@@ -16,6 +14,10 @@ Fill in this section with info!
 ## Mods and Mod Resources
 
 ### Action Quake II
+
+* [AQ2World Discord](https://discord.aq2world.com)
+* [Forums](https://forums.aq2world.com)
+* [AQtion on Steam](https://store.steampowered.com/app/1978800/AQtion/)
 
 ### DDay
 
