@@ -5,9 +5,9 @@
 * [Quake II on Steam](https://store.steampowered.com/app/2320/Quake_II/)
 * [Quake II Legacy](https://quakelegacy.com/)
 * [Quake II Remastered Reborn Reunited Discord](https://discord.gg/3udM8Vz)
-
 * ![](images/tastyspleen.png) - [Tastyspleen.net Discord](http://discord.tastyspleen.net)
-
+* [Tastyspleen.net](http://tastyspleen.net/)
+  
 ## Mapping Resources
 
 * [Trenchbroom](https://trenchbroom.github.io/)
@@ -42,13 +42,13 @@
 
 ### Rocket Arena 2
 
-* [RocketArena2 Discord](https://discord.gg/3gjMKcMgrE)
+* ![](images/discord.jpg) - [RocketArena2 Discord](https://discord.gg/3gjMKcMgrE)
 
 ### KOTS (King of the Server)
 
 ### Quake 2 Jump/ Q2Jump
 
-* [Q2Jump Discord](http://discord.q2jump.net/)
+* ![](images/discord.jpg) - [Q2Jump Discord](http://discord.q2jump.net/)
 * [Stats](http://q2jump.net/)
 
 ### Quaketown RPG
