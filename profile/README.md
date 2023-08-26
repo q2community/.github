@@ -6,20 +6,31 @@
 * [Quake II Legacy](https://quakelegacy.com/)
 * [Quake II Remastered Reborn Reunited Discord](https://discord.gg/3udM8Vz)
 
+* ![](images/tastyspleen.png) - [Tastyspleen.net Discord](http://discord.tastyspleen.net)
+
 ## Mapping Resources
 
 * [Trenchbroom](https://trenchbroom.github.io/)
 * [Map-Center Discord](https://discord.gg/ccwcjBbJFt)
+* ericw-tools | [Windows](https://github.com/ericwa/ericw-tools/releases/tag/2.0.0-alpha1) | [Linux / Mac (build from source)](https://github.com/ericwa/ericw-tools/)
 
 ## Mods and Mod Resources
 
 ### Action Quake II
 
-* [AQ2World Discord](https://discord.aq2world.com)
-* [Forums](https://forums.aq2world.com)
-* [AQtion on Steam](https://store.steampowered.com/app/1978800/AQtion/)
+| Links |
+| ---   |
+|![](images/discord.jpg) - [AQ2World Discord](https://discord.aq2world.com)
+|![](images/aqworldbanner.jpg) - [Forums](https://forums.aq2world.com)
+|![](images/)[AQtion on Steam](https://store.steampowered.com/app/1978800/AQtion/)
 
-### DDay
+### DDay 
+| Links |
+| --- | --- |
+|![](images/discord.jpg) - [DDay: Normandy Discord](https://discord.gg/Xkpct32)
+|![](http://www.ddaydev.com/site/include/images/links/ddc_anim1.gif) - [D-Day Dev Central](http://www.ddaydev.com/site/index.php)
+|![](images/dday.gif) - [D-Day Archives](http://www.quakewiki.net/archives/dday.planetquake.gamespy.com/site/)
+|![](images/french.gif) - [D-Day Francophone](https://ddaynormandy.forumactif.fr/)
 
 ### Digital Paintball
 
@@ -31,9 +42,14 @@
 
 ### Rocket Arena 2
 
+* [RocketArena2 Discord](https://discord.gg/3gjMKcMgrE)
+
 ### KOTS (King of the Server)
 
-### Q2Jump
+### Quake 2 Jump/ Q2Jump
+
+* [Q2Jump Discord](http://discord.q2jump.net/)
+* [Stats](http://q2jump.net/)
 
 ### Quaketown RPG
 
