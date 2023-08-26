@@ -23,10 +23,6 @@ Fill in this section with info!
 
 ### MatrixQ2
 
-### Q2Jump
-
-### Transformers Q2
-
 ### Gloom
 
 ### Freeze Tag
@@ -35,7 +31,11 @@ Fill in this section with info!
 
 ### KOTS (King of the Server)
 
+### Q2Jump
+
 ### Quaketown RPG
+
+### Transformers Q2
 
 ### Vortex
 
@@ -48,4 +48,14 @@ Fill in this section with info!
 ### Railwarz CTF
 
 ### Weapons Factory CTF
+
+## Weapons Mods
+
+### Chaos
+
+### LOX
+
+### Rampage
+
+### WOD / WODX
 
