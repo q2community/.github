@@ -5,7 +5,7 @@
 * [Quake II on Steam](https://store.steampowered.com/app/2320/Quake_II/)
 * [Quake II Legacy](https://quakelegacy.com/)
 * [Quake II Remastered Reborn Reunited Discord](https://discord.gg/3udM8Vz)
-* ![](https://raw.githubusercontent.com/q2community/.github/main/profile/images/tastyspleen.gif) - [Tastyspleen.net Discord](http://discord.tastyspleen.net)
+* ![](https://raw.githubusercontent.com/q2community/.github/main/profile/images/tastyspleen.png) - [Tastyspleen.net Discord](http://discord.tastyspleen.net)
 * [Tastyspleen.net](http://tastyspleen.net/)
   
 
