@@ -28,65 +28,66 @@
 
 ### Action Quake II
 
-| Links |
-| ---   |
-|![](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true) - [AQ2World Discord](https://discord.aq2world.com)
-|![](https://github.com/q2community/.github/blob/main/profile/images/aqworldbanner.jpg?raw=true) - [Forums](https://forums.aq2world.com)
-|[AQtion on Steam](https://store.steampowered.com/app/1978800/AQtion/)
-| :octocat:[Github](https://github.com/actionquake/aq2-tng)
+| Site | Source | Discord |
+| --- | --- | --- |
+|[AQtion on Steam](https://store.steampowered.com/app/1978800/AQtion/) <br /> ![](https://github.com/q2community/.github/blob/main/profile/images/aqworldbanner.jpg?raw=true) - [Forums](https://forums.aq2world.com) | :octocat:[Github](https://github.com/actionquake/aq2-tng) |[![](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.aq2world.com)
+
 
 ### DDay 
-| Links |
-| --- |
-|![](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true) - [DDay: Normandy Discord](https://discord.gg/Xkpct32)
-|![](https://raw.githubusercontent.com/q2community/.github/main/profile/images/ddc_anim1.gif) - [D-Day Dev Central](http://www.ddaydev.com/site/index.php)
-|![](https://raw.githubusercontent.com/q2community/.github/main/profile/images/dday.gif) - [D-Day Archives](http://www.quakewiki.net/archives/dday.planetquake.gamespy.com/site/)
-|![](https://raw.githubusercontent.com/q2community/.github/main/profile/images/french.gif) - [D-Day Francophone](https://ddaynormandy.forumactif.fr/)
+| Site | Source | Discord |
+| --- | --- | --- |
+| ![](https://raw.githubusercontent.com/q2community/.github/main/profile/images/ddc_anim1.gif) - [D-Day Dev Central](http://www.ddaydev.com/site/index.php) <br /> ![](https://raw.githubusercontent.com/q2community/.github/main/profile/images/dday.gif) - [D-Day Archives](http://www.quakewiki.net/archives/dday.planetquake.gamespy.com/site/)  <br /> ![](https://raw.githubusercontent.com/q2community/.github/main/profile/images/french.gif) - [D-Day Francophone](https://ddaynormandy.forumactif.fr/) | | | ![](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true) - [DDay: Normandy Discord](https://discord.gg/Xkpct32)
+
 
 ### Digital Paintball 2
-| Links |
-| --- |
-| [![Digital Paintall 2 Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/nExEMuM)
+| Site | Source | Discord |
+| --- | --- | --- |
+| | | [![Digital Paintall 2 Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/nExEMuM)
 
 ### MatrixQ2
 
 ### Gloom
-| Links |
-| --- |
-| [![Gloom Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/nJ7zeeA)
+| Site | Source | Discord |
+| --- | --- | --- |
+| | | [![Gloom Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/nJ7zeeA)
 
 ### Freeze Tag
 
 ### Rocket Arena 2
-| Links |
-| --- |
-| [![Rocket Arena 2 Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/3gjMKcMgrE)
+| Site | Source | Discord |
+| --- | --- | --- |
+| | | [![Rocket Arena 2 Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/3gjMKcMgrE)
 
 ### KOTS (King of the Server)
-| Links |
-| --- |
-| [![Q2Jump Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg//uZdBxkbCzP)
-| [Main Site](http://kingoftheserver.org/)
-| [Wiki](http://kingoftheserver.org/wiki/index.php/Main_Page)
+| Site | Source | Discord |
+| --- | --- | --- |
+| [Main Site](http://kingoftheserver.org/) <br /> [Wiki](http://kingoftheserver.org/wiki/index.php/Main_Page) | | [![Q2Jump Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg//uZdBxkbCzP)
+
 
 ### Quake 2 Jump/ Q2Jump
-| Links |
-| --- |
-| [![Q2Jump Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](http://discord.q2jump.net/)
-| [Stats](http://q2jump.net/)
+| Site | Source | Discord |
+| --- | --- | --- |
+| [Stats](http://q2jump.net/) | | [![Q2Jump Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](http://discord.q2jump.net/)
 
 ### Quaketown RPG
 
 ### Transformers Q2
-| Links |
+| Description |
 | --- |
-| [![Transformers Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/G4KXH4m)
+| DESC
+
+| Site | Source | Discord |
+| --- | --- | --- |
+| | | [![Transformers Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/G4KXH4m)
 
 ### Vortex
-| Links |
+| Description |
 | --- |
-| [Main Site](https://q2vortex.com/)
-| :octocat:[Github](https://github.com/VortexQuake2/Vortex)
+| Vortex is a mod for Quake II that adds RPG and fantasy elements such as character classes, persistent experience and levels, abilities, magic runes, and upgradable weapons to the game. It also features many gamemodes, such as PvP, Invasion CTF, HolyWars, and more!
+
+| Site | Source | Discord |
+| --- | --- | --- |
+| [Main Site](https://q2vortex.com/) | :octocat:[Github](https://github.com/VortexQuake2/Vortex) |
 
 ## CTF Mods
 
