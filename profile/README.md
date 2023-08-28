@@ -5,7 +5,7 @@
 * [Quake II on Steam](https://store.steampowered.com/app/2320/Quake_II/)
 * [Quake II Legacy](https://quakelegacy.com/)
 * [Quake II Remastered Reborn Reunited Discord](https://discord.gg/3udM8Vz)
-* ![](https://github.com/q2community/.github/blob/main/profile/images/tastyspleen.png?raw=true) - [Tastyspleen.net Discord](http://discord.tastyspleen.net)
+* ![](https://raw.githubusercontent.com/q2community/.github/main/profile/images/tastyspleen.gif) - [Tastyspleen.net Discord](http://discord.tastyspleen.net)
 * [Tastyspleen.net](http://tastyspleen.net/)
   
 
@@ -38,9 +38,9 @@
 | Links |
 | --- |
 |![](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true) - [DDay: Normandy Discord](https://discord.gg/Xkpct32)
-|![](https://github.com/q2community/.github/blob/main/profile/images/ddc_anim1.gif?raw=true) - [D-Day Dev Central](http://www.ddaydev.com/site/index.php)
-|![](https://github.com/q2community/.github/blob/main/profile/images/dday.gif?raw=true) - [D-Day Archives](http://www.quakewiki.net/archives/dday.planetquake.gamespy.com/site/)
-|![](https://github.com/q2community/.github/blob/main/profile/images/french.gif?raw=true) - [D-Day Francophone](https://ddaynormandy.forumactif.fr/)
+|![](https://raw.githubusercontent.com/q2community/.github/main/profile/images/ddc_anim1.gif) - [D-Day Dev Central](http://www.ddaydev.com/site/index.php)
+|![](https://raw.githubusercontent.com/q2community/.github/main/profile/images/dday.gif) - [D-Day Archives](http://www.quakewiki.net/archives/dday.planetquake.gamespy.com/site/)
+|![](https://raw.githubusercontent.com/q2community/.github/main/profile/images/french.gif) - [D-Day Francophone](https://ddaynormandy.forumactif.fr/)
 
 ### Digital Paintball 2
 [![Digital Paintall 2 Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/nExEMuM)
