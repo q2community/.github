@@ -83,11 +83,11 @@
 ### KOTS (King of the Server)
 | Description |
 | --- |
-| DescribeMyMod
+| Level up a character and unlock dozens of abilities unique to this mod! Fight against players and/or monsters to rack up experience points and try to become the King of the Server!
 
 | Site | Source | Discord |
 | --- | --- | --- |
-| [Main Site](http://kingoftheserver.org/) <br /> [Wiki](http://kingoftheserver.org/wiki/index.php/Main_Page) | | [![Q2Jump Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg//uZdBxkbCzP)
+| [Main Site](http://kingoftheserver.org/) <br /> [Wiki](http://kingoftheserver.org/wiki/index.php/Main_Page) | | [![KOTS Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg//uZdBxkbCzP)
 
 
 ### Quake 2 Jump/ Q2Jump
