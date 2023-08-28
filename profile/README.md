@@ -56,9 +56,11 @@
 [![Rocket Arena 2 Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/3gjMKcMgrE)
 
 ### KOTS (King of the Server)
+* [![Q2Jump Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg//uZdBxkbCzP)
+* [Main Site](http://kingoftheserver.org/)
+* [Wiki](http://kingoftheserver.org/wiki/index.php/Main_Page)
 
 ### Quake 2 Jump/ Q2Jump
-
 * [![Q2Jump Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](http://discord.q2jump.net/)
 * [Stats](http://q2jump.net/)
 
