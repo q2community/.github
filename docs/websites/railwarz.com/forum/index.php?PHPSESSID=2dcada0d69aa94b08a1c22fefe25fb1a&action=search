@@ -1,0 +1,382 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="description" content="Set Search Parameters" />
+	<meta name="keywords" content="railwarz, tmg, tmg railwarz, quake 2, quake2, ctf, q2, q2 ctf, quake II, games" />
+	<script language="JavaScript" type="text/javascript" src="http://railwarz.com/forum/Themes/default/script.js?fin11"></script>
+	<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+		var smf_theme_url = "http://railwarz.com/forum/Themes/BlackRain11fin";
+		var smf_images_url = "http://railwarz.com/forum/Themes/BlackRain11fin/images";
+		var smf_scripturl = "http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;";
+		var smf_iso_case_folding = false;
+		var smf_charset = "UTF-8";
+	// ]]></script>
+	<title>railwarz.com</title>
+	<link rel="stylesheet" type="text/css" href="http://railwarz.com/forum/Themes/BlackRain11fin/style.css?fin11" />
+	<link rel="stylesheet" type="text/css" href="http://railwarz.com/forum/Themes/default/print.css?fin11" media="print" />
+	<link rel="help" href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=help" target="_blank" />
+	<link rel="search" href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=search" />
+	<link rel="contents" href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;" />
+	<link rel="alternate" type="application/rss+xml" title="railwarz.com - RSS" href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;type=rss;action=.xml" />
+		<script type="text/javascript" language="JavaScript" src="http://railwarz.com/forum/mobiquo/tapatalkdetect.js"></script>
+		<script type="text/javascript" language="JavaScript" src="http://railwarz.com/forum/mobiquo/tapatalkdetect.js"></script>
+		<script type="text/javascript" language="JavaScript" src="http://railwarz.com/forum/mobiquo/tapatalkdetect.js"></script>
+		<script type="text/javascript" language="JavaScript" src="http://railwarz.com/forum/mobiquo/tapatalkdetect.js"></script><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+	<script language="javascript" type="text/javascript">
+		var currentSwapArticle = true;
+		function swapOptionsArticle(one)
+		{
+				document.getElementById(one).style.display = currentSwapArticle ? "" : "none";
+                 document.getElementById("articleUpshrink").src = smf_images_url + ( currentSwapArticle ? "/upshrink.gif" : "/upshrink2.gif");
+				currentSwapArticle = !currentSwapArticle;
+		}
+	</script>
+        <script language="JavaScript" type="text/javascript">
+                var current_leftbar = false;
+                function shrinkHeaderLeftbar(mode)
+                {
+                        document.cookie = "upshrink=" + (mode ? 1 : 0);
+                        document.getElementById("upshrinkLeftbar").src = smf_images_url + (mode ? "/upshrink2.gif" : "/upshrink.gif");
+                        document.getElementById("leftbarHeader").style.display = mode ? "none" : "";
+                        current_leftbar = mode;
+                }
+         // --></script>
+        <script language="JavaScript" type="text/javascript"><!--
+                var current_rightbar = false;
+                function shrinkHeaderRightbar(mode)
+                {
+                        document.cookie = "upshrink=" + (mode ? 1 : 0);
+                        document.getElementById("upshrinkRightbar").src = smf_images_url + (mode ? "/upshrink2.gif" : "/upshrink.gif");
+                        document.getElementById("rightbarHeader").style.display = mode ? "none" : "";
+                        current_rightbar = mode;
+                }
+       // --></script>
+	<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+		var current_header = false;
+
+		function shrinkHeader(mode)
+		{
+			document.cookie = "upshrink=" + (mode ? 1 : 0);
+			document.getElementById("upshrink").src = smf_images_url + (mode ? "/upshrink2.gif" : "/upshrink.gif");
+
+			document.getElementById("upshrinkHeader").style.display = mode ? "none" : "";
+			document.getElementById("upshrinkHeader2").style.display = mode ? "none" : "";
+
+			current_header = mode;
+		}
+	// ]]></script>
+		<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+			var current_header_ic = false;
+
+			function shrinkHeaderIC(mode)
+			{
+				document.cookie = "upshrinkIC=" + (mode ? 1 : 0);
+				document.getElementById("upshrink_ic").src = smf_images_url + (mode ? "/expand.gif" : "/collapse.gif");
+
+				document.getElementById("upshrinkHeaderIC").style.display = mode ? "none" : "";
+
+				current_header_ic = mode;
+			}
+		// ]]></script>
+</head>
+<body>
+	<div id="wrap">
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td>
+				<a href="index.php"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/rwzlogo.gif" style="text-align: center;" title="railwarz.com" alt="railwarz.com" /></a>
+				</td>
+			</tr>
+		</table>
+	<div class="tborder" >
+		<table width="100%" cellpadding="0" cellspacing="0" border="0" >
+			<tr>
+				<td class="titlebg2" height="32" align="right">
+					<span class="smalltext">January 28, 2015, 05:25:13 PM</span>
+					<a href="#" onclick="shrinkHeader(!current_header); return false;"><img id="upshrink" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/upshrink.gif" alt="*" title="Shrink or expand the header." align="bottom" style="margin: 0 1ex;" /></a>
+				</td>
+			</tr>
+			<tr id="upshrinkHeader">
+				<td valign="top" colspan="2">
+					<table width="100%" class="bordercolor" cellpadding="8" cellspacing="1" border="0" style="margin-top: 1px;">
+						<tr>
+							<td colspan="2" width="100%" valign="top" class="windowbg2"><span class="middletext">Welcome, <b>Guest</b>. Please <a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=login">login</a> or <a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=register">register</a>.<br />Did you miss your <a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=activate">activation email?</a>				</span>	
+								<script language="JavaScript" type="text/javascript" src="http://railwarz.com/forum/Themes/default/sha1.js"></script>
+
+								<form action="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=login2" method="post" accept-charset="UTF-8" class="middletext" style="margin: 3px 1ex 1px 0;" onsubmit="hashLoginPassword(this, 'dce97d2c2df3adc46e3d31c651190645');">
+									<input type="text" name="user" size="10" /> <input type="password" name="passwrd" size="10" />
+									<select name="cookielength">
+										<option value="60">1 Hour</option>
+										<option value="1440">1 Day</option>
+										<option value="10080">1 Week</option>
+										<option value="43200">1 Month</option>
+										<option value="-1" selected="selected">Forever</option>
+									</select>
+									<input type="submit" value="Login" /><br />
+									<span class="middletext">Login with username, password and session length</span>
+									<input type="hidden" name="hash_passwrd" value="" />
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<table id="upshrinkHeader2" width="100%" cellpadding="4" cellspacing="0" border="0">
+			<tr>
+				<td class="titlebg2" align="right" nowrap="nowrap" valign="top">
+				<form action="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=search2" method="post" accept-charset="UTF-8" style="margin: 0;">	
+						<a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=search;advanced"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/filter.gif" align="middle" style="margin: 0 1ex;" alt="" /></a>
+						<input type="text" name="search" value="" style="width: 190px;" />&nbsp;
+						<input type="submit" name="submit" value="Search" style="width: 11ex;" />
+						<input type="hidden" name="advanced" value="0" />
+					</form>
+				</td>
+			</tr>
+		</table>
+
+	</div><div id="tabs6"><ul><li><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;"><span>Home</span></a></li><li><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=forum"><span>Forum</span></a></li><li><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=help" ><span>Help</span></a></li><li><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=search"><span>Search</span></a></li><li><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=calendar"><span>Calendar</span></a></li><li><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=login"><span>Login</span></a></li>
+			  <li><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=register"><span>Register</span></a></li><a href="#" onclick="shrinkHeaderLeftbar(!current_leftbar); return false;"><img id="upshrinkLeftbar" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/upshrink.gif" alt="*" title="Shrink or expand the header." style="margin: 2px 0;" border="0" /></a><img id="upshrinkTempLeftbar" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/blank.gif" alt="" style="margin-right: 0ex;" /><a href="#" onclick="shrinkHeaderRightbar(!current_rightbar); return false;"><img id="upshrinkRightbar" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/upshrink.gif" alt="*" title="Shrink or expand the header." style="margin: 2px 0;" border="0" /></a><img id="upshrinkTempRightbar" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/blank.gif" alt="" style="margin-right: 0ex;" /></ul></div><div id="bodyarea" style="padding: 10px 8px 0px 8px;">
+        <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td width="170" style="padding: 4px; background-color: transparent; padding-top: 4px;" valign="top">
+                 <div id="leftbarHeader" style="padding-top: 5px; width: 170px;"><div class="tborder" style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('3'); return false"><img id="blockcollapse3" style="margin: 0;" align="right" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/collapse.gif" border="0" alt="" /></a><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=search">Search</a>
+		</div>
+		<div class="windowbg" style="padding:4px; " id="block3">
+	<form  accept-charset="UTF-8" action="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=search2" method="post" style="padding: 0; text-align: center; margin: 0; margin-bottom: 5px;">
+		<br /><input type="text" name="search" value="" style="width: 85%;" /><br />
+		<input type="submit" name="submit" value="Search" style="width: 90%; margin: 4px;" /><br /><span class="smalltext">
+		<a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=search;advanced">Advanced search</a></span>
+		<input type="hidden" name="advanced" value="0" />
+	</form></div></div><div style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;">Links
+		</div>
+		<div style="padding:0px; " id="block16"><br /><div align="center"><a href="http://acmectf.com/acme"><img src="acmelnk.png" title="Home of ACMECTF!" border="0"></a><br><br><br><div align="center"><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;topic=35.0m">Link to Us!</a><br></div></div><br /><br /><br /><br /><br /></div></div><div class="tborder" style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('9'); return false"><img id="blockcollapse9" style="margin: 0;" align="right" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/collapse.gif" border="0" alt="" /></a><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=stats">Stats</a>
+		</div>
+		<div class="windowbg" style="padding:4px; " id="block9"><div class="smalltext" style="font-family: verdana, arial, sans-serif;">
+                 <img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/icons/members.gif" style="margin: 0;" align="bottom" alt="" />
+                 <a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=mlist"><b>Members</b></a>
+                 <br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Total Members: 211
+                 <br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Latest: <a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=profile;u=543"><b>thegent</b></a>
+                  <hr /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/icons/info.gif" style="margin: 0;" align="bottom" alt="" />
+                 <a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=stats"><b>Stats</b></a>
+                 <br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Total Posts: 2253
+				  <br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Total Topics: 276
+				  <br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Online Today: 9
+				  <br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Online Ever: 79<br />
+					  (March 28, 2011, 09:08:24 PM)
+				  <hr /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/icons/online.gif" style="margin: 0;" align="bottom" alt="" />
+                 <a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=who"><b>Users Online</b></a><br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Users: 0<br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Guests: 7<br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Total: 7<hr />
+			<div style="width: 100%; "></div></div></div></div>
+			<script language="Javascript" type="text/javascript">
+				function toggle( targetId )
+				{
+					var state = 0;
+					var blockname = "block" + targetId;
+					var blockimage = "blockcollapse" + targetId;
+
+					if ( document.getElementById ) {
+						target = document.getElementById( blockname );
+						if ( target.style.display == "none" ) {
+							target.style.display = "";
+							state = 1;
+						}
+						else {
+							target.style.display = "none";
+							state = 0;
+						}
+
+						document.getElementById( blockimage ).src = smf_images_url + (state ? "/collapse.gif" : "/expand.gif");
+						var tempImage = new Image();
+						tempImage.src = "http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=tpmod;upshrink=" + targetId + ";state=" + state + ";" + (new Date().getTime());
+
+					}
+				}
+			</script></div></td><td width="100%" align="left" valign="top" style="padding-top: 10px; padding-bottom: 10px;"><div><div class="tborder" style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('11'); return false"><img id="blockcollapse11" style="margin: 0;" align="right" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/collapse.gif" border="0" alt="" /></a>Articles
+		</div>
+		<div class="windowbg" style="padding:4px; " id="block11"><div class="smalltext" ><b><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;page=8">TMG Project Moves to GoogleCode</a></b> by <a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=profile;u=3">greider</a><br /></div></div></div>
+			<script language="Javascript" type="text/javascript">
+				function toggle( targetId )
+				{
+					var state = 0;
+					var blockname = "block" + targetId;
+					var blockimage = "blockcollapse" + targetId;
+
+					if ( document.getElementById ) {
+						target = document.getElementById( blockname );
+						if ( target.style.display == "none" ) {
+							target.style.display = "";
+							state = 1;
+						}
+						else {
+							target.style.display = "none";
+							state = 0;
+						}
+
+						document.getElementById( blockimage ).src = smf_images_url + (state ? "/collapse.gif" : "/expand.gif");
+						var tempImage = new Image();
+						tempImage.src = "http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=tpmod;upshrink=" + targetId + ";state=" + state + ";" + (new Date().getTime());
+
+					}
+				}
+			</script></div>
+	<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+		function selectBoards(ids)
+		{
+			var toggle = true;
+
+			for (i = 0; i < ids.length; i++)
+				toggle = toggle & document.forms.searchform["brd" + ids[i]].checked;
+
+			for (i = 0; i < ids.length; i++)
+				document.forms.searchform["brd" + ids[i]].checked = !toggle;
+		}
+
+		function expandCollapseBoards()
+		{
+			var current = document.getElementById("searchBoardsExpand").style.display != "none";
+
+			document.getElementById("searchBoardsExpand").style.display = current ? "none" : "";
+			document.getElementById("exandBoardsIcon").src = smf_images_url + (current ? "/expand.gif" : "/collapse.gif");
+		}
+	// ]]></script>
+	<form action="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=search2" method="post" accept-charset="UTF-8" name="searchform" id="searchform">
+		<table cellpadding="3" cellspacing="0" border="0">
+			<tr>
+				<td><div class="nav" style="font-size: smaller; margin-bottom: 2ex; margin-top: -1ex;"><b><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;" class="nav">railwarz.com</a></b>&nbsp;/&nbsp;<b><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=forum" class="nav">Forum</a></b>&nbsp;/&nbsp;<b><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=search" class="nav">Search</a></b></div></td>
+			</tr>
+		</table>
+
+		<table border="0" cellspacing="0" cellpadding="6" align="center" class="tborder">
+			<tr class="titlebg">
+				<td><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/buttons/search.gif" align="right" style="margin-right: 4px;" alt="" />Set Search Parameters</td>
+			</tr>
+			<tr>
+				<td class="windowbg">
+					<b>Search for:</b><br />
+					<table border="0" cellpadding="5" cellspacing="0"><tr>
+						<td><input type="text" name="search" size="40" /></td>
+						<td>&nbsp;<input type="submit" name="submit" value="Search" /></td>
+					</tr>
+					<tr>
+						<td align="right" class="smalltext"><i>e.g.</i> Orwell "Animal Farm" -movie</td>
+						<td></td>
+					</tr>
+					</table><br /><br />
+					<a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=search;advanced" onclick="this.href += ';search=' + escape(document.searchform.search.value);">Advanced search</a>
+					<input type="hidden" name="advanced" value="0" />
+				</td>
+			</tr>
+		</table>
+	</form></td><td style="padding: 4px; background-color: transparent; padding-top: 4px;" valign="top" align="right">
+                 <div id="rightbarHeader" style="width: 170px; text-align: left; padding-top: 5px;"><div style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('17'); return false"><img id="blockcollapse17" style="margin: 0;" align="right" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/collapse.gif" border="0" alt="" /></a>IRC
+		</div>
+		<div style="padding:0px; " id="block17">
+	<div style="width: 100%; overflow: hidden;">&nbsp;&nbsp;<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider2.gif" alt="" />&nbsp;<a href="http://widget.mibbit.com/?settings=d663da10e4a1603356835cb54e3ec44f&server=irc.accessirc.net&channel=%23acme">#ACME IRC Chat</a><br />
+	</div></div></div><div class="tborder" style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('6'); return false"><img id="blockcollapse6" style="margin: 0;" align="right" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/collapse.gif" border="0" alt="" /></a><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=tpmod;sa=shoutbox">ShoutBox!</a>
+		</div>
+		<div class="windowbg" style="padding:4px; " id="block6">
+				<table cellpadding="0" align="center" width="100%" cellspacing="0" style="table-layout: fixed;">
+					<tr><td><div class="smalltext" style="width: 99%; height: 240px; overflow: auto;">Last 5 Shouts:<hr /><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=profile;u=355">DocJosh</a></b></div><div style="padding: 2px;"> January 26, 2015, 10:06:06 AM</div><div style="padding: 4px;">ggz last night to the small showing we had lol. Thx Pat, T1Tan, bee, oldguy</div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=profile;u=541">Sudeten</a></b></div><div style="padding: 2px;"> January 22, 2015, 12:02:21 AM</div><div style="padding: 4px;">Beav, ppl getting kicked from servers cos of anticheat or just me?</div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=profile;u=537">housefly</a></b></div><div style="padding: 2px;"> January 18, 2015, 06:50:54 PM</div><div style="padding: 4px;">Major turnout starting right now on the server, get there.</div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=profile;u=355">DocJosh</a></b></div><div style="padding: 2px;"> January 07, 2015, 09:08:59 PM</div><div style="padding: 4px;">Thanks to everyone who came to play tonight we had a few really ggs!</div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=profile;u=355">DocJosh</a></b></div><div style="padding: 2px;"> January 07, 2015, 04:06:14 PM</div><div style="padding: 4px;">GAMING TONIGHT: 6:30pm Central me and Jeffro will be in TMG. JOIN US and lets get a big PUG going!</div></div></div></td>
+					</tr>
+				</table>
+			<div style="text-align: center; margin-top: 5px; " class="smalltext"><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=tpmod;sa=shoutbox;shouts=100">Show last 100</a></div>
+       <form  accept-charset="UTF-8" class="smalltext" style="padding: 0; margin: 0; margin-top: 8px; text-align: center;" name="tp-shoutbox" action="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=tpmod;id=shout" method="post"><input type="hidden" name="tp-shout-name" value="">
+             <input name="tp-shout-url" type="hidden" value="PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=search"><input type="hidden" name="sc" value="dce97d2c2df3adc46e3d31c651190645" />
+       </form></div></div><div class="tborder" style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('8'); return false"><img id="blockcollapse8" style="margin: 0;" align="right" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/collapse.gif" border="0" alt="" /></a>Recent
+		</div>
+		<div class="windowbg" style="padding:4px; " id="block8">
+	<div style="width: 100%; ">
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;topic=305.msg2355;topicseen#new">From the PAST....</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=profile;u=542">Shadow</a></b></div>
+		<div class="smalltext">[January 21, 2015, 03:47:54 PM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;topic=121.msg2352;topicseen#new">q2 railwarz - the good ol...</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=profile;u=377">Faded17</a></b></div>
+		<div class="smalltext">[January 18, 2015, 01:29:47 PM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;topic=280.msg2349;topicseen#new">5 minutes to time limit a...</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=profile;u=200">Beaver</a></b></div>
+		<div class="smalltext">[January 16, 2015, 10:19:05 PM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;topic=297.msg2347;topicseen#new">Yossarian</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=profile;u=1">WORM.</a></b></div>
+		<div class="smalltext">[January 16, 2015, 10:08:08 AM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;topic=279.msg2345;topicseen#new">Who's hooking is crazier?</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=profile;u=95">yossarian</a></b></div>
+		<div class="smalltext">[January 15, 2015, 08:12:16 PM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;topic=304.msg2343;topicseen#new">Attention Lazy! Where are...</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=profile;u=95">yossarian</a></b></div>
+		<div class="smalltext">[January 15, 2015, 07:32:10 PM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;topic=301.msg2341;topicseen#new">the official sky hook thr...</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=profile;u=356">fafalone</a></b></div>
+		<div class="smalltext">[January 13, 2015, 12:03:31 AM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;topic=293.msg2340;topicseen#new">Hall of Fames</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=profile;u=366">Godspeed</a></b></div>
+		<div class="smalltext">[January 11, 2015, 11:58:32 PM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;topic=303.msg2339;topicseen#new">.</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=profile;u=366">Godspeed</a></b></div>
+		<div class="smalltext">[January 11, 2015, 11:49:47 PM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;topic=238.msg2338;topicseen#new">Player Hunt List (Most Wa...</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=profile;u=1">WORM.</a></b></div>
+		<div class="smalltext">[January 10, 2015, 03:48:36 PM]
+		</div>
+	</div></div></div>
+			<script language="Javascript" type="text/javascript">
+				function toggle( targetId )
+				{
+					var state = 0;
+					var blockname = "block" + targetId;
+					var blockimage = "blockcollapse" + targetId;
+
+					if ( document.getElementById ) {
+						target = document.getElementById( blockname );
+						if ( target.style.display == "none" ) {
+							target.style.display = "";
+							state = 1;
+						}
+						else {
+							target.style.display = "none";
+							state = 0;
+						}
+
+						document.getElementById( blockimage ).src = smf_images_url + (state ? "/collapse.gif" : "/expand.gif");
+						var tempImage = new Image();
+						tempImage.src = "http://railwarz.com/forum/index.php?PHPSESSID=2dcada0d69aa94b08a1c22fefe25fb1a&amp;action=tpmod;upshrink=" + targetId + ";state=" + state + ";" + (new Date().getTime());
+
+					}
+				}
+			</script></div></td></tr></table></div>
+	<div id="footerarea" style="text-align: center; padding-bottom: 1ex;">
+		<table cellspacing="0" cellpadding="3" border="0" align="center" width="100%">
+			<tr>
+				<td width="28%" valign="middle" align="left" class="copyright-links">
+					Theme by <a target="_blank" 
+href="mailto:crip@tinyportal.net?subject=BlackRain Theme!&amp;body=Hey Crip!"><span class="smalltext">Crip</a></span>
+				</td>
+				<td valign="middle" align="center" style="white-space: nowrap;" class="copyright-links">
+					
+		<span class="smalltext" style="display: inline; visibility: visible; font-family: Verdana, Arial, sans-serif;"><a href="http://www.simplemachines.org/" title="Simple Machines Forum" target="_blank">Powered by SMF 1.1.20</a> |
+<a href="http://www.simplemachines.org/about/copyright.php" title="Free Forum Software" target="_blank">SMF &copy; 2013, Simple Machines</a>
+		</span><br /><span class="smalltext">TinyPortal v0.9.8 &copy; <a href="http://www.tinyportal.net" target="_blank">Bloc</a></span>
+				</td>
+				<td width="28%" valign="middle" align="right" class="copyright-links">
+					<a href="http://www.mysql.com/" target="_blank" style="font-size:10px;">MySQL</a> | <a href="http://www.php.net/" target="_blank" style="font-size:10px;">PHP</a> | <a href="http://validator.w3.org/check/referer" target="_blank" style="font-size:10px;">XHTML</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank" style="font-size:10px;">CSS</a>
+				</td>
+			</tr>
+		</table><br />
+		<span class="smalltext">Page created in 0.426 seconds with 19 queries.</span>
+	</div>
+	<div id="ajax_in_progress" style="display: none;">Loading...</div>
+
+</body></html>

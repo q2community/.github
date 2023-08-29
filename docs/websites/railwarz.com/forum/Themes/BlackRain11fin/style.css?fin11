@@ -1,0 +1,446 @@
+/* 
+ * ========================================
+ * SMF -- Black Rain
+ * ========================================
+ */
+#wrap {
+margin: 0 auto 0 auto;
+text-align: left;
+width: 1100px;
+border: 1px solid #000000;
+background-color: #222222;
+padding: 0px 30px 30px 30px;
+}
+.catend {
+  background-image: url(end.gif);
+  background-repeat: x-repeat;
+  height: 14px;
+}
+/* No image should have a border when linked */
+a img{ border: 0; }
+/* Normal, standard links. */
+a:link, a:visited
+{
+	color: #ea7500;
+	text-decoration: none;
+}
+a:hover
+{
+	color: #FFF;
+	text-decoration: none;
+}
+/* Navigation links - for the link tree. */
+.nav, .nav:link, .nav:visited
+{
+	color: #ea7500;
+	font-weight: bold;
+	font-size: 13px;
+}
+a.nav:hover
+{ 
+	color: #FFF;
+    border-bottom: 1px dashed #ea7500;
+}
+/* Tables should show empty cells. */
+table
+{
+	empty-cells: show;
+}
+/* By default (td, body..) use verdana in black. */
+body, td, th , tr
+{
+	color: #FFFFFF;
+	font-size: small;
+	font-family: verdana, sans-serif;
+}
+/* The main body of the entire forum. */
+body 
+{	
+	background: url(images/fade.jpg) repeat-x;
+    background-color: #333;
+	margin: 0px;
+	padding: 0px;
+}
+/* Input boxes - just a bit smaller than normal so they align well. */
+input, textarea, button
+{
+	background: #333333;
+	border: 1px solid #000000;
+	color: white;
+	font-family: verdana, helvetica, sans-serif;
+	font-size: 10px;
+}
+input, button
+{
+	font-size: 90%;
+}
+textarea
+{
+	font-size: 100%;
+	color: #FFFFFF;
+	font-family: verdana, sans-serif;
+}
+/* All input elements that are checkboxes or radio buttons. */
+input.check
+{
+}
+/* Selects are a bit smaller, because it makes them look even better 8). */
+select
+{
+	background: #3d3d3d;
+	border: 1px solid #000000;
+	color: white;
+	font-family: verdana, helvetica, sans-serif;
+	font-size: 10px;
+	margin: 5px;
+	padding: 2px;
+}
+/* Standard horizontal rule.. ([hr], etc.) */
+hr, .hrcolor
+{
+        height: 1px;
+        border: 0;
+        color: #666666;
+        background-color: #666666;
+}
+/* A quote, perhaps from another post. */
+.quote
+{
+        background-color: #505050;
+        color: #d0d0ff;
+        border: 1px solid #808080;
+        border-left: 5px solid #a0a0a0;
+        margin: 0px;
+        padding: 5px;
+        font-size: x-small;
+}
+/* A code block - maybe even PHP ;). */
+.code
+{
+        color: #f0f0f0;
+        background-color: #303038;
+        border: 1px solid #808080;
+        border-left: 5px solid #a0a0a0;
+        margin: 0px;
+        padding: 5px;
+        font-size: x-small;
+        font-family: "courier new", helvetica, "times new roman", serif;
+        width: 99%;
+        white-space: nowrap;
+        overflow: auto;
+}
+/* The "Quote:" and "Code:" header parts... */
+.quoteheader, .codeheader
+{
+        color: #e0e0e0;
+        text-decoration: none;
+        font-style: normal;
+        font-weight: bold;
+        font-size: x-small;
+}
+/* Generally, those [?] icons.  This makes your cursor a help icon. */
+.help
+{
+	cursor: help;
+}
+/* /me uses this a lot. (emote, try typing /me in a post.) */
+.meaction
+{
+	color: #FF0000;
+}
+/* The main post box - this makes it as wide as possible. */
+.editor
+{
+	width: 96%;
+}
+/* Highlighted text - such as search results. */
+.highlight
+{
+	background-color: #FFF000;
+	font-weight: bold;
+	color: #000;
+}
+/* Alternating backgrounds for posts, and several other sections of the forum. */
+.windowbg
+{
+	color: #f3ecdd;
+	background-color: #3a3e42;
+	font-family: "Trebuchet MS",verdana, sans-serif;
+}
+.windowbg2
+{
+	color: #d4d8dc;
+	background-color: #3b4248;
+	font-family: "Trebuchet MS",verdana, sans-serif;
+}
+.windowbg3
+{
+	color: white;
+	background-color: #3d3d3d;
+}
+/* the today container in calendar */
+.calendar_today
+{
+	background-color: #333;
+    color: #ea7500;
+    font-weight: bold;
+}
+/* These are used primarily for titles, but also for headers (the row that says what everything in the table is.) */
+.titlebg, tr.titlebg th, tr.titlebg td, .titlebg2, tr.titlebg2 th, tr.titlebg2 td
+{
+	font-weight: bold;
+	font-style: normal;
+	color: #ffffff;
+	background-color: #6e94b7;
+	background-image: url(images/catbg.gif);
+	background-repeat: x-repeat;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.titlebg, .titlebg a:link, .titlebg a:visited
+{
+	font-weight: bold;
+	color: #FFF;
+	font-style: normal;
+}
+.titlebg a:hover
+{
+	color: #FFF;
+	text-decoration: underline;
+}
+/* same as titlebg, but used where bold text is not needed */
+.titlebg2 a:link, .titlebg2 a:visited
+{
+	color: #FFF;
+	font-style: normal;
+	text-decoration: underline;
+}
+.titlebg2 a:hover
+{
+	text-decoration: underline;
+}
+/* This is used for categories, page indexes, and several other areas in the forum.
+.catbg and .catbg2 is for boardindex, while .catbg3 is for messageindex and display headers*/
+.catbg , tr.catbg td , .catbg3 , tr.catbg3 td
+{
+	font-weight: bold;
+	background-color: transparent;
+	background-image: url(images/catbg.jpg);
+	background-repeat: x-repeat;
+	color: #FFF;
+	height: 17px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.catbg2 , tr.catbg2 td
+{
+	background-image: url(images/catbg.jpg);
+	background-color: #A1BFD9;
+	color: #FFF;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.catbg, .catbg2, .catbg3
+{
+	background-repeat: repeat-x;
+}
+.catbg, .catbg2
+{
+	font-weight: bold;
+}
+.catbg3, tr.catbg3 td, .catbg3 a:link, .catbg3 a:visited
+{
+	font-size: 95%;
+	color: #FFF;
+	text-decoration: none;
+}
+.catbg a:link, .catbg a:visited , .catbg2 a:link, .catbg2 a:visited
+{
+	color: #FFF;
+	text-decoration: none;
+}
+.catbg a:hover, .catbg2 a:hover, .catbg3 a:hover
+{
+	color: #e0e0ff;
+}
+/* This is used for tables that have a grid/border background color (such as the topic listing.) */
+.bordercolor
+{
+	background-color: #696464;
+	padding: 0px;
+}
+/* This is used on tables that should just have a border around them. */
+.tborder
+{
+	padding: 1px;
+	border: 1px solid #696969;
+	border: 1px solid #696464;
+}
+/* Default font sizes: small (8pt), normal (10pt), and large (14pt). */
+.smalltext
+{
+	font-size: x-small;
+	font-family: verdana, sans-serif;
+}
+.middletext
+{
+	font-size: 90%;
+}
+.normaltext
+{
+	font-size: small;
+}
+.largetext
+{
+	font-size: large;
+}
+/* Posts and personal messages displayed throughout the forum. */
+.post, .personalmessage
+{
+	width: 100%;
+	overflow: auto;
+	line-height: 1.3em;
+}
+/* All the signatures used in the forum.  If your forum users use Mozilla, Opera, or Safari, you might add max-height here ;). */
+.signature
+{
+	width: 100%;
+	overflow: auto;
+	padding-bottom: 3px;
+	line-height: 1.3em;
+}
+/* Sometimes there will be an error when you post */
+.error{
+color: #FF0000;
+}
+/* ~~~~~~~~~ BLACKRAIN MAIN MENU ~~~~~~~~~ */
+#tabs6 {
+position: relative;
+top: -8px;
+left: -40px;
+width: 99%
+font-size:93%;
+margin: auto;
+line-height:normal;
+height: 44px;
+}
+#tabs6 ul {
+margin:0;
+padding:10px 10px 0 50px;
+list-style:none;
+}
+#tabs6 li {
+display:inline;
+margin:0;
+padding:0;
+}
+#tabs6 a {
+float:left;
+background:url(images/tableft6.gif) no-repeat left top;
+margin:0;
+padding:0 0 0 4px;
+text-decoration:none;
+}
+#tabs6 a span {
+float:left;
+display:block;
+background:url(images/tabright6.gif) no-repeat right top;
+padding:5px 15px 4px 6px;
+color:#FFF;
+}
+/* Commented Backslash Hack hides rule from IE5-Mac \*/
+#tabs6 a span {float:none;}
+
+/* End IE5-Mac hack */
+#tabs6 a:hover span {
+color:#ea7500;
+}
+#tabs6 a:hover {
+background-position:0% -42px;
+}
+#tabs6 a:hover span {
+background-position:100% -42px;
+}
+/* TP specific classes */
+.sitemap{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.sitemap_topheader{
+	background: #333;
+	border-bottom: solid 1px #444;
+	padding: 4px;
+}
+.sitemap_header{
+	background: #333;
+	border-bottom: solid 1px #444;
+	padding: 4px;
+	display: block;
+	font-weight: bold;
+ }
+.sitemap_header_active{
+	background: #606060;
+	border-bottom: solid 1px #000;
+	padding: 4px;
+	display: block;
+	font-weight: bold;
+}
+.sitemap_header:hover , .sitemap_header_active:hover{
+	background: #404040;
+	border-bottom: solid 1px #444;
+	padding: 4px;
+	display: block;
+	text-decoration: none;
+}
+/* TP other styles */
+ul#articlelist
+{
+	margin: 0;
+	padding: 0.5ex 0;
+	list-style: none;
+}
+ul#catlist
+{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	border-top: solid 1px #d0d0d0;
+}
+ul#articlelist li
+{
+	margin: 0;
+	display: block;
+	padding: 0 0 0 3ex;
+	background: url(images/divider.gif) no-repeat 5px 3px;
+}
+ul#catlist li
+{
+	display: block;
+	padding: 0 0 0 3ex;
+	margin: 0;
+}
+/* TP rss feed styles */
+.rss_title{
+ font-weight: bold;
+}
+.rss_body{
+	margin-bottom: 1ex;
+}
+.rss_image{
+	margin: 4px 0 4px 0;
+}
+/* The AJAX notifier */
+#ajax_in_progress
+{
+	background: #333;
+	color: #FFF;
+	text-align: center;
+	font-weight: bold;
+	font-size: 18pt;
+	padding: 3px;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+}

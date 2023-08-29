@@ -43,7 +43,7 @@
 
 | Site | Source | Discord |
 | --- | --- | --- |
-| ![](https://raw.githubusercontent.com/q2community/.github/main/profile/images/ddc_anim1.gif) - [D-Day Dev Central](http://www.ddaydev.com/site/index.php) <br /> ![](https://raw.githubusercontent.com/q2community/.github/main/profile/images/dday.gif) - [D-Day Archives](http://www.quakewiki.net/archives/dday.planetquake.gamespy.com/site/)  <br /> ![](https://raw.githubusercontent.com/q2community/.github/main/profile/images/french.gif) - [D-Day Francophone](https://ddaynormandy.forumactif.fr/) | | | ![](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true) - [DDay: Normandy Discord](https://discord.gg/Xkpct32)
+| ![](https://raw.githubusercontent.com/q2community/.github/main/profile/images/ddc_anim1.gif) - [D-Day Dev Central](http://www.ddaydev.com/site/index.php) <br /> ![](https://raw.githubusercontent.com/q2community/.github/main/profile/images/dday.gif) - [D-Day Archives](http://www.quakewiki.net/archives/dday.planetquake.gamespy.com/site/)  <br /> ![](https://raw.githubusercontent.com/q2community/.github/main/profile/images/french.gif) - [D-Day Francophone](https://ddaynormandy.forumactif.fr/) | | ![](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true) [](https://discord.gg/Xkpct32)
 
 
 ### Digital Paintball 2
@@ -124,38 +124,47 @@
 ### Expert CTF
 | Description |
 | --- |
-| DescribeMyMod
+| Start with all weapons. Ammo and health auto regenerate. Railgun is 3 shot burst laser cannon. Strafe jump removed can only move as fast as hook speed.
 
 | Site | Source | Discord |
 | --- | --- | --- |
-| - | - | [![Q2RRR Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/3udM8Vz)
+| - | :octocat:https://github.com/QwazyWabbitWOS/expertctf | [![Q2RRR Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/mnA4Aew)
+
+### LMCTF
+| Description |
+| --- |
+| Capture the flag mod like classic q2ctf all weapons items armor power ups main difference is the grappling hook is off hand bind key +hook LMCTF community has a very large custom community made map selection runs weekly pick up games and seasonal tournaments.
+
+| Site | Source | Discord |
+| --- | --- | --- |
+[LMCTF](http://lmctf.com/) <br /> [LMCTF Wiki](http://lmctf.wikidot.com/) | :octocat:https://github.com/QwazyWabbitWOS/lmctf60 | [![Q2RRR Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/3udM8Vz)
 
 ### LFire CTF
 | Description |
 | --- |
-| DescribeMyMod
+| Classic threewave CTF 
 
 | Site | Source | Discord |
 | --- | --- | --- |
-| - | - | [![Q2RRR Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/3udM8Vz)
+| | | [![NA Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/jzNs4FPjQQ) <br /> [![EU Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/ekfP8AM)
 
 ### Railwarz CTF
 | Description |
 | --- |
-| DescribeMyMod
+| Railwarz CTF is “the fastest mod you’ll ever play". Railwarz is instagib Capture the flag mod with lazer hook can also be FFA instagib. Start with Railgun only infinite ammo and refire reload rate twice as fast as traditional Quake2
 
 | Site | Source | Discord |
 | --- | --- | --- |
-| - | - | [![Q2RRR Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/3udM8Vz)
+|  <br /> ![Donde](https://dondeq2.com/2017/07/29/what-is-railwarz-by-skills/) <br /> ![Donde](https://dondeq2.com/2017/06/06/skills-theory-on-q2ctf-railwarz/) | :octocat:https://github.com/QwazyWabbitWOS/tmg | [![Quake 2 Railwarz Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/eKHVKfevbE)
 
 ### Weapons Factory CTF
 | Description |
 | --- |
-| DescribeMyMod
+| Weapons factory is Capture the Flag with a class system like Team Fortress 
 
 | Site | Source | Discord |
 | --- | --- | --- |
-| - | - | [![Q2RRR Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/3udM8Vz)
+| - | - | [![Quake 2 WF Revival Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/N8VHHmwFgh) <br /> [![Planet iCE WF Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/KrGY2pr)
 
 ## Weapons Mods
 

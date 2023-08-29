@@ -1,0 +1,1026 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="description" content="It has begun!" />
+	<meta name="robots" content="noindex" />
+	<meta name="keywords" content="railwarz, tmg, tmg railwarz, quake 2, quake2, ctf, q2, q2 ctf, quake II, games" />
+	<script language="JavaScript" type="text/javascript" src="http://railwarz.com/forum/Themes/default/script.js?fin11"></script>
+	<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+		var smf_theme_url = "http://railwarz.com/forum/Themes/BlackRain11fin";
+		var smf_images_url = "http://railwarz.com/forum/Themes/BlackRain11fin/images";
+		var smf_scripturl = "http://railwarz.com/forum/index.php";
+		var smf_iso_case_folding = false;
+		var smf_charset = "UTF-8";
+	// ]]></script>
+	<title>railwarz.com</title>
+	<link rel="stylesheet" type="text/css" href="http://railwarz.com/forum/Themes/BlackRain11fin/style.css?fin11" />
+	<link rel="stylesheet" type="text/css" href="http://railwarz.com/forum/Themes/default/print.css?fin11" media="print" />
+	<link rel="help" href="http://railwarz.com/forum/index.php?action=help" target="_blank" />
+	<link rel="search" href="http://railwarz.com/forum/index.php?action=search" />
+	<link rel="contents" href="http://railwarz.com/forum/index.php" />
+	<link rel="alternate" type="application/rss+xml" title="railwarz.com - RSS" href="http://railwarz.com/forum/index.php?type=rss;action=.xml" />
+	<link rel="prev" href="http://railwarz.com/forum/index.php?topic=96.0;prev_next=prev" />
+	<link rel="next" href="http://railwarz.com/forum/index.php?topic=96.0;prev_next=next" />
+	<link rel="index" href="http://railwarz.com/forum/index.php?board=1.0" />
+		<script type="text/javascript" language="JavaScript" src="http://railwarz.com/forum/mobiquo/tapatalkdetect.js"></script>
+		<script type="text/javascript" language="JavaScript" src="http://railwarz.com/forum/mobiquo/tapatalkdetect.js"></script>
+		<script type="text/javascript" language="JavaScript" src="http://railwarz.com/forum/mobiquo/tapatalkdetect.js"></script>
+		<script type="text/javascript" language="JavaScript" src="http://railwarz.com/forum/mobiquo/tapatalkdetect.js"></script><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+	<script language="javascript" type="text/javascript">
+		var currentSwapArticle = true;
+		function swapOptionsArticle(one)
+		{
+				document.getElementById(one).style.display = currentSwapArticle ? "" : "none";
+                 document.getElementById("articleUpshrink").src = smf_images_url + ( currentSwapArticle ? "/upshrink.gif" : "/upshrink2.gif");
+				currentSwapArticle = !currentSwapArticle;
+		}
+	</script>
+        <script language="JavaScript" type="text/javascript">
+                var current_leftbar = false;
+                function shrinkHeaderLeftbar(mode)
+                {
+                        document.cookie = "upshrink=" + (mode ? 1 : 0);
+                        document.getElementById("upshrinkLeftbar").src = smf_images_url + (mode ? "/upshrink2.gif" : "/upshrink.gif");
+                        document.getElementById("leftbarHeader").style.display = mode ? "none" : "";
+                        current_leftbar = mode;
+                }
+         // --></script>
+        <script language="JavaScript" type="text/javascript"><!--
+                var current_rightbar = false;
+                function shrinkHeaderRightbar(mode)
+                {
+                        document.cookie = "upshrink=" + (mode ? 1 : 0);
+                        document.getElementById("upshrinkRightbar").src = smf_images_url + (mode ? "/upshrink2.gif" : "/upshrink.gif");
+                        document.getElementById("rightbarHeader").style.display = mode ? "none" : "";
+                        current_rightbar = mode;
+                }
+       // --></script>
+	<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+		var current_header = false;
+
+		function shrinkHeader(mode)
+		{
+			document.cookie = "upshrink=" + (mode ? 1 : 0);
+			document.getElementById("upshrink").src = smf_images_url + (mode ? "/upshrink2.gif" : "/upshrink.gif");
+
+			document.getElementById("upshrinkHeader").style.display = mode ? "none" : "";
+			document.getElementById("upshrinkHeader2").style.display = mode ? "none" : "";
+
+			current_header = mode;
+		}
+	// ]]></script>
+		<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+			var current_header_ic = false;
+
+			function shrinkHeaderIC(mode)
+			{
+				document.cookie = "upshrinkIC=" + (mode ? 1 : 0);
+				document.getElementById("upshrink_ic").src = smf_images_url + (mode ? "/expand.gif" : "/collapse.gif");
+
+				document.getElementById("upshrinkHeaderIC").style.display = mode ? "none" : "";
+
+				current_header_ic = mode;
+			}
+		// ]]></script>
+</head>
+<body>
+	<div id="wrap">
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td>
+				<a href="index.php"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/rwzlogo.gif" style="text-align: center;" title="railwarz.com" alt="railwarz.com" /></a>
+				</td>
+			</tr>
+		</table>
+	<div class="tborder" >
+		<table width="100%" cellpadding="0" cellspacing="0" border="0" >
+			<tr>
+				<td class="titlebg2" height="32" align="right">
+					<span class="smalltext">June 20, 2013, 06:01:03 PM</span>
+					<a href="#" onclick="shrinkHeader(!current_header); return false;"><img id="upshrink" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/upshrink.gif" alt="*" title="Shrink or expand the header." align="bottom" style="margin: 0 1ex;" /></a>
+				</td>
+			</tr>
+			<tr id="upshrinkHeader">
+				<td valign="top" colspan="2">
+					<table width="100%" class="bordercolor" cellpadding="8" cellspacing="1" border="0" style="margin-top: 1px;">
+						<tr>
+							<td colspan="2" width="100%" valign="top" class="windowbg2"><span class="middletext">Welcome, <b>Guest</b>. Please <a href="http://railwarz.com/forum/index.php?action=login">login</a> or <a href="http://railwarz.com/forum/index.php?action=register">register</a>.<br />Did you miss your <a href="http://railwarz.com/forum/index.php?action=activate">activation email?</a>				</span>	
+								<script language="JavaScript" type="text/javascript" src="http://railwarz.com/forum/Themes/default/sha1.js"></script>
+
+								<form action="http://railwarz.com/forum/index.php?action=login2" method="post" accept-charset="UTF-8" class="middletext" style="margin: 3px 1ex 1px 0;" onsubmit="hashLoginPassword(this, '36f1e2db0e0679f84ce64ecd8c88e889');">
+									<input type="text" name="user" size="10" /> <input type="password" name="passwrd" size="10" />
+									<select name="cookielength">
+										<option value="60">1 Hour</option>
+										<option value="1440">1 Day</option>
+										<option value="10080">1 Week</option>
+										<option value="43200">1 Month</option>
+										<option value="-1" selected="selected">Forever</option>
+									</select>
+									<input type="submit" value="Login" /><br />
+									<span class="middletext">Login with username, password and session length</span>
+									<input type="hidden" name="hash_passwrd" value="" />
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<table id="upshrinkHeader2" width="100%" cellpadding="4" cellspacing="0" border="0">
+			<tr>
+				<td class="titlebg2" align="right" nowrap="nowrap" valign="top">
+				<form action="http://railwarz.com/forum/index.php?action=search2" method="post" accept-charset="UTF-8" style="margin: 0;">	
+						<a href="http://railwarz.com/forum/index.php?action=search;advanced"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/filter.gif" align="middle" style="margin: 0 1ex;" alt="" /></a>
+						<input type="text" name="search" value="" style="width: 190px;" />&nbsp;
+						<input type="submit" name="submit" value="Search" style="width: 11ex;" />
+						<input type="hidden" name="advanced" value="0" />
+						<input type="hidden" name="topic" value="96" />
+					</form>
+				</td>
+			</tr>
+		</table>
+
+	</div><div id="tabs6"><ul><li><a href="http://railwarz.com/forum/index.php"><span>Home</span></a></li><li><a href="http://railwarz.com/forum/index.php?action=forum"><span>Forum</span></a></li><li><a href="http://railwarz.com/forum/index.php?action=help" ><span>Help</span></a></li><li><a href="http://railwarz.com/forum/index.php?action=search"><span>Search</span></a></li><li><a href="http://railwarz.com/forum/index.php?action=calendar"><span>Calendar</span></a></li><li><a href="http://railwarz.com/forum/index.php?action=login"><span>Login</span></a></li>
+			  <li><a href="http://railwarz.com/forum/index.php?action=register"><span>Register</span></a></li><a href="#" onclick="shrinkHeaderLeftbar(!current_leftbar); return false;"><img id="upshrinkLeftbar" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/upshrink.gif" alt="*" title="Shrink or expand the header." style="margin: 2px 0;" border="0" /></a><img id="upshrinkTempLeftbar" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/blank.gif" alt="" style="margin-right: 0ex;" /><a href="#" onclick="shrinkHeaderRightbar(!current_rightbar); return false;"><img id="upshrinkRightbar" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/upshrink.gif" alt="*" title="Shrink or expand the header." style="margin: 2px 0;" border="0" /></a><img id="upshrinkTempRightbar" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/blank.gif" alt="" style="margin-right: 0ex;" /></ul></div><div id="bodyarea" style="padding: 10px 8px 0px 8px;">
+        <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td width="170" style="padding: 4px; background-color: transparent; padding-top: 4px;" valign="top">
+                 <div id="leftbarHeader" style="padding-top: 5px; width: 170px;"><div class="tborder" style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('3'); return false"><img id="blockcollapse3" style="margin: 0;" align="right" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/collapse.gif" border="0" alt="" /></a><a href="http://railwarz.com/forum/index.php?action=search">Search</a>
+		</div>
+		<div class="windowbg" style="padding:4px; " id="block3">
+	<form  accept-charset="UTF-8" action="http://railwarz.com/forum/index.php?action=search2" method="post" style="padding: 0; text-align: center; margin: 0; margin-bottom: 5px;">
+		<br /><input type="text" name="search" value="" style="width: 85%;" /><br />
+		<input type="submit" name="submit" value="Search" style="width: 90%; margin: 4px;" /><br /><span class="smalltext">
+		<a href="http://railwarz.com/forum/index.php?action=search;advanced">Advanced search</a></span>
+		<input type="hidden" name="advanced" value="0" />
+	</form></div></div><div style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;">Links
+		</div>
+		<div style="padding:0px; " id="block16"><br /><div align="center"><a href="http://acmectf.com/acme"><img src="acmelnk.png" title="Home of ACMECTF!" border="0"></a><br><br><br><div align="center"><a href="http://railwarz.com/forum/index.php?topic=35.0m">Link to Us!</a><br></div></div><br /><br /><br /><br /><br /></div></div><div class="tborder" style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('9'); return false"><img id="blockcollapse9" style="margin: 0;" align="right" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/collapse.gif" border="0" alt="" /></a><a href="http://railwarz.com/forum/index.php?action=stats">Stats</a>
+		</div>
+		<div class="windowbg" style="padding:4px; " id="block9"><div class="smalltext" style="font-family: verdana, arial, sans-serif;">
+                 <img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/icons/members.gif" style="margin: 0;" align="bottom" alt="" />
+                 <a href="http://railwarz.com/forum/index.php?action=mlist"><b>Members</b></a>
+                 <br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Total Members: 171
+                 <br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Latest: <a href="http://railwarz.com/forum/index.php?action=profile;u=397"><b>wingmman89</b></a>
+                  <hr /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/icons/info.gif" style="margin: 0;" align="bottom" alt="" />
+                 <a href="http://railwarz.com/forum/index.php?action=stats"><b>Stats</b></a>
+                 <br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Total Posts: 1833
+				  <br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Total Topics: 217
+				  <br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Online Today: 6
+				  <br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Online Ever: 79<br />
+					  (March 28, 2011, 08:08:24 PM)
+				  <hr /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/icons/online.gif" style="margin: 0;" align="bottom" alt="" />
+                 <a href="http://railwarz.com/forum/index.php?action=who"><b>Users Online</b></a><br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Users: 0<br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Guests: 3<br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Total: 3<hr />
+			<div style="width: 100%; "></div></div></div></div>
+			<script language="Javascript" type="text/javascript">
+				function toggle( targetId )
+				{
+					var state = 0;
+					var blockname = "block" + targetId;
+					var blockimage = "blockcollapse" + targetId;
+
+					if ( document.getElementById ) {
+						target = document.getElementById( blockname );
+						if ( target.style.display == "none" ) {
+							target.style.display = "";
+							state = 1;
+						}
+						else {
+							target.style.display = "none";
+							state = 0;
+						}
+
+						document.getElementById( blockimage ).src = smf_images_url + (state ? "/collapse.gif" : "/expand.gif");
+						var tempImage = new Image();
+						tempImage.src = "http://railwarz.com/forum/index.php?action=tpmod;upshrink=" + targetId + ";state=" + state + ";" + (new Date().getTime());
+
+					}
+				}
+			</script></div></td><td width="100%" align="left" valign="top" style="padding-top: 10px; padding-bottom: 10px;"><div><div class="tborder" style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('11'); return false"><img id="blockcollapse11" style="margin: 0;" align="right" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/collapse.gif" border="0" alt="" /></a>Articles
+		</div>
+		<div class="windowbg" style="padding:4px; " id="block11"><div class="smalltext" ><b><a href="http://railwarz.com/forum/index.php?page=8">TMG Project Moves to GoogleCode</a></b> by <a href="http://railwarz.com/forum/index.php?action=profile;u=3">greider</a><br /></div></div></div>
+			<script language="Javascript" type="text/javascript">
+				function toggle( targetId )
+				{
+					var state = 0;
+					var blockname = "block" + targetId;
+					var blockimage = "blockcollapse" + targetId;
+
+					if ( document.getElementById ) {
+						target = document.getElementById( blockname );
+						if ( target.style.display == "none" ) {
+							target.style.display = "";
+							state = 1;
+						}
+						else {
+							target.style.display = "none";
+							state = 0;
+						}
+
+						document.getElementById( blockimage ).src = smf_images_url + (state ? "/collapse.gif" : "/expand.gif");
+						var tempImage = new Image();
+						tempImage.src = "http://railwarz.com/forum/index.php?action=tpmod;upshrink=" + targetId + ";state=" + state + ";" + (new Date().getTime());
+
+					}
+				}
+			</script></div>
+<a name="top"></a>
+<a name="msg923"></a>
+<div><div class="nav" style="font-size: smaller; margin-bottom: 2ex; margin-top: -1ex;"><b><a href="http://railwarz.com/forum/index.php" class="nav">railwarz.com</a></b>&nbsp;/&nbsp;<b><a href="http://railwarz.com/forum/index.php?action=forum" class="nav">Forum</a></b>&nbsp;/&nbsp;<b><a href="http://railwarz.com/forum/index.php?action=forum#1" class="nav">General Category</a></b>&nbsp;/&nbsp;<b><a href="http://railwarz.com/forum/index.php?board=1.0" class="nav">General</a></b>&nbsp;/&nbsp;<b><a href="http://railwarz.com/forum/index.php?topic=96.0" class="nav">It has begun!</a></b></div></div>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td class="middletext" valign="bottom" style="padding-bottom: 4px;">Pages: [<b>1</b>]   &nbsp;&nbsp;<a href="#lastPost"><b>Go Down</b></a></td>
+		<td align="right" style="padding-right: 1ex;">
+			<div class="nav" style="margin-bottom: 2px;"> <a href="http://railwarz.com/forum/index.php?topic=96.0;prev_next=prev#new">&laquo; previous</a> <a href="http://railwarz.com/forum/index.php?topic=96.0;prev_next=next#new">next &raquo;</a></div>
+			<table cellpadding="0" cellspacing="0">
+				<tr>
+					
+		<td ><a href="http://railwarz.com/forum/index.php?action=printpage;topic=96.0" target="_blank"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/english/print.gif" alt="Print" border="0" /></a></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<table width="100%" cellpadding="3" cellspacing="0" border="0" class="tborder" style="border-bottom: 0;">
+		<tr class="catbg3">
+				<td valign="middle" width="2%" style="padding-left: 6px;">
+						<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/topic/normal_post.gif" align="bottom" alt="" />
+				</td>
+				<td width="13%"> Author</td>
+				<td valign="middle" width="85%" style="padding-left: 6px;" id="top_subject">
+						Topic: It has begun! &nbsp;(Read 2642 times)
+				</td>
+		</tr>
+		<tr>
+				<td colspan="3" class="smalltext">0 Members and 1 Guest are viewing this topic.
+				</td>
+		</tr>
+</table>
+<form action="http://railwarz.com/forum/index.php?action=quickmod2;topic=96.0" method="post" accept-charset="UTF-8" name="quickModForm" id="quickModForm" style="margin: 0;" onsubmit="return in_edit_mode == 1 ? modify_save('36f1e2db0e0679f84ce64ecd8c88e889') : confirm('Are you sure you want to do this?');">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="bordercolor">
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tr><td class="windowbg">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://railwarz.com/forum/index.php?action=profile;u=36" title="View the profile of ²smooth">²smooth</a></b>
+							<div class="smalltext">
+								Apprentice Hooker<br />
+								<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/star.gif" alt="*" border="0" /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/star.gif" alt="*" border="0" /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/star.gif" alt="*" border="0" /><br />
+								<br />
+								Karma: +12/-51<br />
+								<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/useroff.gif" alt="Offline" border="0" style="margin-top: 2px;" /><span class="smalltext"> Offline</span><br /><br />
+								Posts: 101<br />
+								<br />
+								
+								
+								
+								<br />
+								<a href="http://railwarz.com/forum/index.php?action=profile;u=36"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/icons/profile_sm.gif" alt="View Profile" title="View Profile" border="0" /></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tr>
+								<td valign="middle"><a href="http://railwarz.com/forum/index.php?topic=96.msg923#msg923"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/post/xx.gif" alt="" border="0" /></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_923">
+										<a href="http://railwarz.com/forum/index.php?topic=96.msg923#msg923">It has begun!</a>
+									</div>
+									<div class="smalltext">&#171; <b> on:</b> July 29, 2008, 09:08:25 PM &#187;</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></table>
+							<hr width="100%" size="1" class="hrcolor" />
+							<div class="post">Just when you thought it couldn&#039;t get any worse, a light shines through!<br />Ok cut the BS... Quake 4 IFT (Instagib Freeze Tag) is poppin! I know what ur thinking, ahh I played Q2 IFT... it was OK... actually it sucked (imo) but I am really enjoying playing it in Quake 4.<br /><br />Which leads me to my proposal:<br />Latin is already pwnage at game. I am getting better (1/6 games with top score) and me and latin were talking and would really like to play the mod with some old railerz (esp. from railwarz... yea u too lazy, u know u want to try it).<br /><br />We were thinkin of jes startin to play together for fun and mebi even turn it into a clan experience (ok if anyone knows me and latin u know we are going to compete against other ppl but i dont want to scare anyone off... we&#039;d love to play with ya even if its jes for fun).<br /><br />Please let me know if you&#039;re interested. I think it&#039;d be great. what do you think?<br /><br />(PS - If you were in a clan I led you get a free copy of Quake 4!)</div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_923">
+									&#171; <i>Last Edit: July 29, 2008, 10:23:43 PM by ²smooth</i> &#187;
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/ip.gif" alt="" border="0" />
+									Logged
+								</td>
+							</tr></table>
+						</td>
+					</tr>
+				</table>
+			</td></tr>
+		</table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg924"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tr><td class="windowbg2">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://railwarz.com/forum/index.php?action=profile;u=89" title="View the profile of LaTinKinG5">LaTinKinG5</a></b>
+							<div class="smalltext">
+								Newbie<br />
+								<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/star.gif" alt="*" border="0" /><br />
+								<br />
+								Karma: +0/-3<br />
+								<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/useroff.gif" alt="Offline" border="0" style="margin-top: 2px;" /><span class="smalltext"> Offline</span><br /><br />
+								Posts: 8<br />
+								<br />
+								
+								
+								
+								<br />
+								<a href="http://railwarz.com/forum/index.php?action=profile;u=89"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/icons/profile_sm.gif" alt="View Profile" title="View Profile" border="0" /></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tr>
+								<td valign="middle"><a href="http://railwarz.com/forum/index.php?topic=96.msg924#msg924"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/post/xx.gif" alt="" border="0" /></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_924">
+										<a href="http://railwarz.com/forum/index.php?topic=96.msg924#msg924">Re: It has begun!</a>
+									</div>
+									<div class="smalltext">&#171; <b>Reply #1 on:</b> July 29, 2008, 09:42:46 PM &#187;</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></table>
+							<hr width="100%" size="1" class="hrcolor" />
+							<div class="post">yep yep =)</div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_924">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/ip.gif" alt="" border="0" />
+									Logged
+								</td>
+							</tr></table>
+						</td>
+					</tr>
+				</table>
+			</td></tr>
+		</table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg925"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tr><td class="windowbg">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://railwarz.com/forum/index.php?action=profile;u=9" title="View the profile of wreck">wreck</a></b>
+							<div class="smalltext">
+								Playah<br />
+								<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/star.gif" alt="*" border="0" /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/star.gif" alt="*" border="0" /><br />
+								<br />
+								Karma: +13/-6<br />
+								<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/useroff.gif" alt="Offline" border="0" style="margin-top: 2px;" /><span class="smalltext"> Offline</span><br /><br />
+								Posts: 57<br />
+								<br />
+								<div style="overflow: auto; width: 100%;"><img src="http://railwarz.com/forum/index.php?action=dlattach;attach=13;type=avatar" alt="" class="avatar" border="0" /></div><br />
+								
+								
+								
+								<br />
+								<a href="http://railwarz.com/forum/index.php?action=profile;u=9"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/icons/profile_sm.gif" alt="View Profile" title="View Profile" border="0" /></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tr>
+								<td valign="middle"><a href="http://railwarz.com/forum/index.php?topic=96.msg925#msg925"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/post/xx.gif" alt="" border="0" /></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_925">
+										<a href="http://railwarz.com/forum/index.php?topic=96.msg925#msg925">Re: It has begun!</a>
+									</div>
+									<div class="smalltext">&#171; <b>Reply #2 on:</b> July 30, 2008, 08:39:34 AM &#187;</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></table>
+							<hr width="100%" size="1" class="hrcolor" />
+							<div class="post">I would have tried it, but you typed the word &#039;mebi&#039; - I can&#039;t be associated with such betrayings of language.&nbsp; <img src="http://railwarz.com/forum/Smileys/default/wink.gif" alt="Wink" border="0" /></div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_925">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/ip.gif" alt="" border="0" />
+									Logged
+								</td>
+							</tr></table>
+							<hr width="100%" size="1" class="hrcolor" />
+							<div class="signature"><a href="http://i149.photobucket.com/albums/s48/balinas/Fear.jpg" target="_blank">http://i149.photobucket.com/albums/s48/balinas/Fear.jpg</a></div>
+						</td>
+					</tr>
+				</table>
+			</td></tr>
+		</table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg927"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tr><td class="windowbg2">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://railwarz.com/forum/index.php?action=profile;u=55" title="View the profile of jiggynutzzz">jiggynutzzz</a></b>
+							<div class="smalltext">
+								Playah<br />
+								<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/star.gif" alt="*" border="0" /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/star.gif" alt="*" border="0" /><br />
+								<br />
+								Karma: +11/-12<br />
+								<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/useroff.gif" alt="Offline" border="0" style="margin-top: 2px;" /><span class="smalltext"> Offline</span><br /><br />
+								Posts: 53<br />
+								<br />
+								
+								
+								
+								<br />
+								<a href="http://railwarz.com/forum/index.php?action=profile;u=55"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/icons/profile_sm.gif" alt="View Profile" title="View Profile" border="0" /></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tr>
+								<td valign="middle"><a href="http://railwarz.com/forum/index.php?topic=96.msg927#msg927"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/post/xx.gif" alt="" border="0" /></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_927">
+										<a href="http://railwarz.com/forum/index.php?topic=96.msg927#msg927">Re: It has begun!</a>
+									</div>
+									<div class="smalltext">&#171; <b>Reply #3 on:</b> July 30, 2008, 05:10:58 PM &#187;</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></table>
+							<hr width="100%" size="1" class="hrcolor" />
+							<div class="post">where do i get this &quot;free&quot; copy?</div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_927">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/ip.gif" alt="" border="0" />
+									Logged
+								</td>
+							</tr></table>
+						</td>
+					</tr>
+				</table>
+			</td></tr>
+		</table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg934"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tr><td class="windowbg">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://railwarz.com/forum/index.php?action=profile;u=36" title="View the profile of ²smooth">²smooth</a></b>
+							<div class="smalltext">
+								Apprentice Hooker<br />
+								<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/star.gif" alt="*" border="0" /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/star.gif" alt="*" border="0" /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/star.gif" alt="*" border="0" /><br />
+								<br />
+								Karma: +12/-51<br />
+								<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/useroff.gif" alt="Offline" border="0" style="margin-top: 2px;" /><span class="smalltext"> Offline</span><br /><br />
+								Posts: 101<br />
+								<br />
+								
+								
+								
+								<br />
+								<a href="http://railwarz.com/forum/index.php?action=profile;u=36"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/icons/profile_sm.gif" alt="View Profile" title="View Profile" border="0" /></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tr>
+								<td valign="middle"><a href="http://railwarz.com/forum/index.php?topic=96.msg934#msg934"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/post/xx.gif" alt="" border="0" /></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_934">
+										<a href="http://railwarz.com/forum/index.php?topic=96.msg934#msg934">Re: It has begun!</a>
+									</div>
+									<div class="smalltext">&#171; <b>Reply #4 on:</b> July 31, 2008, 02:54:58 PM &#187;</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></table>
+							<hr width="100%" size="1" class="hrcolor" />
+							<div class="post">hit me up on aim. send me your address.</div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_934">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/ip.gif" alt="" border="0" />
+									Logged
+								</td>
+							</tr></table>
+						</td>
+					</tr>
+				</table>
+			</td></tr>
+		</table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg935"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tr><td class="windowbg2">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://railwarz.com/forum/index.php?action=profile;u=55" title="View the profile of jiggynutzzz">jiggynutzzz</a></b>
+							<div class="smalltext">
+								Playah<br />
+								<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/star.gif" alt="*" border="0" /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/star.gif" alt="*" border="0" /><br />
+								<br />
+								Karma: +11/-12<br />
+								<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/useroff.gif" alt="Offline" border="0" style="margin-top: 2px;" /><span class="smalltext"> Offline</span><br /><br />
+								Posts: 53<br />
+								<br />
+								
+								
+								
+								<br />
+								<a href="http://railwarz.com/forum/index.php?action=profile;u=55"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/icons/profile_sm.gif" alt="View Profile" title="View Profile" border="0" /></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tr>
+								<td valign="middle"><a href="http://railwarz.com/forum/index.php?topic=96.msg935#msg935"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/post/xx.gif" alt="" border="0" /></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_935">
+										<a href="http://railwarz.com/forum/index.php?topic=96.msg935#msg935">Re: It has begun!</a>
+									</div>
+									<div class="smalltext">&#171; <b>Reply #5 on:</b> July 31, 2008, 07:45:01 PM &#187;</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></table>
+							<hr width="100%" size="1" class="hrcolor" />
+							<div class="post">i&#039;ll do it in a couple weeks when i go back to school. </div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_935">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/ip.gif" alt="" border="0" />
+									Logged
+								</td>
+							</tr></table>
+						</td>
+					</tr>
+				</table>
+			</td></tr>
+		</table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg937"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tr><td class="windowbg">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://railwarz.com/forum/index.php?action=profile;u=23" title="View the profile of Frosty">Frosty</a></b>
+							<div class="smalltext">
+								Apprentice Hooker<br />
+								<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/star.gif" alt="*" border="0" /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/star.gif" alt="*" border="0" /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/star.gif" alt="*" border="0" /><br />
+								<br />
+								Karma: +15/-13<br />
+								<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/useroff.gif" alt="Offline" border="0" style="margin-top: 2px;" /><span class="smalltext"> Offline</span><br /><br />
+								Posts: 138<br />
+								<br />
+								<div style="overflow: auto; width: 100%;"><img src="http://princesse33.free.fr/dragon%20ice.jpg" width="130" height="130" alt="" class="avatar" border="0" /></div><br />
+								
+								
+								
+								<br />
+								<a href="http://railwarz.com/forum/index.php?action=profile;u=23"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/icons/profile_sm.gif" alt="View Profile" title="View Profile" border="0" /></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tr>
+								<td valign="middle"><a href="http://railwarz.com/forum/index.php?topic=96.msg937#msg937"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/post/xx.gif" alt="" border="0" /></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_937">
+										<a href="http://railwarz.com/forum/index.php?topic=96.msg937#msg937">Re: It has begun!</a>
+									</div>
+									<div class="smalltext">&#171; <b>Reply #6 on:</b> July 31, 2008, 11:43:09 PM &#187;</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></table>
+							<hr width="100%" size="1" class="hrcolor" />
+							<div class="post">i THINK i own this game you call.... quake4... ugh, blasphemy!</div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_937">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/ip.gif" alt="" border="0" />
+									Logged
+								</td>
+							</tr></table>
+							<hr width="100%" size="1" class="hrcolor" />
+							<div class="signature">freeze</div>
+						</td>
+					</tr>
+				</table>
+			</td></tr>
+		</table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg951"></a><a name="new"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tr><td class="windowbg2">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://railwarz.com/forum/index.php?action=profile;u=39" title="View the profile of night">night</a></b>
+							<div class="smalltext">
+								Newbie<br />
+								<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/star.gif" alt="*" border="0" /><br />
+								<br />
+								Karma: +4/-0<br />
+								<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/useroff.gif" alt="Offline" border="0" style="margin-top: 2px;" /><span class="smalltext"> Offline</span><br /><br />
+								Posts: 10<br />
+								<br />
+								
+								
+								
+								<br />
+								<a href="http://railwarz.com/forum/index.php?action=profile;u=39"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/icons/profile_sm.gif" alt="View Profile" title="View Profile" border="0" /></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tr>
+								<td valign="middle"><a href="http://railwarz.com/forum/index.php?topic=96.msg951#msg951"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/post/xx.gif" alt="" border="0" /></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_951">
+										<a href="http://railwarz.com/forum/index.php?topic=96.msg951#msg951">Re: It has begun!</a>
+									</div>
+									<div class="smalltext">&#171; <b>Reply #7 on:</b> August 16, 2008, 09:43:40 PM &#187;</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></table>
+							<hr width="100%" size="1" class="hrcolor" />
+							<div class="post">Got a spare CDKey? I lost mine =\</div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_951">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/ip.gif" alt="" border="0" />
+									Logged
+								</td>
+							</tr></table>
+						</td>
+					</tr>
+				</table>
+			</td></tr>
+		</table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg1673"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tr><td class="windowbg">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://railwarz.com/forum/index.php?action=profile;u=200" title="View the profile of Beaver">Beaver</a></b>
+							<div class="smalltext">
+								Apprentice Hooker<br />
+								<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/star.gif" alt="*" border="0" /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/star.gif" alt="*" border="0" /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/star.gif" alt="*" border="0" /><br />
+								<br />
+								Karma: +10/-24<br />
+								<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/useroff.gif" alt="Offline" border="0" style="margin-top: 2px;" /><span class="smalltext"> Offline</span><br /><br />
+								Posts: 134<br />
+								<br />
+								<div style="overflow: auto; width: 100%;"><img src="http://railwarz.com/forum/index.php?action=dlattach;attach=71;type=avatar" alt="" class="avatar" border="0" /></div><br />
+								
+								
+								
+								<br />
+								<a href="http://railwarz.com/forum/index.php?action=profile;u=200"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/icons/profile_sm.gif" alt="View Profile" title="View Profile" border="0" /></a>
+								<a href="http://www.fraggednation.com/standings/pc/quake-2/Railwarz-Insta-Gib-CTF-4v4-8790" title="Official RWZ 4v4 Tourney" target="_blank"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/www_sm.gif" alt="WWW" border="0" /></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tr>
+								<td valign="middle"><a href="http://railwarz.com/forum/index.php?topic=96.msg1673#msg1673"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/post/xx.gif" alt="" border="0" /></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_1673">
+										<a href="http://railwarz.com/forum/index.php?topic=96.msg1673#msg1673">Re: It has begun!</a>
+									</div>
+									<div class="smalltext">&#171; <b>Reply #8 on:</b> February 16, 2013, 03:26:43 PM &#187;</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></table>
+							<hr width="100%" size="1" class="hrcolor" />
+							<div class="post">do people play q4 still??<br /><br />i lost my two copies</div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_1673">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/ip.gif" alt="" border="0" />
+									Logged
+								</td>
+							</tr></table>
+							<hr width="100%" size="1" class="hrcolor" />
+							<div class="signature">Dont forget to sign up for the Official Railwarz 4v4 Ladder!<br />4 Teams of 4 = 16 players Max!<br /><a href="http://www.fraggednation.com/standings/pc/quake-2/Railwarz-Insta-Gib-CTF-4v4-8790" target="_blank">http://www.fraggednation.com/standings/pc/quake-2/Railwarz-Insta-Gib-CTF-4v4-8790</a><br /><br />-Join Railwarz Facebook! <a href="https://www.facebook.com/groups/TMGRailwarz/" target="_blank">https://www.facebook.com/groups/TMGRailwarz/</a></div>
+						</td>
+					</tr>
+				</table>
+			</td></tr>
+		</table>
+	</td></tr>
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<a name="msg1677"></a>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tr><td class="windowbg2">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tr>
+						<td valign="top" width="16%" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://railwarz.com/forum/index.php?action=profile;u=367" title="View the profile of mexicanolobo">mexicanolobo</a></b>
+							<div class="smalltext">
+								Newbie<br />
+								<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/star.gif" alt="*" border="0" /><br />
+								<br />
+								Karma: +0/-0<br />
+								<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/useroff.gif" alt="Offline" border="0" style="margin-top: 2px;" /><span class="smalltext"> Offline</span><br /><br />
+								Posts: 2<br />
+								<br />
+								
+								
+								
+								<br />
+								<a href="http://railwarz.com/forum/index.php?action=profile;u=367"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/icons/profile_sm.gif" alt="View Profile" title="View Profile" border="0" /></a>
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tr>
+								<td valign="middle"><a href="http://railwarz.com/forum/index.php?topic=96.msg1677#msg1677"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/post/xx.gif" alt="" border="0" /></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_1677">
+										<a href="http://railwarz.com/forum/index.php?topic=96.msg1677#msg1677">Re: It has begun!</a>
+									</div>
+									<div class="smalltext">&#171; <b>Reply #9 on:</b> February 16, 2013, 05:06:43 PM &#187;</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></table>
+							<hr width="100%" size="1" class="hrcolor" />
+							<div class="post">where do i sign up</div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_1677">
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/ip.gif" alt="" border="0" />
+									Logged
+								</td>
+							</tr></table>
+						</td>
+					</tr>
+				</table>
+			</td></tr>
+		</table>
+	</td></tr>
+	<tr><td style="padding: 0 0 1px 0;"></td></tr>
+</table>
+<a name="lastPost"></a>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td class="middletext">Pages: [<b>1</b>]   &nbsp;&nbsp;<a href="#top"><b>Go Up</b></a></td>
+		<td align="right" style="padding-right: 1ex;">
+			<table cellpadding="0" cellspacing="0">
+				<tr>
+					
+		<td ><a href="http://railwarz.com/forum/index.php?action=printpage;topic=96.0" target="_blank"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/english/print.gif" alt="Print" border="0" /></a></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<script language="JavaScript" type="text/javascript" src="http://railwarz.com/forum/Themes/default/spellcheck.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://railwarz.com/forum/Themes/default/xml_topic.js"></script>
+<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+	quickReplyCollapsed = true;
+
+	smf_topic = 96;
+	smf_start = 0;
+	smf_show_modify = 1;
+
+	// On quick modify, this is what the body will look like.
+	var smf_template_body_edit = '<div id="error_box" style="padding: 4px; color: red;"></div><textarea class="editor" name="message" rows="12" style="width: 94%; margin-bottom: 10px;">%body%</textarea><br /><input type="hidden" name="sc" value="36f1e2db0e0679f84ce64ecd8c88e889" /><input type="hidden" name="topic" value="96" /><input type="hidden" name="msg" value="%msg_id%" /><div style="text-align: center;"><input type="submit" name="post" value="Save" onclick="return modify_save(\'36f1e2db0e0679f84ce64ecd8c88e889\');" accesskey="s" />&nbsp;&nbsp;<input type="button" value="Spell Check" onclick="spellCheck(\'quickModForm\', \'message\');" />&nbsp;&nbsp;<input type="submit" name="cancel" value="Cancel" onclick="return modify_cancel();" /></div>';
+
+	// And this is the replacement for the subject.
+	var smf_template_subject_edit = '<input type="text" name="subject" value="%subject%" size="60" style="width: 99%;"  maxlength="80" />';
+
+	// Restore the message to this after editing.
+	var smf_template_body_normal = '%body%';
+	var smf_template_subject_normal = '<a href="http://railwarz.com/forum/index.php?topic=96.msg%msg_id%#msg%msg_id%">%subject%</a>';
+	var smf_template_top_subject = "Topic: %subject% &nbsp;(Read 2642 times)"
+
+	if (window.XMLHttpRequest)
+		showModifyButtons();
+// ]]></script>
+<table border="0" width="100%" cellpadding="0" cellspacing="0" style="margin-bottom: 1ex;">
+		<tr>
+				<td valign="top" align="right" class="nav"> <a href="http://railwarz.com/forum/index.php?topic=96.0;prev_next=prev#new">&laquo; previous</a> <a href="http://railwarz.com/forum/index.php?topic=96.0;prev_next=next#new">next &raquo;</a></td>
+		</tr>
+</table>
+	<table cellpadding="0" cellspacing="0" border="0" style="margin-left: 1ex;">
+		<tr>
+			
+		<td ></td>
+		</tr>
+	</table>
+</form>
+<div class="tborder"><div class="titlebg2" style="padding: 4px;" align="right">
+	<form action="http://railwarz.com/forum/index.php" method="get" accept-charset="UTF-8" style="padding:0; margin: 0;">
+		<span class="smalltext">Jump to:</span>
+		<select name="jumpto" id="jumpto" onchange="if (this.selectedIndex > 0 &amp;&amp; this.options[this.selectedIndex].value) window.location.href = smf_scripturl + this.options[this.selectedIndex].value.substr(smf_scripturl.indexOf('?') == -1 || this.options[this.selectedIndex].value.substr(0, 1) != '?' ? 0 : 1);">
+			<option value="">Please select a destination:</option>
+			<option value="" disabled="disabled">-----------------------------</option>
+			<option value="#1">General Category</option>
+			<option value="" disabled="disabled">-----------------------------</option>
+			<option value="?board=1.0" selected="selected"> => General</option>
+			<option value="?board=4.0"> => Off-Topic</option>
+			<option value="?board=3.0"> => Smack</option>
+			<option value="?board=5.0"> => Technical Support</option>
+			<option value="" disabled="disabled">-----------------------------</option>
+			<option value="#3">Competition</option>
+			<option value="" disabled="disabled">-----------------------------</option>
+			<option value="?board=6.0"> => Railwarz 2v2 Tournament</option>
+			<option value="?board=7.0"> => Challenges</option>
+			<option value="?board=8.0"> => The Beaver Cup</option>
+		</select>&nbsp;
+		<input type="button" value="go" onclick="if (this.form.jumpto.options[this.form.jumpto.selectedIndex].value) window.location.href = 'http://railwarz.com/forum/index.php' + this.form.jumpto.options[this.form.jumpto.selectedIndex].value;" />
+	</form>
+</div></div><br />
+<form action="http://railwarz.com/forum/index.php?action=spellcheck" method="post" accept-charset="UTF-8" name="spell_form" id="spell_form" target="spellWindow"><input type="hidden" name="spellstring" value="" /></form></td><td style="padding: 4px; background-color: transparent; padding-top: 4px;" valign="top" align="right">
+                 <div id="rightbarHeader" style="width: 170px; text-align: left; padding-top: 5px;"><div style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('17'); return false"><img id="blockcollapse17" style="margin: 0;" align="right" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/collapse.gif" border="0" alt="" /></a>IRC
+		</div>
+		<div style="padding:0px; " id="block17">
+	<div style="width: 100%; overflow: hidden;">&nbsp;&nbsp;<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider2.gif" alt="" />&nbsp;<a href="http://widget.mibbit.com/?settings=d663da10e4a1603356835cb54e3ec44f&server=irc.accessirc.net&channel=%23acme">#ACME IRC Chat</a><br />
+	</div></div></div><div class="tborder" style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('6'); return false"><img id="blockcollapse6" style="margin: 0;" align="right" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/collapse.gif" border="0" alt="" /></a><a href="http://railwarz.com/forum/index.php?action=tpmod;sa=shoutbox">ShoutBox!</a>
+		</div>
+		<div class="windowbg" style="padding:4px; " id="block6">
+				<table cellpadding="0" align="center" width="100%" cellspacing="0" style="table-layout: fixed;">
+					<tr><td><div class="smalltext" style="width: 99%; height: 240px; overflow: auto;">Last 5 Shouts:<hr /><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://railwarz.com/forum/index.php?action=profile;u=151">KiD</a></b></div><div style="padding: 2px;"> June 16, 2013, 05:44:09 PM</div><div style="padding: 4px;">3hours till mayhem!! Be on after my goons!</div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://railwarz.com/forum/index.php?action=profile;u=200">Beaver</a></b></div><div style="padding: 2px;"> June 04, 2013, 11:18:58 PM</div><div style="padding: 4px;">what a night! ggs big crowd for a tuesday! thanks for everyone who came out tonight!</div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://railwarz.com/forum/index.php?action=profile;u=395">Rowdypill</a></b></div><div style="padding: 2px;"> May 31, 2013, 08:03:07 PM</div><div style="padding: 4px;">I give up... Now I have a lot of random q2 files on my computer that don't go with each other<br /></div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://railwarz.com/forum/index.php?action=profile;u=395">Rowdypill</a></b></div><div style="padding: 2px;"> May 31, 2013, 07:00:56 PM</div><div style="padding: 4px;">I think I got it, but not downloading maps... i'll find your package<br /></div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://railwarz.com/forum/index.php?action=profile;u=1" style="color: #FF0000">WORM.</a></b></div><div style="padding: 2px;"> May 31, 2013, 11:17:03 AM</div><div style="padding: 4px;">r1q2 does not run on mac. beav posted some links to mac clients</div></div></div></td>
+					</tr>
+				</table>
+			<div style="text-align: center; margin-top: 5px; " class="smalltext"><a href="http://railwarz.com/forum/index.php?action=tpmod;sa=shoutbox;shouts=100">Show last 100</a></div>
+       <form  accept-charset="UTF-8" class="smalltext" style="padding: 0; margin: 0; margin-top: 8px; text-align: center;" name="tp-shoutbox" action="http://railwarz.com/forum/index.php?action=tpmod;id=shout" method="post"><input type="hidden" name="tp-shout-name" value="">
+             <input name="tp-shout-url" type="hidden" value="topic=96.msg951;topicseen"><input type="hidden" name="sc" value="36f1e2db0e0679f84ce64ecd8c88e889" />
+       </form></div></div><div class="tborder" style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('8'); return false"><img id="blockcollapse8" style="margin: 0;" align="right" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/collapse.gif" border="0" alt="" /></a>Recent
+		</div>
+		<div class="windowbg" style="padding:4px; " id="block8">
+	<div style="width: 100%; ">
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?topic=180.msg1908;topicseen#new">Great Games tonight!</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?action=profile;u=200">Beaver</a></b></div>
+		<div class="smalltext">[<b>Today</b> at 03:02:57 PM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?topic=230.msg1907;topicseen#new">2013 Screenshots</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?action=profile;u=200">Beaver</a></b></div>
+		<div class="smalltext">[June 18, 2013, 12:53:11 AM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?topic=172.msg1906;topicseen#new">Where can i d/l the mod!!...</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?action=profile;u=161">Petford</a></b></div>
+		<div class="smalltext">[June 15, 2013, 11:13:24 PM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?topic=235.msg1905;topicseen#new">Console Commands</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?action=profile;u=1">WORM.</a></b></div>
+		<div class="smalltext">[June 13, 2013, 10:34:44 AM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?topic=234.msg1900;topicseen#new">Q2 RW CTF on Mac</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?action=profile;u=200">Beaver</a></b></div>
+		<div class="smalltext">[June 08, 2013, 08:27:14 PM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?topic=95.msg1897;topicseen#new">CD VFL BBH... lol remembe...</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?action=profile;u=36">²smooth</a></b></div>
+		<div class="smalltext">[June 06, 2013, 05:03:36 PM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?topic=141.msg1896;topicseen#new">Facebook group/page</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?action=profile;u=200">Beaver</a></b></div>
+		<div class="smalltext">[June 06, 2013, 02:55:47 AM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?topic=229.msg1894;topicseen#new">A request for the players</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?action=profile;u=200">Beaver</a></b></div>
+		<div class="smalltext">[June 04, 2013, 12:32:29 AM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?topic=233.msg1892;topicseen#new">Drunk a beer, shot a rail</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?action=profile;u=200">Beaver</a></b></div>
+		<div class="smalltext">[June 03, 2013, 11:18:37 PM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?topic=232.msg1885;topicseen#new">Steam Railwarz group</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?action=profile;u=200">Beaver</a></b></div>
+		<div class="smalltext">[June 02, 2013, 12:22:39 PM]
+		</div>
+	</div></div></div>
+			<script language="Javascript" type="text/javascript">
+				function toggle( targetId )
+				{
+					var state = 0;
+					var blockname = "block" + targetId;
+					var blockimage = "blockcollapse" + targetId;
+
+					if ( document.getElementById ) {
+						target = document.getElementById( blockname );
+						if ( target.style.display == "none" ) {
+							target.style.display = "";
+							state = 1;
+						}
+						else {
+							target.style.display = "none";
+							state = 0;
+						}
+
+						document.getElementById( blockimage ).src = smf_images_url + (state ? "/collapse.gif" : "/expand.gif");
+						var tempImage = new Image();
+						tempImage.src = "http://railwarz.com/forum/index.php?action=tpmod;upshrink=" + targetId + ";state=" + state + ";" + (new Date().getTime());
+
+					}
+				}
+			</script></div></td></tr></table></div>
+	<div id="footerarea" style="text-align: center; padding-bottom: 1ex;">
+		<table cellspacing="0" cellpadding="3" border="0" align="center" width="100%">
+			<tr>
+				<td width="28%" valign="middle" align="left" class="copyright-links">
+					Theme by <a target="_blank" 
+href="mailto:crip@tinyportal.net?subject=BlackRain Theme!&amp;body=Hey Crip!"><span class="smalltext">Crip</a></span>
+				</td>
+				<td valign="middle" align="center" style="white-space: nowrap;" class="copyright-links">
+					
+		<span class="smalltext" style="display: inline; visibility: visible; font-family: Verdana, Arial, sans-serif;"><a href="http://www.simplemachines.org/" title="Simple Machines Forum" target="_blank">Powered by SMF 1.1.18</a> |
+<a href="http://www.simplemachines.org/about/copyright.php" title="Free Forum Software" target="_blank">SMF &copy; 2013, Simple Machines</a>
+		</span><br /><span class="smalltext">TinyPortal v0.9.8 &copy; <a href="http://www.tinyportal.net" target="_blank">Bloc</a></span>
+				</td>
+				<td width="28%" valign="middle" align="right" class="copyright-links">
+					<a href="http://www.mysql.com/" target="_blank" style="font-size:10px;">MySQL</a> | <a href="http://www.php.net/" target="_blank" style="font-size:10px;">PHP</a> | <a href="http://validator.w3.org/check/referer" target="_blank" style="font-size:10px;">XHTML</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank" style="font-size:10px;">CSS</a>
+				</td>
+			</tr>
+		</table><br />
+		<span class="smalltext">Page created in 0.186 seconds with 29 queries.</span>
+	</div>
+	<div id="ajax_in_progress" style="display: none;">Loading...</div>
+
+</body></html>

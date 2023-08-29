@@ -1,0 +1,852 @@
+<html>    <head>      <title>                Railwarz Community -> CALLING ALL RAILERS&#33;      </title>            
+<style type='text/css'>
+form { display:inline }
+
+TABLE, TR, TD { font-family: Verdana, Tahoma, Arial; font-size: 11px; color: #cccccc }
+
+a:link, a:visited, a:active { text-decoration: underline; color: #ff6600 }
+
+a:hover { color: #ffffff }
+
+
+
+#navbar  a:hover { text-decoration: none; color : #ffffff; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-weight: bold }
+
+
+
+#navbar  a:link, #navbar  a:active { text-decoration: none; color : #ff6600; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-weight: bold  }
+
+
+
+#navbar a:visited {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-weight: bold; text-decoration: none  }
+
+
+
+
+
+.hlight { background-color: #ff6600 }
+
+.dlight { background-color: #052b2b }
+
+.mainbg { background-color: #011414 }
+
+.mainfoot { background-color: #002222 }
+
+.forum1 { background-color: #052b2b }
+
+.forum2 { background-color: #052b2b }
+
+.post1 { background-color: #052b2b }
+
+.post2 { background-color: #052b2b }
+
+.posthead { background-color: #002222 }
+
+
+
+
+
+.postbak { background-color: #052b2b }
+
+.title { background-color: #002222 }
+
+.row1 { color: #769091; background-color: #052b2b }
+
+.row2 { background-color: #052b2b }
+
+.postsep { background-color: #011414; height: 1px }
+
+
+
+.signature { font-size: 7.5pt; color: #cccccc }
+
+.postdetails { font-size: 7.5pt }
+
+.postcolor, #postcolor { font-size: 11px; color: #cccccc; line-height: 140% }
+
+.membertitle { font-size: 10px; line-height: 150%; color: #ffffff }
+
+.normalname { font-size: 12px; font-weight: bold; color: #ffffff; padding-bottom: 2px }
+
+.normalname a:link, .normalname a:visited, .normalname a:active { text-decoration: underline; color: #ff6600; padding-bottom: 2px }
+
+.normalname a:hover { text-decoration: underline; color: #ffffff }
+
+.unreg { font-size: 11px; font-weight: bold; color: #990000 }
+
+.highlight { color: #FF0000 }
+
+.highlight a:link, .highlight a:visited, .highlight a:active { text-decoration: underline; color: #FF6600 }
+
+.highlight a:hover { text-decoration: underline; color: #ffffff }
+
+.desc { font-size: 7.5pt; color: #cccccc }
+
+.copyright { font-family: Verdana, Tahoma, Arial; font-size: 7.5pt; color: #cccccc; line-height: 12px }
+
+.category { font-size:10px; font-weight: bold; line-height: 150%; color: #cccccc; background-color: #002222 }
+
+.category   a:link, #category   a:visited, #category   a:active { text-decoration: none; color: #ff6600 }
+
+.postfoot         {
+
+
+
+    font-weight:bold;
+
+
+
+    color:#cccccc;
+
+
+
+    height: 24px;
+
+
+
+    background-color: #002222;
+
+
+
+}
+
+.titlefoot { font-weight: bold; color: #333333; height: 24px; background-color: #002222 }
+
+.titlemedium         {
+
+
+
+    font-weight:bold;
+
+    color:#cccccc;
+
+
+
+    height: 24px;
+
+
+
+    background-color: #002222;
+
+
+
+}
+
+.titlemedium  a:link,  .titlefoot  a:link, .titlemedium  a:visited, .titlefoot  a:visited, .titlemedium  a:active, .titlefoot  a:active { text-decoration: underline; color: #ff6600 }
+
+.titlemedium a:hover, .subtitle a:hover, .titlefoot a:hover { text-decoration: underline; color: #ffffff }
+
+.maintitle         {
+
+
+
+    font-weight:bold;
+
+    color:#FFFFFF;
+
+
+
+    font-size: 9pt;
+
+    
+
+    height: 24px;
+
+    
+
+    background-color: #011414;
+
+
+
+}
+
+.edit { font-size: 9px }
+
+.fancyborder { border: 1px dashed #011414 }
+
+.solidborder { border: 1px solid #011414 }
+
+.maintitle  a:link, .maintitle  a:visited, .maintitle  a:active { text-decoration: none; color: #ff6600 }
+
+.maintitle a:hover { text-decoration: underline }
+
+.nav { font-weight: bold; color: #cccccc; font-size: 8.5pt }
+
+.pagetitle { color: #ffffff; font-size: 18px; font-weight: bold; letter-spacing: -1px; line-height: 120% }
+
+.useroptions { background-color: #deff00; height: 25px; font-weight: bold; color: #FFFFFF }
+
+.useroptions a:link, .useroptions a:visited,.useroptions a:active { text-decoration: none; color: #ff6600 }
+
+.bottomborder { border-bottom: 1px dashed #011414 }
+
+.linkthru { color: #e6ffd5; font-size:8.5pt }
+
+.linkthru  a:link, .linkthru  a:active { text-decoration: underline; color: #ff6600 }
+
+.linkthru  a:visited { text-decoration: underline; color: #ff6600 }
+
+.linkthru  a:hover { text-decoration: underline; color: #ffffff }
+
+#QUOTE { font-family: Verdana, Arial; font-size: 8pt; color: #333333; background-color: #FAFCFE; border: 1px solid Black; padding-top: 2px; padding-right: 2px; padding-bottom: 2px; padding-left: 2px }
+
+#CODE { font-family: Verdana, Arial; font-size: 8pt; color: #333333; background-color: #FAFCFE; border: 1px solid Black; padding-top: 2px; padding-right: 2px; padding-bottom: 2px; padding-left: 2px }
+
+.codebuttons { font-size: 8pt; font-family: verdana, helvetica, sans-serif; vertical-align:middle; background-color: #607879;  border: solid 1px #000000; padding: 2;}
+
+.forminput { font-size: 7pt; font-family: verdana, helvetica, sans-serif; color: #cccccc; vertical-align:middle; background-color: #011414;  border: solid 1px #769091; padding: 2;}
+
+.textinput { font-size: 9pt; font-family: verdana, helvetica, sans-serif; color: #cccccc; vertical-align:middle; background-color: #011414;  border: solid 1px #769091; padding: 2;}
+
+.input { font-size: 8pt; font-family: verdana, helvetica, sans-serif; vertical-align:middle; background-color: #607879;  border: solid 1px #000000; padding: 2;}
+</style>                </head><body bgcolor='#011414' leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" alink='#000000' vlink='#000000'><script language='JavaScript'>
+     <!--
+      function buddy_pop()
+      {
+           window.open('index.php?act=buddy&s=e6bdb9af5d9e6caa7892cc77764f0632','BrowserBuddy','width=200,height=450,resizable=yes,scrollbars=yes'); 
+      }
+     //-->
+ </script>
+<br>
+<table width='950' border='0' align='center' cellpadding='0' cellspacing='1' bgcolor='#011414'>
+  <tr> 
+    <td align='left'>
+     <table width='100%' border='0' cellspacing='0' cellpadding='0' background='#011414'>
+<tr> 
+<td background='#011414' valign="bottom" align="left">
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="bottom">
+<img src='style_images/Railwarz-594/logo3.gif' alt='Railwarz.com Forums' border='0'></td><td align="right" valign="bottom"><font id="navbar">
+<a href="http://www.railwarz.com">Home</a> :: 
+<a href="http://www.railwarz.com/forums/"> Forums</a> ::
+<a href="http://www.railwarz.com/modules.php?op=modload&name=Downloads&file=index">Downloads</a> ::
+<a href="http://www.railwarz.com/servers.php">Servers</a> ::
+<a href="http://www.railwarz.com/user.php">Your Account</a> ::
+<a href="http://www.railwarz.com/modules.php?op=modload&name=Submit_News&file=index">Submit Content</a> ::
+<a href="http://www.railwarz.com/admin.php">Admin</a>
+</font></td></tr></table>
+</td>
+</tr>
+      <tr>
+       <td align='left'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632' title='Board Home'><img src='style_images/Railwarz-594/banner4.gif' alt='Powered by Invision Power Board' border='0'></a></td>
+       <td align='right' valign='middle' background='style_images/Railwarz-594/header_tile.gif'><!--IBF.BANNER--></td>
+  	  </tr>
+  	 </table>
+  	</td>
+  </tr>
+  <tr> 
+    <td class='row1'>
+      <table width='100%' border='0' cellspacing='0' cellpadding='8'>
+        <tr>
+          <td width='80%' valign='middle' align='left'> &nbsp;Welcome Guest ( <a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Login&CODE=00'>Log In</a> | <a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Reg&CODE=00'>Register</a> )
+          </td>
+
+<td width='20%' valign='middle' align='right' nowrap><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Help'>Help</a>
+	   <span style='color:#011414'>|</span> <a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Search&f=2'>Search</a>
+	   <span style='color:#011414'>|</span> <a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Members'>Members</a>
+	   <span style='color:#011414'>|</span> <a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=calendar'>Calendar</a>
+	   <!--IBF.CHATLINK-->
+	   </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</td>
+</table>
+<br><table width='950' align='center' border="0" cellspacing="0" cellpadding="2">
+<tr> 
+    <td width='1%' valign='middle'><img src='style_images/Railwarz-594/nav.gif' border='0'  alt=''></td>
+    <td width="100%" align='left' valign='middle' class="nav"><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632'>Railwarz Community</a>-><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=SC&c=1'>Railwarz Public</a>-><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=SF&f=41'>Railwarz Specific Forums</a>-><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=SF&f=2'>Railwarz Development</a></td>
+	
+	 </tr>
+	</table>
+	
+	</td>
+  </tr>
+</table>
+<br /><script language='javascript'>
+    <!--
+    function delete_post(theURL) {
+       if (confirm('Are you sure you want to delete this message?')) {
+          window.location.href=theURL;
+       }
+       else {
+          alert ('Ok, no action has been taken');
+       } 
+    }
+    
+    function PopUp(url, name, width,height,center,resize,scroll,posleft,postop) {
+    if (posleft != 0) { x = posleft }
+    if (postop  != 0) { y = postop  }
+    if (!scroll) { scroll = 1 }
+    if (!resize) { resize = 1 }
+    if ((parseInt (navigator.appVersion) >= 4 ) && (center)) {
+      X = (screen.width  - width ) / 2;
+      Y = (screen.height - height) / 2;
+    }
+    if (scroll != 0) { scroll = 1 }
+    var Win = window.open( url, name, 'width='+width+',height='+height+',top='+Y+',left='+X+',resizable='+resize+',scrollbars='+scroll+',location=no,directories=no,status=no,menubar=no,toolbar=no');
+	}
+    //-->
+    </script>
+<a name='top'></a>
+<!-- Cgi-bot Start Forum page unique top -->
+<table width='950' border='0' cellspacing='0' cellpadding='4' align='center'>
+  <tr> 
+    <td width='100%'>&nbsp;</td>
+    <td align='right' nowrap><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Post&CODE=02&f=2&t=132'><img src='style_images/Railwarz-594/t_reply.gif' border='0'  alt=''></a><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Post&CODE=00&f=2' title='Start a new topic'><img src='style_images/Railwarz-594/t_new.gif' border='0'  alt=''></a><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Post&CODE=10&f=2'><img src='style_images/Railwarz-594/t_poll.gif' border='0'  alt=''></a></td>
+  </tr>
+</table>
+<table width='950' border='0' cellspacing='1' cellpadding='0' bgcolor='#011414' align='center'>
+  <tr> 
+    <td class='maintitle'>
+			<table width='100%' border='0' cellspacing='0' cellpadding='3'>
+        <tr> 
+          <td><img src='style_images/Railwarz-594/nav_m.gif' alt='' width='8' height='8'></td>
+          <td width='100%' class='maintitle'><b>CALLING ALL RAILERS&#33;</b>, Wanna help the mod?</td>
+        </tr>
+      </table>
+		</td>
+  </tr>
+  <tr> 
+	<td class='mainbg'>
+	<!--{IBF.POLL}-->
+	<table width='100%' border='0' cellspacing='1' cellpadding='4'>
+	<tr> 
+	  <td width='100%' class='titlemedium' nowrap colspan="2"> 
+		<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+		  <tr>
+		    <td align='left'><b>&laquo; <a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=ST&f=2&t=132&view=old'>Next Oldest</a> | <a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=ST&f=2&t=132&view=new'>Next Newest</a> &raquo;</b></td>
+			<td align='right'><b>
+				<a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Track&f=2&t=132'>Track this topic</a> |
+				<a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Forward&f=2&t=132'>Email this topic</a> |
+				<a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Print&client=printer&f=2&t=132'>Print this topic</a></b></td>
+			</tr>
+		</table>
+	  </td>
+	</tr>
+<!-- Cgi-bot End Forum page unique top --><!--Begin Msg Number 681-->
+		 <tr>
+		 <td valign='middle' class='posthead'><a name='entry681'></a><span class='normalname'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Profile&CODE=03&MID=8'>greider</a></span></td>
+          <td class='posthead' valign='top'>
+			<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr> 
+                <td class='posthead'><img src='style_images/Railwarz-594/icon10.gif' alt=''>&nbsp;&nbsp;<span class='postdetails'><b>Posted:</b> Sep 11 2002, 09:23 PM</span></td>
+                <td class='posthead' align='right'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Post&CODE=06&f=2&t=132&p=681'><img src='style_images/Railwarz-594/p_quote.gif' border='0'  alt=''></a></td>
+              </tr>
+            </table>
+		 </td>
+        </tr>
+		<tr>
+          <td valign='top' class='post2'>
+            	<span class='postdetails'><img src='http://www.railwarz.com/forum/uploads/av-8.jpg' border='0' width='80' height='80'><br><br>
+				Advanced Member<br>
+				<img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><br><br>
+            	Group: GO&#33;/Railwarz.com Member<br>
+            	Posts: 136<br>
+            	Member No.: 8<br>
+            	Joined: 27-July 02<br>
+            	<br><br></span>
+		        <img src='style_images/Railwarz-594/spacer.gif' alt='' width='160' height='1'><br> 
+          </td>
+          <td width='100%' valign='top' class='post2'><span class='postcolor'>                    I&#39;ve been fairly quiet in the forums recently, even with all the discussion about bot usage and coding against it, banning people and how to stop it.  There&#39;s a reason for that, and to be honest I&#39;m surprised no one has come right out and yelled at me for sitting idly by all this time.  There has been name-calling, accusations (true and false), arguments, kicks, and bans, and for what... because some person thinks some other person is using a program to help them win at Quake??<br><br>My first reaction, like most people, is of anger, and desire to do something about it.  Of everyone here, it would seem I am in the most beneficial place to take action.  It&#39;s a lot of responsibility to take on, which I am not exactly prepared to do right now.  I haven&#39;t touched the TMG code since I released the 1.1b version, and it needs a few quick fixes at the least.  I just haven&#39;t had the motivation or desire to do it.<br><br>My next reaction is one of apathy.  Why should I care that some kid 2000 miles away is so insecure with himself that he has to cheat at Quake to make himself feel better?  This type of person has major emotional problems and needs to be dealt with by a professional, not a 21 year old college dropout.  If it makes someone feel better to not enjoy the game with their natural skills and abilities, then I don&#39;t really give a hoot.  If it&#39;s me on the receiving end of their slugs, I still don&#39;t care.  Gives me an even more difficult challenge by which to better myself.<br><br>So, here&#39;s the down and dirty, and the main reason for this post.  I know people who come here and read these forums use or posess certain aimbots and speed hacks.  All I&#39;m asking is for those people to send ME these programs, and insructions for use on TMG servers, so that I may begin cleaning up this mod.  If you want servers to die, players to leave, and all that&#39;s left is for you to watch your player run around by itself in an empty server or on your own PC, then be my guest.  It&#39;s less work for me that way.  Some people say this mod is growing...well, it&#39;s only temporary.  If the current trends continue none of these new players will stay around.  There&#39;s already enough shit-talking to nearly drive me, a 3 year veteran, away.<br><br>As a coder, as a former server admin, and most importantly, as a player, I ask that ANYONE with any helpful information please email me, <a href='mailto:joshw@dtnspeed.net'>joshw@dtnspeed.net</a>.  All info will be kept in the strictest confidence, you won&#39;t have to worry about me telling server admins to ban you or anything like that.  I am giving my ISP email address so that NO ONE in Railwarz could possibly access it, so that you may be certain the only eyes reading your messages are mine.  Thank you in advance, those of you who decide to help this community.                      <!--Signature--><br><br>--------------------<br><span class='signature'>Josh &quot;greider&quot; Waggoner<br><a href='http://www.railwarz.com' target='_blank'>Railwarz.com</a></span><!--E-Signature--></td>
+        </tr>
+        <tr>
+		   <td class='postfoot' align='left'>&nbsp;</td>
+		   <td class='postfoot' nowrap align='left'>
+		    <table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr>
+                <td class='postfoot' align='left' valign='middle' nowrap><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Msg&CODE=04&MID=8'><img src='style_images/Railwarz-594/p_pm.gif' border='0'  alt=''></a>&nbsp;<a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Mail&CODE=00&MID=8'><img src='style_images/Railwarz-594/p_email.gif' border='0'  alt=''></a>&nbsp;<a href='http://www.railwarz.com' target='_blank'><img src='style_images/Railwarz-594/p_www.gif' border='0'  alt=''></a>&nbsp;<a href="javascript:PopUp('http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=ICQ&MID=8','Pager','450','330','0','1','1','1')"><img src='style_images/Railwarz-594/p_icq.gif' border='0'  alt=''></a>&nbsp;<a href="javascript:PopUp('http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=AOL&MID=8','Pager','450','330','0','1','1','1')"><img src='style_images/Railwarz-594/p_aim.gif' border='0'  alt=''></a>&nbsp;<a href="javascript:PopUp('http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=YAHOO&MID=8','Pager','450','330','0','1','1','1')"><img src='style_images/Railwarz-594/p_yim.gif' border='0' alt=''></a>&nbsp;<a href="javascript:PopUp('http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=MSN&MID=8','Pager','450','330','0','1','1','1')"><img src='style_images/Railwarz-594/p_msn.gif' border='0' alt=''></a>&nbsp;</td>
+                <td class='postfoot' valign='middle' align='right'>&nbsp;</td>
+		   		<td class='postfoot' valign='middle' align='right' width='2%'><a href='javascript:scroll(0,0);'><img src='style_images/Railwarz-594/p_up.gif' alt='Top' border='0'></a></td>
+		      </tr>
+		    </table>
+		   </td>
+        </tr>
+        <tr> 
+          <td class='postsep' colspan='2'><img src='style_images/Railwarz-594/spacer.gif' alt='' width='1' height='1'></td>
+		</tr>
+  <!-- end Message --><!--Begin Msg Number 685-->
+		 <tr>
+		 <td valign='middle' class='posthead'><a name='entry685'></a><span class='normalname'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Profile&CODE=03&MID=28'>Psy4 Reaper</a></span></td>
+          <td class='posthead' valign='top'>
+			<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr> 
+                <td class='posthead'><span class='postdetails'><b>Posted:</b> Sep 12 2002, 04:07 AM</span></td>
+                <td class='posthead' align='right'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Post&CODE=06&f=2&t=132&p=685'><img src='style_images/Railwarz-594/p_quote.gif' border='0'  alt=''></a></td>
+              </tr>
+            </table>
+		 </td>
+        </tr>
+		<tr>
+          <td valign='top' class='post1'>
+            	<span class='postdetails'><img src='http://tnt.servequake.com/images/avatar/reaper2.gif' border='0' width='80' height='80'><br><br>
+				Psy4 Server Admin<br>
+				<img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><br><br>
+            	Group: Server Admins<br>
+            	Posts: 276<br>
+            	Member No.: 28<br>
+            	Joined: 27-July 02<br>
+            	<br><br></span>
+		        <img src='style_images/Railwarz-594/spacer.gif' alt='' width='160' height='1'><br> 
+          </td>
+          <td width='100%' valign='top' class='post1'><span class='postcolor'>                    Werd&#33;&#33;                      <!--Signature--><br><br>--------------------<br><span class='signature'>§-ReapeR-§</span><!--E-Signature--></td>
+        </tr>
+        <tr>
+		   <td class='postfoot' align='left'>&nbsp;</td>
+		   <td class='postfoot' nowrap align='left'>
+		    <table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr>
+                <td class='postfoot' align='left' valign='middle' nowrap><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Msg&CODE=04&MID=28'><img src='style_images/Railwarz-594/p_pm.gif' border='0'  alt=''></a>&nbsp;<a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Mail&CODE=00&MID=28'><img src='style_images/Railwarz-594/p_email.gif' border='0'  alt=''></a>&nbsp;<a href='http://www.psy4.kicks-ass.net' target='_blank'><img src='style_images/Railwarz-594/p_www.gif' border='0'  alt=''></a>&nbsp;<a href="javascript:PopUp('http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=ICQ&MID=28','Pager','450','330','0','1','1','1')"><img src='style_images/Railwarz-594/p_icq.gif' border='0'  alt=''></a>&nbsp;<a href="javascript:PopUp('http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=AOL&MID=28','Pager','450','330','0','1','1','1')"><img src='style_images/Railwarz-594/p_aim.gif' border='0'  alt=''></a>&nbsp;<a href="javascript:PopUp('http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=YAHOO&MID=28','Pager','450','330','0','1','1','1')"><img src='style_images/Railwarz-594/p_yim.gif' border='0' alt=''></a>&nbsp;<a href="javascript:PopUp('http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=MSN&MID=28','Pager','450','330','0','1','1','1')"><img src='style_images/Railwarz-594/p_msn.gif' border='0' alt=''></a>&nbsp;</td>
+                <td class='postfoot' valign='middle' align='right'>&nbsp;</td>
+		   		<td class='postfoot' valign='middle' align='right' width='2%'><a href='javascript:scroll(0,0);'><img src='style_images/Railwarz-594/p_up.gif' alt='Top' border='0'></a></td>
+		      </tr>
+		    </table>
+		   </td>
+        </tr>
+        <tr> 
+          <td class='postsep' colspan='2'><img src='style_images/Railwarz-594/spacer.gif' alt='' width='1' height='1'></td>
+		</tr>
+  <!-- end Message --><!--Begin Msg Number 698-->
+		 <tr>
+		 <td valign='middle' class='posthead'><a name='entry698'></a><span class='normalname'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Profile&CODE=03&MID=51'>bea</a></span></td>
+          <td class='posthead' valign='top'>
+			<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr> 
+                <td class='posthead'><span class='postdetails'><b>Posted:</b> Sep 12 2002, 06:15 PM</span></td>
+                <td class='posthead' align='right'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Post&CODE=06&f=2&t=132&p=698'><img src='style_images/Railwarz-594/p_quote.gif' border='0'  alt=''></a></td>
+              </tr>
+            </table>
+		 </td>
+        </tr>
+		<tr>
+          <td valign='top' class='post2'>
+            	<span class='postdetails'><br><br>
+				Advanced Member<br>
+				<img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><br><br>
+            	Group: Members<br>
+            	Posts: 119<br>
+            	Member No.: 51<br>
+            	Joined: 27-July 02<br>
+            	<br><br></span>
+		        <img src='style_images/Railwarz-594/spacer.gif' alt='' width='160' height='1'><br> 
+          </td>
+          <td width='100%' valign='top' class='post2'><span class='postcolor'>                    I know of a website where players went to get hacks, and I would email it to you but I&#39;m to lazy to go to my hotmail account and type it in.<br><br>It has information on how to do the &quot;wall hacks&quot; and other neat stuff that some of the &quot;great&quot; defensive guys in the past have used.                      </td>
+        </tr>
+        <tr>
+		   <td class='postfoot' align='left'>&nbsp;</td>
+		   <td class='postfoot' nowrap align='left'>
+		    <table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr>
+                <td class='postfoot' align='left' valign='middle' nowrap><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Msg&CODE=04&MID=51'><img src='style_images/Railwarz-594/p_pm.gif' border='0'  alt=''></a>&nbsp;<a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Mail&CODE=00&MID=51'><img src='style_images/Railwarz-594/p_email.gif' border='0'  alt=''></a>&nbsp;<a href='http://www.p-bot.com/main.html' target='_blank'><img src='style_images/Railwarz-594/p_www.gif' border='0'  alt=''></a>&nbsp;<a href="javascript:PopUp('http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=AOL&MID=51','Pager','450','330','0','1','1','1')"><img src='style_images/Railwarz-594/p_aim.gif' border='0'  alt=''></a>&nbsp;<a href="javascript:PopUp('http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=YAHOO&MID=51','Pager','450','330','0','1','1','1')"><img src='style_images/Railwarz-594/p_yim.gif' border='0' alt=''></a>&nbsp;<a href="javascript:PopUp('http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=MSN&MID=51','Pager','450','330','0','1','1','1')"><img src='style_images/Railwarz-594/p_msn.gif' border='0' alt=''></a>&nbsp;</td>
+                <td class='postfoot' valign='middle' align='right'>&nbsp;</td>
+		   		<td class='postfoot' valign='middle' align='right' width='2%'><a href='javascript:scroll(0,0);'><img src='style_images/Railwarz-594/p_up.gif' alt='Top' border='0'></a></td>
+		      </tr>
+		    </table>
+		   </td>
+        </tr>
+        <tr> 
+          <td class='postsep' colspan='2'><img src='style_images/Railwarz-594/spacer.gif' alt='' width='1' height='1'></td>
+		</tr>
+  <!-- end Message --><!--Begin Msg Number 708-->
+		 <tr>
+		 <td valign='middle' class='posthead'><a name='entry708'></a><span class='normalname'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Profile&CODE=03&MID=39'>Carvey</a></span></td>
+          <td class='posthead' valign='top'>
+			<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr> 
+                <td class='posthead'><span class='postdetails'><b>Posted:</b> Sep 13 2002, 05:32 AM</span></td>
+                <td class='posthead' align='right'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Post&CODE=06&f=2&t=132&p=708'><img src='style_images/Railwarz-594/p_quote.gif' border='0'  alt=''></a></td>
+              </tr>
+            </table>
+		 </td>
+        </tr>
+		<tr>
+          <td valign='top' class='post1'>
+            	<span class='postdetails'><img src='http://www.skunk.com/sublime/pics/videoanime.gif' border='0' width='80' height='80'><br><br>
+				Advanced Member<br>
+				<img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><br><br>
+            	Group: Members<br>
+            	Posts: 161<br>
+            	Member No.: 39<br>
+            	Joined: 27-July 02<br>
+            	<br><br></span>
+		        <img src='style_images/Railwarz-594/spacer.gif' alt='' width='160' height='1'><br> 
+          </td>
+          <td width='100%' valign='top' class='post1'><span class='postcolor'>i know largest penis knew where to get some, he provided the wallhax for bigga.. i&#39;ll talk to him and give u some sites.  <!--Signature--><br><br>--------------------<br><span class='signature'><img src='http://www.lizwilde.com/Images/HugeTits/Images/Huge_Tits1.JPG' border='0' alt='user posted image'></span><!--E-Signature--></td>
+        </tr>
+        <tr>
+		   <td class='postfoot' align='left'>&nbsp;</td>
+		   <td class='postfoot' nowrap align='left'>
+		    <table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr>
+                <td class='postfoot' align='left' valign='middle' nowrap><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Msg&CODE=04&MID=39'><img src='style_images/Railwarz-594/p_pm.gif' border='0'  alt=''></a>&nbsp;<a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Mail&CODE=00&MID=39'><img src='style_images/Railwarz-594/p_email.gif' border='0'  alt=''></a>&nbsp;</td>
+                <td class='postfoot' valign='middle' align='right'>&nbsp;</td>
+		   		<td class='postfoot' valign='middle' align='right' width='2%'><a href='javascript:scroll(0,0);'><img src='style_images/Railwarz-594/p_up.gif' alt='Top' border='0'></a></td>
+		      </tr>
+		    </table>
+		   </td>
+        </tr>
+        <tr> 
+          <td class='postsep' colspan='2'><img src='style_images/Railwarz-594/spacer.gif' alt='' width='1' height='1'></td>
+		</tr>
+  <!-- end Message --><!--Begin Msg Number 1993-->
+		 <tr>
+		 <td valign='middle' class='posthead'><a name='entry1993'></a><span class='normalname'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Profile&CODE=03&MID=62'>jeb4zi4</a></span></td>
+          <td class='posthead' valign='top'>
+			<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr> 
+                <td class='posthead'><span class='postdetails'><b>Posted:</b> Nov 15 2002, 09:03 PM</span></td>
+                <td class='posthead' align='right'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Post&CODE=06&f=2&t=132&p=1993'><img src='style_images/Railwarz-594/p_quote.gif' border='0'  alt=''></a></td>
+              </tr>
+            </table>
+		 </td>
+        </tr>
+		<tr>
+          <td valign='top' class='post2'>
+            	<span class='postdetails'><img src='http://www.railwarz.com/forum/html/avatars/smiley-evil.gif' border='0' width='64' height='64'><br><br>
+				Advanced Member<br>
+				<img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><br><br>
+            	Group: Members<br>
+            	Posts: 112<br>
+            	Member No.: 62<br>
+            	Joined: 27-July 02<br>
+            	<br><br></span>
+		        <img src='style_images/Railwarz-594/spacer.gif' alt='' width='160' height='1'><br> 
+          </td>
+          <td width='100%' valign='top' class='post2'><span class='postcolor'>                    <a href='http://storm.prohosting.com/d3adtome/gaming/q20001b.shtml' target='_blank'>http://storm.prohosting.com/d3adtome/gamin...g/q20001b.shtml</a><br><br>look what  i found -nods-                      <!--Signature--><br><br>--------------------<br><span class='signature'><img src='http://www.objectionable.org/~madman/madman2.jpg' border='0' alt='user posted image'></span><!--E-Signature--></td>
+        </tr>
+        <tr>
+		   <td class='postfoot' align='left'>&nbsp;</td>
+		   <td class='postfoot' nowrap align='left'>
+		    <table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr>
+                <td class='postfoot' align='left' valign='middle' nowrap><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Msg&CODE=04&MID=62'><img src='style_images/Railwarz-594/p_pm.gif' border='0'  alt=''></a>&nbsp;<a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Mail&CODE=00&MID=62'><img src='style_images/Railwarz-594/p_email.gif' border='0'  alt=''></a>&nbsp;</td>
+                <td class='postfoot' valign='middle' align='right'>&nbsp;</td>
+		   		<td class='postfoot' valign='middle' align='right' width='2%'><a href='javascript:scroll(0,0);'><img src='style_images/Railwarz-594/p_up.gif' alt='Top' border='0'></a></td>
+		      </tr>
+		    </table>
+		   </td>
+        </tr>
+        <tr> 
+          <td class='postsep' colspan='2'><img src='style_images/Railwarz-594/spacer.gif' alt='' width='1' height='1'></td>
+		</tr>
+  <!-- end Message --><!--Begin Msg Number 1995-->
+		 <tr>
+		 <td valign='middle' class='posthead'><a name='entry1995'></a><span class='normalname'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Profile&CODE=03&MID=28'>Psy4 Reaper</a></span></td>
+          <td class='posthead' valign='top'>
+			<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr> 
+                <td class='posthead'><span class='postdetails'><b>Posted:</b> Nov 15 2002, 10:32 PM</span></td>
+                <td class='posthead' align='right'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Post&CODE=06&f=2&t=132&p=1995'><img src='style_images/Railwarz-594/p_quote.gif' border='0'  alt=''></a></td>
+              </tr>
+            </table>
+		 </td>
+        </tr>
+		<tr>
+          <td valign='top' class='post1'>
+            	<span class='postdetails'><img src='http://tnt.servequake.com/images/avatar/reaper2.gif' border='0' width='80' height='80'><br><br>
+				Psy4 Server Admin<br>
+				<img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><br><br>
+            	Group: Server Admins<br>
+            	Posts: 276<br>
+            	Member No.: 28<br>
+            	Joined: 27-July 02<br>
+            	<br><br></span>
+		        <img src='style_images/Railwarz-594/spacer.gif' alt='' width='160' height='1'><br> 
+          </td>
+          <td width='100%' valign='top' class='post1'><span class='postcolor'>                    Old news jebs.                      <!--Signature--><br><br>--------------------<br><span class='signature'>§-ReapeR-§</span><!--E-Signature--></td>
+        </tr>
+        <tr>
+		   <td class='postfoot' align='left'>&nbsp;</td>
+		   <td class='postfoot' nowrap align='left'>
+		    <table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr>
+                <td class='postfoot' align='left' valign='middle' nowrap><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Msg&CODE=04&MID=28'><img src='style_images/Railwarz-594/p_pm.gif' border='0'  alt=''></a>&nbsp;<a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Mail&CODE=00&MID=28'><img src='style_images/Railwarz-594/p_email.gif' border='0'  alt=''></a>&nbsp;<a href='http://www.psy4.kicks-ass.net' target='_blank'><img src='style_images/Railwarz-594/p_www.gif' border='0'  alt=''></a>&nbsp;<a href="javascript:PopUp('http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=ICQ&MID=28','Pager','450','330','0','1','1','1')"><img src='style_images/Railwarz-594/p_icq.gif' border='0'  alt=''></a>&nbsp;<a href="javascript:PopUp('http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=AOL&MID=28','Pager','450','330','0','1','1','1')"><img src='style_images/Railwarz-594/p_aim.gif' border='0'  alt=''></a>&nbsp;<a href="javascript:PopUp('http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=YAHOO&MID=28','Pager','450','330','0','1','1','1')"><img src='style_images/Railwarz-594/p_yim.gif' border='0' alt=''></a>&nbsp;<a href="javascript:PopUp('http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=MSN&MID=28','Pager','450','330','0','1','1','1')"><img src='style_images/Railwarz-594/p_msn.gif' border='0' alt=''></a>&nbsp;</td>
+                <td class='postfoot' valign='middle' align='right'>&nbsp;</td>
+		   		<td class='postfoot' valign='middle' align='right' width='2%'><a href='javascript:scroll(0,0);'><img src='style_images/Railwarz-594/p_up.gif' alt='Top' border='0'></a></td>
+		      </tr>
+		    </table>
+		   </td>
+        </tr>
+        <tr> 
+          <td class='postsep' colspan='2'><img src='style_images/Railwarz-594/spacer.gif' alt='' width='1' height='1'></td>
+		</tr>
+  <!-- end Message --><!--Begin Msg Number 1997-->
+		 <tr>
+		 <td valign='middle' class='posthead'><a name='entry1997'></a><span class='normalname'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Profile&CODE=03&MID=69'>NiRvAnA</a></span></td>
+          <td class='posthead' valign='top'>
+			<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr> 
+                <td class='posthead'><span class='postdetails'><b>Posted:</b> Nov 16 2002, 01:05 AM</span></td>
+                <td class='posthead' align='right'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Post&CODE=06&f=2&t=132&p=1997'><img src='style_images/Railwarz-594/p_quote.gif' border='0'  alt=''></a></td>
+              </tr>
+            </table>
+		 </td>
+        </tr>
+		<tr>
+          <td valign='top' class='post2'>
+            	<span class='postdetails'><img src='http://www.chinkii.com/uploads/album/IMC/burn1.gif' border='0' width='80' height='80'><br><br>
+				Advanced Member<br>
+				<img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><br><br>
+            	Group: Members<br>
+            	Posts: 317<br>
+            	Member No.: 69<br>
+            	Joined: 27-July 02<br>
+            	<br><br></span>
+		        <img src='style_images/Railwarz-594/spacer.gif' alt='' width='160' height='1'><br> 
+          </td>
+          <td width='100%' valign='top' class='post2'><span class='postcolor'>                    Dont know if yall know about this but there is a bot going about that fakes q2ace and is ver smart been trying to get my hands on one to see how its done but no luck as of yet... I keep looking though and when i find it burn the fucker to hell.... <a href='http://www.quakeland.net' target='_blank'>My mate mr. anti bot himself deedee runs this site and is very up on bots could maybe help</a> <br><br>9am and i aint been bed yet so thik i find it... nite all back in 4hrs... <!--emo&:rolleyes:--><img src='http://www.railwarz.com/forums/html/emoticons/rolleyes.gif' border='0' valign='absmiddle' alt='rolleyes.gif'><!--endemo-->                    
+
+<br><br><!--EDIT|NiRvAnA|Nov 16 2002, 01:06 AM-->  <!--Signature--><br><br>--------------------<br><span class='signature'><img src='http://aw.quakelevels.com/throne3.jpg' border='0' alt='user posted image'></span><!--E-Signature--></td>
+        </tr>
+        <tr>
+		   <td class='postfoot' align='left'>&nbsp;</td>
+		   <td class='postfoot' nowrap align='left'>
+		    <table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr>
+                <td class='postfoot' align='left' valign='middle' nowrap><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Msg&CODE=04&MID=69'><img src='style_images/Railwarz-594/p_pm.gif' border='0'  alt=''></a>&nbsp;<a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Mail&CODE=00&MID=69'><img src='style_images/Railwarz-594/p_email.gif' border='0'  alt=''></a>&nbsp;<a href='http://www.planetquake.com/vortex' target='_blank'><img src='style_images/Railwarz-594/p_www.gif' border='0'  alt=''></a>&nbsp;<a href="javascript:PopUp('http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=ICQ&MID=69','Pager','450','330','0','1','1','1')"><img src='style_images/Railwarz-594/p_icq.gif' border='0'  alt=''></a>&nbsp;<a href="javascript:PopUp('http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=AOL&MID=69','Pager','450','330','0','1','1','1')"><img src='style_images/Railwarz-594/p_aim.gif' border='0'  alt=''></a>&nbsp;<a href="javascript:PopUp('http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=YAHOO&MID=69','Pager','450','330','0','1','1','1')"><img src='style_images/Railwarz-594/p_yim.gif' border='0' alt=''></a>&nbsp;<a href="javascript:PopUp('http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=MSN&MID=69','Pager','450','330','0','1','1','1')"><img src='style_images/Railwarz-594/p_msn.gif' border='0' alt=''></a>&nbsp;</td>
+                <td class='postfoot' valign='middle' align='right'>&nbsp;</td>
+		   		<td class='postfoot' valign='middle' align='right' width='2%'><a href='javascript:scroll(0,0);'><img src='style_images/Railwarz-594/p_up.gif' alt='Top' border='0'></a></td>
+		      </tr>
+		    </table>
+		   </td>
+        </tr>
+        <tr> 
+          <td class='postsep' colspan='2'><img src='style_images/Railwarz-594/spacer.gif' alt='' width='1' height='1'></td>
+		</tr>
+  <!-- end Message --><!--Begin Msg Number 4105-->
+		 <tr>
+		 <td valign='middle' class='posthead'><a name='entry4105'></a><span class='normalname'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Profile&CODE=03&MID=188'>&#124;AW&#124;DeeDee</a></span></td>
+          <td class='posthead' valign='top'>
+			<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr> 
+                <td class='posthead'><span class='postdetails'><b>Posted:</b> Feb 9 2003, 07:37 AM</span></td>
+                <td class='posthead' align='right'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Post&CODE=06&f=2&t=132&p=4105'><img src='style_images/Railwarz-594/p_quote.gif' border='0'  alt=''></a></td>
+              </tr>
+            </table>
+		 </td>
+        </tr>
+		<tr>
+          <td valign='top' class='post1'>
+            	<span class='postdetails'><br><br>
+				Newbie<br>
+				<img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><br><br>
+            	Group: Members<br>
+            	Posts: 4<br>
+            	Member No.: 188<br>
+            	Joined: 8-February 03<br>
+            	<br><br></span>
+		        <img src='style_images/Railwarz-594/spacer.gif' alt='' width='160' height='1'><br> 
+          </td>
+          <td width='100%' valign='top' class='post1'><span class='postcolor'>                    I am far from &quot;programmer&quot; status, more of a scritping and the ability to read and fix.  I have access to a few Linux boxes on the net, as well as host a few domains.  I am very familiar with the development cycle of software, and have been involoved in many projects as &quot;Project Director&quot;.<br><br>With this being said, I now offer my services.  Please feel free to contazct me, deedee@quakeland.net.  I want to help in any way I can.<br><br>One thing off the top of my head...  A CVS setup, where new changes are submitted, and a compile can be done, and server launched, the peeps can connect and test....<br><br>Is there only one developer working on the mod?  Are there a few, and hard to keep track of who is doing what... I could host CVS for that as well....<br><br>BTW:  I registered railwarz.org last night, so keep a look out for a new site <!--emo&:)--><img src='http://www.railwarz.com/forums/html/emoticons/smile.gif' border='0' valign='absmiddle' alt='smile.gif'><!--endemo--><br><br>Dee<br>                      <!--Signature--><br><br>--------------------<br><span class='signature'>If it doesn&#39;t matter, why ask?</span><!--E-Signature--></td>
+        </tr>
+        <tr>
+		   <td class='postfoot' align='left'>&nbsp;</td>
+		   <td class='postfoot' nowrap align='left'>
+		    <table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr>
+                <td class='postfoot' align='left' valign='middle' nowrap><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Msg&CODE=04&MID=188'><img src='style_images/Railwarz-594/p_pm.gif' border='0'  alt=''></a>&nbsp;<a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Mail&CODE=00&MID=188'><img src='style_images/Railwarz-594/p_email.gif' border='0'  alt=''></a>&nbsp;<a href='http://www.ancientwarriors.org' target='_blank'><img src='style_images/Railwarz-594/p_www.gif' border='0'  alt=''></a>&nbsp;</td>
+                <td class='postfoot' valign='middle' align='right'>&nbsp;</td>
+		   		<td class='postfoot' valign='middle' align='right' width='2%'><a href='javascript:scroll(0,0);'><img src='style_images/Railwarz-594/p_up.gif' alt='Top' border='0'></a></td>
+		      </tr>
+		    </table>
+		   </td>
+        </tr>
+        <tr> 
+          <td class='postsep' colspan='2'><img src='style_images/Railwarz-594/spacer.gif' alt='' width='1' height='1'></td>
+		</tr>
+  <!-- end Message --><!--Begin Msg Number 6680-->
+		 <tr>
+		 <td valign='middle' class='posthead'><a name='entry6680'></a><span class='normalname'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Profile&CODE=03&MID=218'>-Iku-Massacre</a></span></td>
+          <td class='posthead' valign='top'>
+			<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr> 
+                <td class='posthead'><img src='style_images/Railwarz-594/icon8.gif' alt=''>&nbsp;&nbsp;<span class='postdetails'><b>Posted:</b> Apr 22 2003, 12:18 PM</span></td>
+                <td class='posthead' align='right'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Post&CODE=06&f=2&t=132&p=6680'><img src='style_images/Railwarz-594/p_quote.gif' border='0'  alt=''></a></td>
+              </tr>
+            </table>
+		 </td>
+        </tr>
+		<tr>
+          <td valign='top' class='post2'>
+            	<span class='postdetails'><img src='http://www.railwarz.com/forum/uploads/av-218.jpg' border='0' width='80' height='80'><br><br>
+				Member<br>
+				<img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><br><br>
+            	Group: Members<br>
+            	Posts: 26<br>
+            	Member No.: 218<br>
+            	Joined: 19-April 03<br>
+            	<br><br></span>
+		        <img src='style_images/Railwarz-594/spacer.gif' alt='' width='160' height='1'><br> 
+          </td>
+          <td width='100%' valign='top' class='post2'><span class='postcolor'> i agree with you grieder about the aimbots and what not.. but one comment&gt;<br>why does everyone get so heated up over nothing ... this is just a game right..or<br>is there some guys somewhere i control that dies everytime  a slug goes through my head<br>ITS JUST A GAME A FUN ONE so LETS KEEP IT ... and keep haveing fun ..<br>and to all of u bot fans out there.. learn how to plan and have fun:) <br>~PEACE~<br><br>------------------------------------------------------------------------------------------------------------------------------------------<br>&quot; Welcome back to Reality&quot;   <!--Signature--><br><br>--------------------<br><span class='signature'>&quot; Welcome Back to Reality&quot;</span><!--E-Signature--></td>
+        </tr>
+        <tr>
+		   <td class='postfoot' align='left'>&nbsp;</td>
+		   <td class='postfoot' nowrap align='left'>
+		    <table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr>
+                <td class='postfoot' align='left' valign='middle' nowrap><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Msg&CODE=04&MID=218'><img src='style_images/Railwarz-594/p_pm.gif' border='0'  alt=''></a>&nbsp;<a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Mail&CODE=00&MID=218'><img src='style_images/Railwarz-594/p_email.gif' border='0'  alt=''></a>&nbsp;</td>
+                <td class='postfoot' valign='middle' align='right'>&nbsp;</td>
+		   		<td class='postfoot' valign='middle' align='right' width='2%'><a href='javascript:scroll(0,0);'><img src='style_images/Railwarz-594/p_up.gif' alt='Top' border='0'></a></td>
+		      </tr>
+		    </table>
+		   </td>
+        </tr>
+        <tr> 
+          <td class='postsep' colspan='2'><img src='style_images/Railwarz-594/spacer.gif' alt='' width='1' height='1'></td>
+		</tr>
+  <!-- end Message --><!--Begin Msg Number 6683-->
+		 <tr>
+		 <td valign='middle' class='posthead'><a name='entry6683'></a><span class='normalname'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Profile&CODE=03&MID=54'>Scorp</a></span></td>
+          <td class='posthead' valign='top'>
+			<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr> 
+                <td class='posthead'><span class='postdetails'><b>Posted:</b> Apr 22 2003, 01:32 PM</span></td>
+                <td class='posthead' align='right'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Post&CODE=06&f=2&t=132&p=6683'><img src='style_images/Railwarz-594/p_quote.gif' border='0'  alt=''></a></td>
+              </tr>
+            </table>
+		 </td>
+        </tr>
+		<tr>
+          <td valign='top' class='post1'>
+            	<span class='postdetails'><img src='http://www.sharpsh0t.com/pics/62142.gif' border='0' width='80' height='80'><br><br>
+				Advanced Member<br>
+				<img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><br><br>
+            	Group: Members<br>
+            	Posts: 368<br>
+            	Member No.: 54<br>
+            	Joined: 27-July 02<br>
+            	<br><br></span>
+		        <img src='style_images/Railwarz-594/spacer.gif' alt='' width='160' height='1'><br> 
+          </td>
+          <td width='100%' valign='top' class='post1'><span class='postcolor'> weeee<br><br><!--QuoteBegin--></span><table border='0' align='center' width='95%' cellpadding='3' cellspacing='1'><tr><td><b>QUOTE</b> </td></tr><tr><td id='QUOTE'><!--QuoteEBegin-->and to all of u bot fans out there.. learn how to <u>plan</u> and have fun<!--QuoteEnd--></td></tr></table><span class='postcolor'><!--QuoteEEnd--><br><!--QuoteBegin--></span><table border='0' align='center' width='95%' cellpadding='3' cellspacing='1'><tr><td><b>QUOTE</b> </td></tr><tr><td id='QUOTE'><!--QuoteEBegin-->is there some guys somewhere i control that dies everytime a slug goes through my head<!--QuoteEnd--></td></tr></table><span class='postcolor'><!--QuoteEEnd--><br><br>this kid is gonna keep us entertained with this shit   </td>
+        </tr>
+        <tr>
+		   <td class='postfoot' align='left'>&nbsp;</td>
+		   <td class='postfoot' nowrap align='left'>
+		    <table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr>
+                <td class='postfoot' align='left' valign='middle' nowrap><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Msg&CODE=04&MID=54'><img src='style_images/Railwarz-594/p_pm.gif' border='0'  alt=''></a>&nbsp;<a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Mail&CODE=00&MID=54'><img src='style_images/Railwarz-594/p_email.gif' border='0'  alt=''></a>&nbsp;</td>
+                <td class='postfoot' valign='middle' align='right'>&nbsp;</td>
+		   		<td class='postfoot' valign='middle' align='right' width='2%'><a href='javascript:scroll(0,0);'><img src='style_images/Railwarz-594/p_up.gif' alt='Top' border='0'></a></td>
+		      </tr>
+		    </table>
+		   </td>
+        </tr>
+        <tr> 
+          <td class='postsep' colspan='2'><img src='style_images/Railwarz-594/spacer.gif' alt='' width='1' height='1'></td>
+		</tr>
+  <!-- end Message --><!--Begin Msg Number 6772-->
+		 <tr>
+		 <td valign='middle' class='posthead'><a name='entry6772'></a><span class='normalname'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Profile&CODE=03&MID=218'>-Iku-Massacre</a></span></td>
+          <td class='posthead' valign='top'>
+			<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr> 
+                <td class='posthead'><span class='postdetails'><b>Posted:</b> Apr 27 2003, 09:48 PM</span></td>
+                <td class='posthead' align='right'><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Post&CODE=06&f=2&t=132&p=6772'><img src='style_images/Railwarz-594/p_quote.gif' border='0'  alt=''></a></td>
+              </tr>
+            </table>
+		 </td>
+        </tr>
+		<tr>
+          <td valign='top' class='post2'>
+            	<span class='postdetails'><img src='http://www.railwarz.com/forum/uploads/av-218.jpg' border='0' width='80' height='80'><br><br>
+				Member<br>
+				<img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><img src='style_images/Railwarz-594/pip.gif' border='0'  alt=''><br><br>
+            	Group: Members<br>
+            	Posts: 26<br>
+            	Member No.: 218<br>
+            	Joined: 19-April 03<br>
+            	<br><br></span>
+		        <img src='style_images/Railwarz-594/spacer.gif' alt='' width='160' height='1'><br> 
+          </td>
+          <td width='100%' valign='top' class='post2'><span class='postcolor'> hehe that is how i feel <!--emo&:)--><img src='http://www.railwarz.com/forum/html/emoticons/smile.gif' border='0' style='vertical-align:middle' alt='smile.gif'><!--endemo-->   <!--emo&:ph34r:--><img src='http://www.railwarz.com/forum/html/emoticons/ph34r.gif' border='0' style='vertical-align:middle' alt='ph34r.gif'><!--endemo-->    Hyyyyyyy.. YAAa   <!--Signature--><br><br>--------------------<br><span class='signature'>&quot; Welcome Back to Reality&quot;</span><!--E-Signature--></td>
+        </tr>
+        <tr>
+		   <td class='postfoot' align='left'>&nbsp;</td>
+		   <td class='postfoot' nowrap align='left'>
+		    <table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr>
+                <td class='postfoot' align='left' valign='middle' nowrap><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Msg&CODE=04&MID=218'><img src='style_images/Railwarz-594/p_pm.gif' border='0'  alt=''></a>&nbsp;<a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Mail&CODE=00&MID=218'><img src='style_images/Railwarz-594/p_email.gif' border='0'  alt=''></a>&nbsp;</td>
+                <td class='postfoot' valign='middle' align='right'>&nbsp;</td>
+		   		<td class='postfoot' valign='middle' align='right' width='2%'><a href='javascript:scroll(0,0);'><img src='style_images/Railwarz-594/p_up.gif' alt='Top' border='0'></a></td>
+		      </tr>
+		    </table>
+		   </td>
+        </tr>
+        <tr> 
+          <td class='postsep' colspan='2'><img src='style_images/Railwarz-594/spacer.gif' alt='' width='1' height='1'></td>
+		</tr>
+  <!-- end Message --></table></td>
+  </tr>
+  <tr> 
+    <td class='mainbg'>
+      <table width='100%' border='0' cellspacing='1' cellpadding='4'>
+		  <tr> 
+			<td class='titlemedium' align='left'>0 User(s) are reading this topic (0 Guests and 0 Anonymous Users)</td>
+		  </tr>
+		  <tr>
+			<td class='forum1'><b>0 Members:</b> </td>
+		  </tr>
+	  </table>
+	   <table width='100%' border='0' cellspacing='1' cellpadding='4'>
+        <tr>
+          <td class='titlemedium' width='100%'>
+			<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+              <tr>
+                <td align='left'><b>10 replies since Sep 11 2002, 09:23 PM</b></td>
+              	<td align='right'><b><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Track&f=2&t=132'>Track this topic</a> |
+									<a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Forward&f=2&t=132'>Email this topic</a> |
+									<a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Print&client=printer&f=2&t=132'>Print this topic</a></b></td>
+               </tr>
+            </table>
+		  </td>
+        </tr>
+      </table>
+		</td>
+  </tr>
+</table>
+<table width='950' align='center' border='0' cellspacing='0' cellpadding='4'>
+  <tr> 
+    <td width='100%'>
+    <br>&lt;&lt; <a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=SF&f=2'>Back to Railwarz Development</a></td>
+    <td align='right' nowrap><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Post&CODE=02&f=2&t=132'><img src='style_images/Railwarz-594/t_reply.gif' border='0'  alt=''></a><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Post&CODE=00&f=2' title='Start a new topic'><img src='style_images/Railwarz-594/t_new.gif' border='0'  alt=''></a><a href='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=Post&CODE=10&f=2'><img src='style_images/Railwarz-594/t_poll.gif' border='0'  alt=''></a></td>
+  </tr>
+</table>
+<br>
+<table width='950' align='center' border='0' cellspacing='0' cellpadding='3'>
+  <tr>
+  	<td width='60%' align='left'>
+  	   <!--IBF.EMAIL_OPTIONS-->
+  	</td>
+    <td width='40%' align='right' nowrap valign='top'><form onSubmit="if(document.jumpmenu.f.value == -1){return false;}" action='http://www.railwarz.com/forum/index.php?s=e6bdb9af5d9e6caa7892cc77764f0632&act=SF' method='GET' name='jumpmenu'><input type='hidden' name='act' value='SF'>
+<input type='hidden' name='s' value='e6bdb9af5d9e6caa7892cc77764f0632'><select name='f' onChange="if(this.options[this.selectedIndex].value != -1){ document.jumpmenu.submit() }" class='forminput'><option value='-1'>Forum Jump<option value='-1'>------------<option value='-1'>Railwarz Public</option>
+<option value="1">&nbsp;&nbsp;- General Discussion</option><!--fx:1-->
+<option value="43">&nbsp;&nbsp;- Thunderdome</option><!--fx:43-->
+<option value="41">&nbsp;&nbsp;- Railwarz Specific Forums</option><!--fx:41-->
+<option value="42">&nbsp;&nbsp;---- Website &amp; Forums Issues</option>
+<option value="4">&nbsp;&nbsp;---- Railwarz Clan Central</option>
+<option value="2" selected>&nbsp;&nbsp;---- Railwarz Development</option>
+<option value="3">&nbsp;&nbsp;---- Railwarz Server Issues</option>
+<option value="22">&nbsp;&nbsp;- Community Tech Support</option><!--fx:22-->
+<option value="23">&nbsp;&nbsp;---- General Technical Stuff</option>
+<option value="28">&nbsp;&nbsp;---- Web Design &amp; Programming</option>
+<option value="20">&nbsp;&nbsp;---- Hardware</option>
+<option value="21">&nbsp;&nbsp;---- Software</option>
+<option value='-1'>Railwarz Tournament Forums</option>
+<option value="44">&nbsp;&nbsp;- General Tournament Discussion</option><!--fx:44-->
+<option value='-1'>Railwarz 3TCTF Discussion</option>
+<option value="7">&nbsp;&nbsp;- General 3TCTF Stuff</option><!--fx:7-->
+<option value="8">&nbsp;&nbsp;- 3TCTF Railwarz Development</option><!--fx:8-->
+<option value="9">&nbsp;&nbsp;- 3TCTF Server Issues</option><!--fx:9-->
+<option value='-1'>Railwarz Clan Forums</option>
+<option value="31">&nbsp;&nbsp;- GamingOverload</option><!--fx:31-->
+<option value="32">&nbsp;&nbsp;---- GO&#33; Public Forum</option>
+</select>&nbsp;<input type='submit' value='Go!' class='forminput'></form><br><br></td>
+  </tr>
+</table>
+<br><!-- Copyright Information -->
+
+<p><table width='80%' align='center' cellpadding='3' cellspacing='0'><tr><td align='center' valign='middle' class='copyright'><br>Powered by <a href="http://www.invisionboard.com" target='_blank'>Invision Power Board</a> v1.1.2 &copy; 2003 &nbsp;<a href='http://www.invisionpower.com' target='_blank'>IPS, Inc.</a></td></tr></table><p></body></html>

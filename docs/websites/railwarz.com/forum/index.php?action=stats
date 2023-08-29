@@ -1,0 +1,1569 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="description" content="railwarz.com - Statistics Center" />
+	<meta name="keywords" content="railwarz, tmg, tmg railwarz, quake 2, quake2, ctf, q2, q2 ctf, quake II, games" />
+	<script language="JavaScript" type="text/javascript" src="http://railwarz.com/forum/Themes/default/script.js?fin11"></script>
+	<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+		var smf_theme_url = "http://railwarz.com/forum/Themes/BlackRain11fin";
+		var smf_images_url = "http://railwarz.com/forum/Themes/BlackRain11fin/images";
+		var smf_scripturl = "http://railwarz.com/forum/index.php";
+		var smf_iso_case_folding = false;
+		var smf_charset = "UTF-8";
+	// ]]></script>
+	<title>railwarz.com</title>
+	<link rel="stylesheet" type="text/css" href="http://railwarz.com/forum/Themes/BlackRain11fin/style.css?fin11" />
+	<link rel="stylesheet" type="text/css" href="http://railwarz.com/forum/Themes/default/print.css?fin11" media="print" />
+	<link rel="help" href="http://railwarz.com/forum/index.php?action=help" target="_blank" />
+	<link rel="search" href="http://railwarz.com/forum/index.php?action=search" />
+	<link rel="contents" href="http://railwarz.com/forum/index.php" />
+	<link rel="alternate" type="application/rss+xml" title="railwarz.com - RSS" href="http://railwarz.com/forum/index.php?type=rss;action=.xml" />
+		<script type="text/javascript" language="JavaScript" src="http://railwarz.com/forum/mobiquo/tapatalkdetect.js"></script>
+		<script type="text/javascript" language="JavaScript" src="http://railwarz.com/forum/mobiquo/tapatalkdetect.js"></script>
+		<script type="text/javascript" language="JavaScript" src="http://railwarz.com/forum/mobiquo/tapatalkdetect.js"></script>
+		<script type="text/javascript" language="JavaScript" src="http://railwarz.com/forum/mobiquo/tapatalkdetect.js"></script><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+	<script language="javascript" type="text/javascript">
+		var currentSwapArticle = true;
+		function swapOptionsArticle(one)
+		{
+				document.getElementById(one).style.display = currentSwapArticle ? "" : "none";
+                 document.getElementById("articleUpshrink").src = smf_images_url + ( currentSwapArticle ? "/upshrink.gif" : "/upshrink2.gif");
+				currentSwapArticle = !currentSwapArticle;
+		}
+	</script>
+        <script language="JavaScript" type="text/javascript">
+                var current_leftbar = false;
+                function shrinkHeaderLeftbar(mode)
+                {
+                        document.cookie = "upshrink=" + (mode ? 1 : 0);
+                        document.getElementById("upshrinkLeftbar").src = smf_images_url + (mode ? "/upshrink2.gif" : "/upshrink.gif");
+                        document.getElementById("leftbarHeader").style.display = mode ? "none" : "";
+                        current_leftbar = mode;
+                }
+         // --></script>
+        <script language="JavaScript" type="text/javascript"><!--
+                var current_rightbar = false;
+                function shrinkHeaderRightbar(mode)
+                {
+                        document.cookie = "upshrink=" + (mode ? 1 : 0);
+                        document.getElementById("upshrinkRightbar").src = smf_images_url + (mode ? "/upshrink2.gif" : "/upshrink.gif");
+                        document.getElementById("rightbarHeader").style.display = mode ? "none" : "";
+                        current_rightbar = mode;
+                }
+       // --></script>
+	<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+		var current_header = false;
+
+		function shrinkHeader(mode)
+		{
+			document.cookie = "upshrink=" + (mode ? 1 : 0);
+			document.getElementById("upshrink").src = smf_images_url + (mode ? "/upshrink2.gif" : "/upshrink.gif");
+
+			document.getElementById("upshrinkHeader").style.display = mode ? "none" : "";
+			document.getElementById("upshrinkHeader2").style.display = mode ? "none" : "";
+
+			current_header = mode;
+		}
+	// ]]></script>
+		<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+			var current_header_ic = false;
+
+			function shrinkHeaderIC(mode)
+			{
+				document.cookie = "upshrinkIC=" + (mode ? 1 : 0);
+				document.getElementById("upshrink_ic").src = smf_images_url + (mode ? "/expand.gif" : "/collapse.gif");
+
+				document.getElementById("upshrinkHeaderIC").style.display = mode ? "none" : "";
+
+				current_header_ic = mode;
+			}
+		// ]]></script>
+</head>
+<body>
+	<div id="wrap">
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td>
+				<a href="index.php"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/rwzlogo.gif" style="text-align: center;" title="railwarz.com" alt="railwarz.com" /></a>
+				</td>
+			</tr>
+		</table>
+	<div class="tborder" >
+		<table width="100%" cellpadding="0" cellspacing="0" border="0" >
+			<tr>
+				<td class="titlebg2" height="32" align="right">
+					<span class="smalltext">August 29, 2013, 09:12:34 PM</span>
+					<a href="#" onclick="shrinkHeader(!current_header); return false;"><img id="upshrink" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/upshrink.gif" alt="*" title="Shrink or expand the header." align="bottom" style="margin: 0 1ex;" /></a>
+				</td>
+			</tr>
+			<tr id="upshrinkHeader">
+				<td valign="top" colspan="2">
+					<table width="100%" class="bordercolor" cellpadding="8" cellspacing="1" border="0" style="margin-top: 1px;">
+						<tr>
+							<td colspan="2" width="100%" valign="top" class="windowbg2"><span class="middletext">Welcome, <b>Guest</b>. Please <a href="http://railwarz.com/forum/index.php?action=login">login</a> or <a href="http://railwarz.com/forum/index.php?action=register">register</a>.<br />Did you miss your <a href="http://railwarz.com/forum/index.php?action=activate">activation email?</a>				</span>	
+								<script language="JavaScript" type="text/javascript" src="http://railwarz.com/forum/Themes/default/sha1.js"></script>
+
+								<form action="http://railwarz.com/forum/index.php?action=login2" method="post" accept-charset="UTF-8" class="middletext" style="margin: 3px 1ex 1px 0;" onsubmit="hashLoginPassword(this, '8af14a4c43c20029e187d1b17e861df2');">
+									<input type="text" name="user" size="10" /> <input type="password" name="passwrd" size="10" />
+									<select name="cookielength">
+										<option value="60">1 Hour</option>
+										<option value="1440">1 Day</option>
+										<option value="10080">1 Week</option>
+										<option value="43200">1 Month</option>
+										<option value="-1" selected="selected">Forever</option>
+									</select>
+									<input type="submit" value="Login" /><br />
+									<span class="middletext">Login with username, password and session length</span>
+									<input type="hidden" name="hash_passwrd" value="" />
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<table id="upshrinkHeader2" width="100%" cellpadding="4" cellspacing="0" border="0">
+			<tr>
+				<td class="titlebg2" align="right" nowrap="nowrap" valign="top">
+				<form action="http://railwarz.com/forum/index.php?action=search2" method="post" accept-charset="UTF-8" style="margin: 0;">	
+						<a href="http://railwarz.com/forum/index.php?action=search;advanced"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/filter.gif" align="middle" style="margin: 0 1ex;" alt="" /></a>
+						<input type="text" name="search" value="" style="width: 190px;" />&nbsp;
+						<input type="submit" name="submit" value="Search" style="width: 11ex;" />
+						<input type="hidden" name="advanced" value="0" />
+					</form>
+				</td>
+			</tr>
+		</table>
+
+	</div><div id="tabs6"><ul><li><a href="http://railwarz.com/forum/index.php"><span>Home</span></a></li><li><a href="http://railwarz.com/forum/index.php?action=forum"><span>Forum</span></a></li><li><a href="http://railwarz.com/forum/index.php?action=help" ><span>Help</span></a></li><li><a href="http://railwarz.com/forum/index.php?action=search"><span>Search</span></a></li><li><a href="http://railwarz.com/forum/index.php?action=calendar"><span>Calendar</span></a></li><li><a href="http://railwarz.com/forum/index.php?action=login"><span>Login</span></a></li>
+			  <li><a href="http://railwarz.com/forum/index.php?action=register"><span>Register</span></a></li><a href="#" onclick="shrinkHeaderLeftbar(!current_leftbar); return false;"><img id="upshrinkLeftbar" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/upshrink.gif" alt="*" title="Shrink or expand the header." style="margin: 2px 0;" border="0" /></a><img id="upshrinkTempLeftbar" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/blank.gif" alt="" style="margin-right: 0ex;" /><a href="#" onclick="shrinkHeaderRightbar(!current_rightbar); return false;"><img id="upshrinkRightbar" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/upshrink.gif" alt="*" title="Shrink or expand the header." style="margin: 2px 0;" border="0" /></a><img id="upshrinkTempRightbar" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/blank.gif" alt="" style="margin-right: 0ex;" /></ul></div><div id="bodyarea" style="padding: 10px 8px 0px 8px;">
+        <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td width="170" style="padding: 4px; background-color: transparent; padding-top: 4px;" valign="top">
+                 <div id="leftbarHeader" style="padding-top: 5px; width: 170px;"><div class="tborder" style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('3'); return false"><img id="blockcollapse3" style="margin: 0;" align="right" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/collapse.gif" border="0" alt="" /></a><a href="http://railwarz.com/forum/index.php?action=search">Search</a>
+		</div>
+		<div class="windowbg" style="padding:4px; " id="block3">
+	<form  accept-charset="UTF-8" action="http://railwarz.com/forum/index.php?action=search2" method="post" style="padding: 0; text-align: center; margin: 0; margin-bottom: 5px;">
+		<br /><input type="text" name="search" value="" style="width: 85%;" /><br />
+		<input type="submit" name="submit" value="Search" style="width: 90%; margin: 4px;" /><br /><span class="smalltext">
+		<a href="http://railwarz.com/forum/index.php?action=search;advanced">Advanced search</a></span>
+		<input type="hidden" name="advanced" value="0" />
+	</form></div></div><div style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;">Links
+		</div>
+		<div style="padding:0px; " id="block16"><br /><div align="center"><a href="http://acmectf.com/acme"><img src="acmelnk.png" title="Home of ACMECTF!" border="0"></a><br><br><br><div align="center"><a href="http://railwarz.com/forum/index.php?topic=35.0m">Link to Us!</a><br></div></div><br /><br /><br /><br /><br /></div></div><div class="tborder" style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('9'); return false"><img id="blockcollapse9" style="margin: 0;" align="right" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/collapse.gif" border="0" alt="" /></a><a href="http://railwarz.com/forum/index.php?action=stats">Stats</a>
+		</div>
+		<div class="windowbg" style="padding:4px; " id="block9"><div class="smalltext" style="font-family: verdana, arial, sans-serif;">
+                 <img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/icons/members.gif" style="margin: 0;" align="bottom" alt="" />
+                 <a href="http://railwarz.com/forum/index.php?action=mlist"><b>Members</b></a>
+                 <br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Total Members: 181
+                 <br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Latest: <a href="http://railwarz.com/forum/index.php?action=profile;u=407"><b>ereq</b></a>
+                  <hr /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/icons/info.gif" style="margin: 0;" align="bottom" alt="" />
+                 <a href="http://railwarz.com/forum/index.php?action=stats"><b>Stats</b></a>
+                 <br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Total Posts: 1876
+				  <br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Total Topics: 225
+				  <br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Online Today: 7
+				  <br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Online Ever: 79<br />
+					  (March 28, 2011, 08:08:24 PM)
+				  <hr /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/icons/online.gif" style="margin: 0;" align="bottom" alt="" />
+                 <a href="http://railwarz.com/forum/index.php?action=who"><b>Users Online</b></a><br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Users: 0<br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Guests: 4<br /><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Total: 4<hr />
+			<div style="width: 100%; "></div></div></div></div>
+			<script language="Javascript" type="text/javascript">
+				function toggle( targetId )
+				{
+					var state = 0;
+					var blockname = "block" + targetId;
+					var blockimage = "blockcollapse" + targetId;
+
+					if ( document.getElementById ) {
+						target = document.getElementById( blockname );
+						if ( target.style.display == "none" ) {
+							target.style.display = "";
+							state = 1;
+						}
+						else {
+							target.style.display = "none";
+							state = 0;
+						}
+
+						document.getElementById( blockimage ).src = smf_images_url + (state ? "/collapse.gif" : "/expand.gif");
+						var tempImage = new Image();
+						tempImage.src = "http://railwarz.com/forum/index.php?action=tpmod;upshrink=" + targetId + ";state=" + state + ";" + (new Date().getTime());
+
+					}
+				}
+			</script></div></td><td width="100%" align="left" valign="top" style="padding-top: 10px; padding-bottom: 10px;"><div><div class="tborder" style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('11'); return false"><img id="blockcollapse11" style="margin: 0;" align="right" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/collapse.gif" border="0" alt="" /></a>Articles
+		</div>
+		<div class="windowbg" style="padding:4px; " id="block11"><div class="smalltext" ><b><a href="http://railwarz.com/forum/index.php?page=8">TMG Project Moves to GoogleCode</a></b> by <a href="http://railwarz.com/forum/index.php?action=profile;u=3">greider</a><br /></div></div></div>
+			<script language="Javascript" type="text/javascript">
+				function toggle( targetId )
+				{
+					var state = 0;
+					var blockname = "block" + targetId;
+					var blockimage = "blockcollapse" + targetId;
+
+					if ( document.getElementById ) {
+						target = document.getElementById( blockname );
+						if ( target.style.display == "none" ) {
+							target.style.display = "";
+							state = 1;
+						}
+						else {
+							target.style.display = "none";
+							state = 0;
+						}
+
+						document.getElementById( blockimage ).src = smf_images_url + (state ? "/collapse.gif" : "/expand.gif");
+						var tempImage = new Image();
+						tempImage.src = "http://railwarz.com/forum/index.php?action=tpmod;upshrink=" + targetId + ";state=" + state + ";" + (new Date().getTime());
+
+					}
+				}
+			</script></div>
+		<table width="100%" cellpadding="3" cellspacing="0">
+			<tr>
+				<td><div class="nav" style="font-size: smaller; margin-bottom: 2ex; margin-top: -1ex;"><b><a href="http://railwarz.com/forum/index.php" class="nav">railwarz.com</a></b>&nbsp;/&nbsp;<b><a href="http://railwarz.com/forum/index.php?action=forum" class="nav">Forum</a></b>&nbsp;/&nbsp;<b><a href="http://railwarz.com/forum/index.php?action=stats" class="nav">Statistics Center</a></b></div></td>
+			</tr>
+		</table>
+		<table border="0" width="100%" cellspacing="1" cellpadding="4" class="bordercolor">
+			<tr class="titlebg">
+				<td align="center" colspan="4">railwarz.com - Statistics Center</td>
+			</tr>
+			<tr>
+				<td class="catbg" colspan="4"><b>General Statistics</b></td>
+			</tr><tr>
+				<td class="windowbg" width="20" valign="middle" align="center"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/stats_info.gif" width="20" height="20" alt="" /></td>
+				<td class="windowbg2" valign="top">
+					<table border="0" cellpadding="1" cellspacing="0" width="100%">
+						<tr>
+							<td nowrap="nowrap">Total Members:</td>
+							<td align="right">181</td>
+						</tr><tr>
+							<td nowrap="nowrap">Total Posts:</td>
+							<td align="right">1876</td>
+						</tr><tr>
+							<td nowrap="nowrap">Total Topics:</td>
+							<td align="right">225</td>
+						</tr><tr>
+							<td nowrap="nowrap">Total Categories:</td>
+							<td align="right">3</td>
+						</tr><tr>
+							<td nowrap="nowrap">Users Online:</td>
+							<td align="right">4</td>
+						</tr><tr>
+							<td nowrap="nowrap" valign="top">Most Online:</td>
+							<td align="right">79 - March 28, 2011, 08:08:24 PM</td>
+						</tr><tr>
+							<td nowrap="nowrap">Online Today:</td>
+							<td align="right">7</td>
+						</tr><tr>
+							<td nowrap="nowrap">Total page views:</td>
+							<td align="right">1178772</td>
+						</tr>
+					</table>
+				</td>
+				<td class="windowbg" width="20" valign="middle" align="center"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/stats_info.gif" width="20" height="20" alt="" /></td>
+				<td class="windowbg2" valign="top">
+					<table border="0" cellpadding="1" cellspacing="0" width="100%">
+						<tr>
+							<td nowrap="nowrap">Average registrations per day:</td>
+							<td align="right">0.18</td>
+						</tr><tr>
+							<td nowrap="nowrap">Average posts per day:</td>
+							<td align="right">0.87</td>
+						</tr><tr>
+							<td nowrap="nowrap">Average topics per day:</td>
+							<td align="right">0.11</td>
+						</tr><tr>
+							<td nowrap="nowrap">Total Boards:</td>
+							<td align="right">8</td>
+						</tr><tr>
+							<td nowrap="nowrap">Latest Member:</td>
+							<td align="right"><a href="http://railwarz.com/forum/index.php?action=profile;u=407">ereq</a></td>
+						</tr><tr>
+							<td nowrap="nowrap">Average online per day:</td>
+							<td align="right">5.62</td>
+						</tr><tr>
+							<td nowrap="nowrap">Male to Female Ratio:</td>
+							<td align="right">17:1</td>
+						</tr><tr>
+							<td nowrap="nowrap">Average page views per day:</td>
+							<td align="right">529.07</td>
+						</tr>
+					</table>
+				</td>
+			</tr><tr>
+				<td class="catbg" colspan="2" width="50%"><b>Top 10 Posters</b></td>
+				<td class="catbg" colspan="2" width="50%"><b>Top 10 Boards</b></td>
+			</tr><tr>
+				<td class="windowbg" width="20" valign="middle" align="center"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/stats_posters.gif" width="20" height="20" alt="" /></td>
+				<td class="windowbg2" width="50%" valign="top">
+					<table border="0" cellpadding="1" cellspacing="0" width="100%">
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=1">WORM.</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="100" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">205</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=200">Beaver</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="69" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">142</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=23">Frosty</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="67" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">138</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=36">²smooth</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="52" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">106</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=16">bea</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="50" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">102</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=13">DK</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="41" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">85</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=56">zag</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="33" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">67</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=12">anonymity</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="32" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">65</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=2">Lazy</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="30" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">61</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=151">KiD</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="28" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">57</td>
+						</tr>
+					</table>
+				</td>
+				<td class="windowbg" width="20" valign="middle" align="center"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/stats_board.gif" width="20" height="20" alt="" /></td>
+				<td class="windowbg2" width="50%" valign="top">
+					<table border="0" cellpadding="1" cellspacing="0" width="100%">
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?board=1.0">General</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="100" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">1415</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?board=3.0">Smack</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="13" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">179</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?board=6.0">Railwarz 2v2 Tournament</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="6" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">85</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?board=4.0">Off-Topic</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="3" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">45</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?board=5.0">Technical Support</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="3" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">45</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?board=7.0">Challenges</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="3" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">37</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?board=8.0">The Beaver Cup</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="3" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">37</td>
+						</tr>
+					</table>
+				</td>
+			</tr><tr>
+				<td class="catbg" colspan="2" width="50%"><b>Top 10 Topics (by Replies)</b></td>
+				<td class="catbg" colspan="2" width="50%"><b>Top 10 Topics (by Views)</b></td>
+			</tr><tr>
+				<td class="windowbg" width="20" valign="middle" align="center"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/stats_replies.gif" width="20" height="20" alt="" /></td>
+				<td class="windowbg2" width="50%" valign="top">
+					<table border="0" cellpadding="1" cellspacing="0" width="100%">
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?topic=121.0">q2 railwarz - the good ol' days</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="100" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">156</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?topic=140.0">Does anybody know what time it is? It's time for Railwarz!!</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="69" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">108</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?topic=85.0">the best?</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="63" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">99</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?topic=65.0">NFL</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="40" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">63</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?topic=70.0">Lonely World out There</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="29" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">46</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?topic=197.0">BeaverCUP 2013 Teams Released! Leave Comments For changes</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="28" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">44</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?topic=2.0">Railwarz returns</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="26" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">41</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?topic=90.0">d0c, beaver, daWg, scyz0r, legacY, frost, mE, jiggy, kaden (where are you guys?)</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="26" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">40</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?topic=10.0">2v2 Tourney?!</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="21" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">33</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?topic=52.0">Glad to be back.</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="19" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">30</td>
+						</tr>
+					</table>
+				</td>
+				<td class="windowbg" width="20" valign="middle" align="center"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/stats_views.gif" width="20" height="20" alt="" /></td>
+				<td class="windowbg2" width="50%" valign="top">
+					<table border="0" cellpadding="1" cellspacing="0" width="100%">
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?topic=121.0">q2 railwarz - the good ol' days</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="100" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">20623</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?topic=85.0">the best?</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="81" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">16748</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?topic=65.0">NFL</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="47" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">9632</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?topic=140.0">Does anybody know what time it is? It's time for Railwarz!!</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="45" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">9331</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?topic=70.0">Lonely World out There</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="43" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">8838</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?topic=2.0">Railwarz returns</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="41" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">8538</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?topic=90.0">d0c, beaver, daWg, scyz0r, legacY, frost, mE, jiggy, kaden (where are you guys?)</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="40" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">8295</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?topic=10.0">2v2 Tourney?!</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="38" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">7801</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?topic=35.0">Link to Us</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="32" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">6530</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?topic=42.0">ACME-CTF Server Support &amp; Info</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="30" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">6182</td>
+						</tr>
+					</table>
+				</td>
+			</tr><tr>
+				<td class="catbg" colspan="2" width="50%"><b>Top Topic Starters</b></td>
+				<td class="catbg" colspan="2" width="50%"><b>Most Time Online</b></td>
+			</tr><tr>
+				<td class="windowbg" width="20" valign="middle" align="center"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/stats_replies.gif" width="20" height="20" alt="" /></td>
+				<td class="windowbg2" width="50%" valign="top">
+					<table border="0" cellpadding="1" cellspacing="0" width="100%">
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=200">Beaver</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="100" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">37</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=1">WORM.</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="89" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">33</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=36">²smooth</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="57" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">21</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=23">Frosty</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="46" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">17</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=5">kookachoo</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="27" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">10</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=12">anonymity</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="22" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">8</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=13">DK</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="16" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">6</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=151">KiD</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="16" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">6</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=74">L0ck</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="14" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">5</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=161">Petford</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="14" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top">5</td>
+						</tr>
+					</table>
+				</td>
+				<td class="windowbg" width="20" valign="middle" align="center" nowrap="nowrap"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/stats_views.gif" width="20" height="20" alt="" /></td>
+				<td class="windowbg2" width="50%" valign="top">
+					<table border="0" cellpadding="1" cellspacing="0" width="100%">
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=200">Beaver</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="100" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top" nowrap="nowrap">4d 23h 55m</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=1">WORM.</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="45" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top" nowrap="nowrap">2d 6h 13m</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=151">KiD</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="31" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top" nowrap="nowrap">1d 13h 37m</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=36">²smooth</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="17" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top" nowrap="nowrap">19h 50m</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=2">Lazy</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="16" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top" nowrap="nowrap">19h 37m</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=23">Frosty</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="15" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top" nowrap="nowrap">18h 31m</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=9">wreck</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="12" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top" nowrap="nowrap">14h 45m</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=92">vap</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="12" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top" nowrap="nowrap">14h 25m</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=16">bea</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="11" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top" nowrap="nowrap">13h 6m</td>
+						</tr>
+						<tr>
+							<td width="60%" valign="top"><a href="http://railwarz.com/forum/index.php?action=profile;u=56">zag</a></td>
+							<td width="20%" align="left" valign="top"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/bar.gif" width="11" height="15" alt="" /></td>
+							<td width="20%" align="right" valign="top" nowrap="nowrap">12h 44m</td>
+						</tr>
+					</table>
+				</td>
+			</tr><tr>
+				<td class="catbg" colspan="4"><b>Forum History (using forum time offset)</b></td>
+			</tr><tr>
+				<td class="windowbg" width="20" valign="middle" align="center"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/stats_history.gif" width="20" height="20" alt="" /></td>
+				<td class="windowbg2" colspan="4">
+					<table border="0" width="100%" cellspacing="1" cellpadding="4" class="tborder" style="margin-bottom: 1ex;" id="stats">
+						<tr class="titlebg" valign="middle" align="center">
+							<td width="25%">Monthly Summary</td>
+							<td width="15%">New Topics</td>
+							<td width="15%">New Posts</td>
+							<td width="15%">New Members</td>
+							<td width="15%">Most Online</td>
+							<td>Page views</td>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201308">
+							<th align="left" width="25%">
+								<a name="201308" id="link_201308" href="http://railwarz.com/forum/index.php?action=stats;expand=201308#201308" onclick="return doingExpandCollapse || expand_collapse('201308', 29);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201308" /> August 2013</a>
+							</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">3</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">13</th>
+							<th align="center">38791</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201307">
+							<th align="left" width="25%">
+								<a name="201307" id="link_201307" href="http://railwarz.com/forum/index.php?action=stats;expand=201307#201307" onclick="return doingExpandCollapse || expand_collapse('201307', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201307" /> July 2013</a>
+							</th>
+							<th align="center" width="15%">3</th>
+							<th align="center" width="15%">8</th>
+							<th align="center" width="15%">4</th>
+							<th align="center" width="15%">16</th>
+							<th align="center">29478</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201306">
+							<th align="left" width="25%">
+								<a name="201306" id="link_201306" href="http://railwarz.com/forum/index.php?action=stats;expand=201306#201306" onclick="return doingExpandCollapse || expand_collapse('201306', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201306" /> June 2013</a>
+							</th>
+							<th align="center" width="15%">7</th>
+							<th align="center" width="15%">56</th>
+							<th align="center" width="15%">8</th>
+							<th align="center" width="15%">20</th>
+							<th align="center">26946</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201305">
+							<th align="left" width="25%">
+								<a name="201305" id="link_201305" href="http://railwarz.com/forum/index.php?action=stats;expand=201305#201305" onclick="return doingExpandCollapse || expand_collapse('201305', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201305" /> May 2013</a>
+							</th>
+							<th align="center" width="15%">11</th>
+							<th align="center" width="15%">51</th>
+							<th align="center" width="15%">9</th>
+							<th align="center" width="15%">14</th>
+							<th align="center">26307</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201304">
+							<th align="left" width="25%">
+								<a name="201304" id="link_201304" href="http://railwarz.com/forum/index.php?action=stats;expand=201304#201304" onclick="return doingExpandCollapse || expand_collapse('201304', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201304" /> April 2013</a>
+							</th>
+							<th align="center" width="15%">15</th>
+							<th align="center" width="15%">50</th>
+							<th align="center" width="15%">3</th>
+							<th align="center" width="15%">35</th>
+							<th align="center">25697</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201303">
+							<th align="left" width="25%">
+								<a name="201303" id="link_201303" href="http://railwarz.com/forum/index.php?action=stats;expand=201303#201303" onclick="return doingExpandCollapse || expand_collapse('201303', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201303" /> March 2013</a>
+							</th>
+							<th align="center" width="15%">5</th>
+							<th align="center" width="15%">37</th>
+							<th align="center" width="15%">7</th>
+							<th align="center" width="15%">14</th>
+							<th align="center">26214</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201302">
+							<th align="left" width="25%">
+								<a name="201302" id="link_201302" href="http://railwarz.com/forum/index.php?action=stats;expand=201302#201302" onclick="return doingExpandCollapse || expand_collapse('201302', 28);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201302" /> February 2013</a>
+							</th>
+							<th align="center" width="15%">21</th>
+							<th align="center" width="15%">140</th>
+							<th align="center" width="15%">21</th>
+							<th align="center" width="15%">37</th>
+							<th align="center">32561</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201301">
+							<th align="left" width="25%">
+								<a name="201301" id="link_201301" href="http://railwarz.com/forum/index.php?action=stats;expand=201301#201301" onclick="return doingExpandCollapse || expand_collapse('201301', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201301" /> January 2013</a>
+							</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">10</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">22</th>
+							<th align="center">25272</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201212">
+							<th align="left" width="25%">
+								<a name="201212" id="link_201212" href="http://railwarz.com/forum/index.php?action=stats;expand=201212#201212" onclick="return doingExpandCollapse || expand_collapse('201212', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201212" /> December 2012</a>
+							</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">13</th>
+							<th align="center">27694</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201211">
+							<th align="left" width="25%">
+								<a name="201211" id="link_201211" href="http://railwarz.com/forum/index.php?action=stats;expand=201211#201211" onclick="return doingExpandCollapse || expand_collapse('201211', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201211" /> November 2012</a>
+							</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">12</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">15</th>
+							<th align="center">28946</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201210">
+							<th align="left" width="25%">
+								<a name="201210" id="link_201210" href="http://railwarz.com/forum/index.php?action=stats;expand=201210#201210" onclick="return doingExpandCollapse || expand_collapse('201210', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201210" /> October 2012</a>
+							</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">4</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">12</th>
+							<th align="center">22632</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201209">
+							<th align="left" width="25%">
+								<a name="201209" id="link_201209" href="http://railwarz.com/forum/index.php?action=stats;expand=201209#201209" onclick="return doingExpandCollapse || expand_collapse('201209', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201209" /> September 2012</a>
+							</th>
+							<th align="center" width="15%">3</th>
+							<th align="center" width="15%">25</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">10</th>
+							<th align="center">16006</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201208">
+							<th align="left" width="25%">
+								<a name="201208" id="link_201208" href="http://railwarz.com/forum/index.php?action=stats;expand=201208#201208" onclick="return doingExpandCollapse || expand_collapse('201208', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201208" /> August 2012</a>
+							</th>
+							<th align="center" width="15%">4</th>
+							<th align="center" width="15%">12</th>
+							<th align="center" width="15%">4</th>
+							<th align="center" width="15%">11</th>
+							<th align="center">14172</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201207">
+							<th align="left" width="25%">
+								<a name="201207" id="link_201207" href="http://railwarz.com/forum/index.php?action=stats;expand=201207#201207" onclick="return doingExpandCollapse || expand_collapse('201207', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201207" /> July 2012</a>
+							</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">3</th>
+							<th align="center" width="15%">9</th>
+							<th align="center">15879</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201206">
+							<th align="left" width="25%">
+								<a name="201206" id="link_201206" href="http://railwarz.com/forum/index.php?action=stats;expand=201206#201206" onclick="return doingExpandCollapse || expand_collapse('201206', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201206" /> June 2012</a>
+							</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">10</th>
+							<th align="center">12552</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201205">
+							<th align="left" width="25%">
+								<a name="201205" id="link_201205" href="http://railwarz.com/forum/index.php?action=stats;expand=201205#201205" onclick="return doingExpandCollapse || expand_collapse('201205', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201205" /> May 2012</a>
+							</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">4</th>
+							<th align="center" width="15%">18</th>
+							<th align="center">20653</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201204">
+							<th align="left" width="25%">
+								<a name="201204" id="link_201204" href="http://railwarz.com/forum/index.php?action=stats;expand=201204#201204" onclick="return doingExpandCollapse || expand_collapse('201204', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201204" /> April 2012</a>
+							</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">5</th>
+							<th align="center" width="15%">13</th>
+							<th align="center">20217</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201203">
+							<th align="left" width="25%">
+								<a name="201203" id="link_201203" href="http://railwarz.com/forum/index.php?action=stats;expand=201203#201203" onclick="return doingExpandCollapse || expand_collapse('201203', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201203" /> March 2012</a>
+							</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">6</th>
+							<th align="center" width="15%">37</th>
+							<th align="center" width="15%">10</th>
+							<th align="center">22559</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201202">
+							<th align="left" width="25%">
+								<a name="201202" id="link_201202" href="http://railwarz.com/forum/index.php?action=stats;expand=201202#201202" onclick="return doingExpandCollapse || expand_collapse('201202', 29);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201202" /> February 2012</a>
+							</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">30</th>
+							<th align="center" width="15%">10</th>
+							<th align="center">21432</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201201">
+							<th align="left" width="25%">
+								<a name="201201" id="link_201201" href="http://railwarz.com/forum/index.php?action=stats;expand=201201#201201" onclick="return doingExpandCollapse || expand_collapse('201201', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201201" /> January 2012</a>
+							</th>
+							<th align="center" width="15%">3</th>
+							<th align="center" width="15%">18</th>
+							<th align="center" width="15%">7</th>
+							<th align="center" width="15%">12</th>
+							<th align="center">21964</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201112">
+							<th align="left" width="25%">
+								<a name="201112" id="link_201112" href="http://railwarz.com/forum/index.php?action=stats;expand=201112#201112" onclick="return doingExpandCollapse || expand_collapse('201112', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201112" /> December 2011</a>
+							</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">15</th>
+							<th align="center" width="15%">15</th>
+							<th align="center" width="15%">10</th>
+							<th align="center">27170</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201111">
+							<th align="left" width="25%">
+								<a name="201111" id="link_201111" href="http://railwarz.com/forum/index.php?action=stats;expand=201111#201111" onclick="return doingExpandCollapse || expand_collapse('201111', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201111" /> November 2011</a>
+							</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">12</th>
+							<th align="center" width="15%">10</th>
+							<th align="center">22528</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201110">
+							<th align="left" width="25%">
+								<a name="201110" id="link_201110" href="http://railwarz.com/forum/index.php?action=stats;expand=201110#201110" onclick="return doingExpandCollapse || expand_collapse('201110', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201110" /> October 2011</a>
+							</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">14</th>
+							<th align="center" width="15%">9</th>
+							<th align="center">19909</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201109">
+							<th align="left" width="25%">
+								<a name="201109" id="link_201109" href="http://railwarz.com/forum/index.php?action=stats;expand=201109#201109" onclick="return doingExpandCollapse || expand_collapse('201109', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201109" /> September 2011</a>
+							</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">3</th>
+							<th align="center" width="15%">11</th>
+							<th align="center" width="15%">7</th>
+							<th align="center">19695</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201108">
+							<th align="left" width="25%">
+								<a name="201108" id="link_201108" href="http://railwarz.com/forum/index.php?action=stats;expand=201108#201108" onclick="return doingExpandCollapse || expand_collapse('201108', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201108" /> August 2011</a>
+							</th>
+							<th align="center" width="15%">3</th>
+							<th align="center" width="15%">18</th>
+							<th align="center" width="15%">10</th>
+							<th align="center" width="15%">9</th>
+							<th align="center">22048</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201107">
+							<th align="left" width="25%">
+								<a name="201107" id="link_201107" href="http://railwarz.com/forum/index.php?action=stats;expand=201107#201107" onclick="return doingExpandCollapse || expand_collapse('201107', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201107" /> July 2011</a>
+							</th>
+							<th align="center" width="15%">3</th>
+							<th align="center" width="15%">19</th>
+							<th align="center" width="15%">7</th>
+							<th align="center" width="15%">10</th>
+							<th align="center">24528</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201106">
+							<th align="left" width="25%">
+								<a name="201106" id="link_201106" href="http://railwarz.com/forum/index.php?action=stats;expand=201106#201106" onclick="return doingExpandCollapse || expand_collapse('201106', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201106" /> June 2011</a>
+							</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">5</th>
+							<th align="center" width="15%">8</th>
+							<th align="center">26172</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201105">
+							<th align="left" width="25%">
+								<a name="201105" id="link_201105" href="http://railwarz.com/forum/index.php?action=stats;expand=201105#201105" onclick="return doingExpandCollapse || expand_collapse('201105', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201105" /> May 2011</a>
+							</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">10</th>
+							<th align="center">25043</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201104">
+							<th align="left" width="25%">
+								<a name="201104" id="link_201104" href="http://railwarz.com/forum/index.php?action=stats;expand=201104#201104" onclick="return doingExpandCollapse || expand_collapse('201104', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201104" /> April 2011</a>
+							</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">3</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">8</th>
+							<th align="center">21110</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201103">
+							<th align="left" width="25%">
+								<a name="201103" id="link_201103" href="http://railwarz.com/forum/index.php?action=stats;expand=201103#201103" onclick="return doingExpandCollapse || expand_collapse('201103', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201103" /> March 2011</a>
+							</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">9</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">79</th>
+							<th align="center">20581</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201102">
+							<th align="left" width="25%">
+								<a name="201102" id="link_201102" href="http://railwarz.com/forum/index.php?action=stats;expand=201102#201102" onclick="return doingExpandCollapse || expand_collapse('201102', 28);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201102" /> February 2011</a>
+							</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">9</th>
+							<th align="center">19012</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201101">
+							<th align="left" width="25%">
+								<a name="201101" id="link_201101" href="http://railwarz.com/forum/index.php?action=stats;expand=201101#201101" onclick="return doingExpandCollapse || expand_collapse('201101', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201101" /> January 2011</a>
+							</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">12</th>
+							<th align="center">28073</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201012">
+							<th align="left" width="25%">
+								<a name="201012" id="link_201012" href="http://railwarz.com/forum/index.php?action=stats;expand=201012#201012" onclick="return doingExpandCollapse || expand_collapse('201012', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201012" /> December 2010</a>
+							</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">8</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">9</th>
+							<th align="center">16460</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201011">
+							<th align="left" width="25%">
+								<a name="201011" id="link_201011" href="http://railwarz.com/forum/index.php?action=stats;expand=201011#201011" onclick="return doingExpandCollapse || expand_collapse('201011', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201011" /> November 2010</a>
+							</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">10</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">8</th>
+							<th align="center">14993</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201010">
+							<th align="left" width="25%">
+								<a name="201010" id="link_201010" href="http://railwarz.com/forum/index.php?action=stats;expand=201010#201010" onclick="return doingExpandCollapse || expand_collapse('201010', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201010" /> October 2010</a>
+							</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">14</th>
+							<th align="center" width="15%">4</th>
+							<th align="center" width="15%">7</th>
+							<th align="center">12707</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201009">
+							<th align="left" width="25%">
+								<a name="201009" id="link_201009" href="http://railwarz.com/forum/index.php?action=stats;expand=201009#201009" onclick="return doingExpandCollapse || expand_collapse('201009', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201009" /> September 2010</a>
+							</th>
+							<th align="center" width="15%">3</th>
+							<th align="center" width="15%">89</th>
+							<th align="center" width="15%">3</th>
+							<th align="center" width="15%">9</th>
+							<th align="center">16247</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201008">
+							<th align="left" width="25%">
+								<a name="201008" id="link_201008" href="http://railwarz.com/forum/index.php?action=stats;expand=201008#201008" onclick="return doingExpandCollapse || expand_collapse('201008', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201008" /> August 2010</a>
+							</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">74</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">8</th>
+							<th align="center">13694</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201007">
+							<th align="left" width="25%">
+								<a name="201007" id="link_201007" href="http://railwarz.com/forum/index.php?action=stats;expand=201007#201007" onclick="return doingExpandCollapse || expand_collapse('201007', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201007" /> July 2010</a>
+							</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">9</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">15</th>
+							<th align="center">12537</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201006">
+							<th align="left" width="25%">
+								<a name="201006" id="link_201006" href="http://railwarz.com/forum/index.php?action=stats;expand=201006#201006" onclick="return doingExpandCollapse || expand_collapse('201006', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201006" /> June 2010</a>
+							</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">44</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">6</th>
+							<th align="center">11312</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201005">
+							<th align="left" width="25%">
+								<a name="201005" id="link_201005" href="http://railwarz.com/forum/index.php?action=stats;expand=201005#201005" onclick="return doingExpandCollapse || expand_collapse('201005', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201005" /> May 2010</a>
+							</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">16</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">9</th>
+							<th align="center">12388</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201004">
+							<th align="left" width="25%">
+								<a name="201004" id="link_201004" href="http://railwarz.com/forum/index.php?action=stats;expand=201004#201004" onclick="return doingExpandCollapse || expand_collapse('201004', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201004" /> April 2010</a>
+							</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">10</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">7</th>
+							<th align="center">12563</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201003">
+							<th align="left" width="25%">
+								<a name="201003" id="link_201003" href="http://railwarz.com/forum/index.php?action=stats;expand=201003#201003" onclick="return doingExpandCollapse || expand_collapse('201003', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201003" /> March 2010</a>
+							</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">7</th>
+							<th align="center">12377</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201002">
+							<th align="left" width="25%">
+								<a name="201002" id="link_201002" href="http://railwarz.com/forum/index.php?action=stats;expand=201002#201002" onclick="return doingExpandCollapse || expand_collapse('201002', 28);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201002" /> February 2010</a>
+							</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">3</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">6</th>
+							<th align="center">10027</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_201001">
+							<th align="left" width="25%">
+								<a name="201001" id="link_201001" href="http://railwarz.com/forum/index.php?action=stats;expand=201001#201001" onclick="return doingExpandCollapse || expand_collapse('201001', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_201001" /> January 2010</a>
+							</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">16</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">10</th>
+							<th align="center">9055</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200912">
+							<th align="left" width="25%">
+								<a name="200912" id="link_200912" href="http://railwarz.com/forum/index.php?action=stats;expand=200912#200912" onclick="return doingExpandCollapse || expand_collapse('200912', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200912" /> December 2009</a>
+							</th>
+							<th align="center" width="15%">3</th>
+							<th align="center" width="15%">31</th>
+							<th align="center" width="15%">4</th>
+							<th align="center" width="15%">5</th>
+							<th align="center">8674</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200911">
+							<th align="left" width="25%">
+								<a name="200911" id="link_200911" href="http://railwarz.com/forum/index.php?action=stats;expand=200911#200911" onclick="return doingExpandCollapse || expand_collapse('200911', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200911" /> November 2009</a>
+							</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">14</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">5</th>
+							<th align="center">6947</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200910">
+							<th align="left" width="25%">
+								<a name="200910" id="link_200910" href="http://railwarz.com/forum/index.php?action=stats;expand=200910#200910" onclick="return doingExpandCollapse || expand_collapse('200910', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200910" /> October 2009</a>
+							</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">9</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">17</th>
+							<th align="center">7230</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200909">
+							<th align="left" width="25%">
+								<a name="200909" id="link_200909" href="http://railwarz.com/forum/index.php?action=stats;expand=200909#200909" onclick="return doingExpandCollapse || expand_collapse('200909', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200909" /> September 2009</a>
+							</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">6</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">5</th>
+							<th align="center">8413</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200908">
+							<th align="left" width="25%">
+								<a name="200908" id="link_200908" href="http://railwarz.com/forum/index.php?action=stats;expand=200908#200908" onclick="return doingExpandCollapse || expand_collapse('200908', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200908" /> August 2009</a>
+							</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">5</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">6</th>
+							<th align="center">10117</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200907">
+							<th align="left" width="25%">
+								<a name="200907" id="link_200907" href="http://railwarz.com/forum/index.php?action=stats;expand=200907#200907" onclick="return doingExpandCollapse || expand_collapse('200907', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200907" /> July 2009</a>
+							</th>
+							<th align="center" width="15%">4</th>
+							<th align="center" width="15%">21</th>
+							<th align="center" width="15%">5</th>
+							<th align="center" width="15%">7</th>
+							<th align="center">10113</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200906">
+							<th align="left" width="25%">
+								<a name="200906" id="link_200906" href="http://railwarz.com/forum/index.php?action=stats;expand=200906#200906" onclick="return doingExpandCollapse || expand_collapse('200906', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200906" /> June 2009</a>
+							</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">14</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">8</th>
+							<th align="center">10720</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200905">
+							<th align="left" width="25%">
+								<a name="200905" id="link_200905" href="http://railwarz.com/forum/index.php?action=stats;expand=200905#200905" onclick="return doingExpandCollapse || expand_collapse('200905', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200905" /> May 2009</a>
+							</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">8</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">8</th>
+							<th align="center">9736</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200904">
+							<th align="left" width="25%">
+								<a name="200904" id="link_200904" href="http://railwarz.com/forum/index.php?action=stats;expand=200904#200904" onclick="return doingExpandCollapse || expand_collapse('200904', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200904" /> April 2009</a>
+							</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">8</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">7</th>
+							<th align="center">9265</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200903">
+							<th align="left" width="25%">
+								<a name="200903" id="link_200903" href="http://railwarz.com/forum/index.php?action=stats;expand=200903#200903" onclick="return doingExpandCollapse || expand_collapse('200903', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200903" /> March 2009</a>
+							</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">3</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">7</th>
+							<th align="center">7667</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200902">
+							<th align="left" width="25%">
+								<a name="200902" id="link_200902" href="http://railwarz.com/forum/index.php?action=stats;expand=200902#200902" onclick="return doingExpandCollapse || expand_collapse('200902', 28);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200902" /> February 2009</a>
+							</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">5</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">17</th>
+							<th align="center">8447</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200901">
+							<th align="left" width="25%">
+								<a name="200901" id="link_200901" href="http://railwarz.com/forum/index.php?action=stats;expand=200901#200901" onclick="return doingExpandCollapse || expand_collapse('200901', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200901" /> January 2009</a>
+							</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">5</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">7</th>
+							<th align="center">12811</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200812">
+							<th align="left" width="25%">
+								<a name="200812" id="link_200812" href="http://railwarz.com/forum/index.php?action=stats;expand=200812#200812" onclick="return doingExpandCollapse || expand_collapse('200812', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200812" /> December 2008</a>
+							</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">5</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">12</th>
+							<th align="center">10345</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200811">
+							<th align="left" width="25%">
+								<a name="200811" id="link_200811" href="http://railwarz.com/forum/index.php?action=stats;expand=200811#200811" onclick="return doingExpandCollapse || expand_collapse('200811', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200811" /> November 2008</a>
+							</th>
+							<th align="center" width="15%">10</th>
+							<th align="center" width="15%">11</th>
+							<th align="center" width="15%">47</th>
+							<th align="center" width="15%">8</th>
+							<th align="center">10550</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200810">
+							<th align="left" width="25%">
+								<a name="200810" id="link_200810" href="http://railwarz.com/forum/index.php?action=stats;expand=200810#200810" onclick="return doingExpandCollapse || expand_collapse('200810', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200810" /> October 2008</a>
+							</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">13</th>
+							<th align="center" width="15%">3</th>
+							<th align="center" width="15%">10</th>
+							<th align="center">14593</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200809">
+							<th align="left" width="25%">
+								<a name="200809" id="link_200809" href="http://railwarz.com/forum/index.php?action=stats;expand=200809#200809" onclick="return doingExpandCollapse || expand_collapse('200809', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200809" /> September 2008</a>
+							</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">20</th>
+							<th align="center" width="15%">4</th>
+							<th align="center" width="15%">9</th>
+							<th align="center">11058</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200808">
+							<th align="left" width="25%">
+								<a name="200808" id="link_200808" href="http://railwarz.com/forum/index.php?action=stats;expand=200808#200808" onclick="return doingExpandCollapse || expand_collapse('200808', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200808" /> August 2008</a>
+							</th>
+							<th align="center" width="15%">5</th>
+							<th align="center" width="15%">33</th>
+							<th align="center" width="15%">1</th>
+							<th align="center" width="15%">11</th>
+							<th align="center">9547</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200807">
+							<th align="left" width="25%">
+								<a name="200807" id="link_200807" href="http://railwarz.com/forum/index.php?action=stats;expand=200807#200807" onclick="return doingExpandCollapse || expand_collapse('200807', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200807" /> July 2008</a>
+							</th>
+							<th align="center" width="15%">9</th>
+							<th align="center" width="15%">72</th>
+							<th align="center" width="15%">5</th>
+							<th align="center" width="15%">13</th>
+							<th align="center">13160</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200806">
+							<th align="left" width="25%">
+								<a name="200806" id="link_200806" href="http://railwarz.com/forum/index.php?action=stats;expand=200806#200806" onclick="return doingExpandCollapse || expand_collapse('200806', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200806" /> June 2008</a>
+							</th>
+							<th align="center" width="15%">0</th>
+							<th align="center" width="15%">17</th>
+							<th align="center" width="15%">3</th>
+							<th align="center" width="15%">13</th>
+							<th align="center">9156</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200805">
+							<th align="left" width="25%">
+								<a name="200805" id="link_200805" href="http://railwarz.com/forum/index.php?action=stats;expand=200805#200805" onclick="return doingExpandCollapse || expand_collapse('200805', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200805" /> May 2008</a>
+							</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">55</th>
+							<th align="center" width="15%">3</th>
+							<th align="center" width="15%">19</th>
+							<th align="center">9034</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200804">
+							<th align="left" width="25%">
+								<a name="200804" id="link_200804" href="http://railwarz.com/forum/index.php?action=stats;expand=200804#200804" onclick="return doingExpandCollapse || expand_collapse('200804', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200804" /> April 2008</a>
+							</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">47</th>
+							<th align="center" width="15%">3</th>
+							<th align="center" width="15%">34</th>
+							<th align="center">5709</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200803">
+							<th align="left" width="25%">
+								<a name="200803" id="link_200803" href="http://railwarz.com/forum/index.php?action=stats;expand=200803#200803" onclick="return doingExpandCollapse || expand_collapse('200803', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200803" /> March 2008</a>
+							</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">16</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">8</th>
+							<th align="center">5716</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200802">
+							<th align="left" width="25%">
+								<a name="200802" id="link_200802" href="http://railwarz.com/forum/index.php?action=stats;expand=200802#200802" onclick="return doingExpandCollapse || expand_collapse('200802', 29);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200802" /> February 2008</a>
+							</th>
+							<th align="center" width="15%">3</th>
+							<th align="center" width="15%">42</th>
+							<th align="center" width="15%">7</th>
+							<th align="center" width="15%">9</th>
+							<th align="center">6723</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200801">
+							<th align="left" width="25%">
+								<a name="200801" id="link_200801" href="http://railwarz.com/forum/index.php?action=stats;expand=200801#200801" onclick="return doingExpandCollapse || expand_collapse('200801', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200801" /> January 2008</a>
+							</th>
+							<th align="center" width="15%">6</th>
+							<th align="center" width="15%">84</th>
+							<th align="center" width="15%">5</th>
+							<th align="center" width="15%">7</th>
+							<th align="center">7707</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200712">
+							<th align="left" width="25%">
+								<a name="200712" id="link_200712" href="http://railwarz.com/forum/index.php?action=stats;expand=200712#200712" onclick="return doingExpandCollapse || expand_collapse('200712', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200712" /> December 2007</a>
+							</th>
+							<th align="center" width="15%">9</th>
+							<th align="center" width="15%">124</th>
+							<th align="center" width="15%">5</th>
+							<th align="center" width="15%">8</th>
+							<th align="center">8119</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200711">
+							<th align="left" width="25%">
+								<a name="200711" id="link_200711" href="http://railwarz.com/forum/index.php?action=stats;expand=200711#200711" onclick="return doingExpandCollapse || expand_collapse('200711', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200711" /> November 2007</a>
+							</th>
+							<th align="center" width="15%">5</th>
+							<th align="center" width="15%">67</th>
+							<th align="center" width="15%">3</th>
+							<th align="center" width="15%">9</th>
+							<th align="center">8110</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200710">
+							<th align="left" width="25%">
+								<a name="200710" id="link_200710" href="http://railwarz.com/forum/index.php?action=stats;expand=200710#200710" onclick="return doingExpandCollapse || expand_collapse('200710', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200710" /> October 2007</a>
+							</th>
+							<th align="center" width="15%">10</th>
+							<th align="center" width="15%">75</th>
+							<th align="center" width="15%">6</th>
+							<th align="center" width="15%">8</th>
+							<th align="center">7627</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200709">
+							<th align="left" width="25%">
+								<a name="200709" id="link_200709" href="http://railwarz.com/forum/index.php?action=stats;expand=200709#200709" onclick="return doingExpandCollapse || expand_collapse('200709', 30);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200709" /> September 2007</a>
+							</th>
+							<th align="center" width="15%">6</th>
+							<th align="center" width="15%">33</th>
+							<th align="center" width="15%">2</th>
+							<th align="center" width="15%">7</th>
+							<th align="center">6504</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200708">
+							<th align="left" width="25%">
+								<a name="200708" id="link_200708" href="http://railwarz.com/forum/index.php?action=stats;expand=200708#200708" onclick="return doingExpandCollapse || expand_collapse('200708', 31);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200708" /> August 2007</a>
+							</th>
+							<th align="center" width="15%">34</th>
+							<th align="center" width="15%">266</th>
+							<th align="center" width="15%">30</th>
+							<th align="center" width="15%">10</th>
+							<th align="center">15687</th>
+						</tr>
+						<tr class="windowbg2" valign="middle" id="tr_200707">
+							<th align="left" width="25%">
+								<a name="200707" id="link_200707" href="http://railwarz.com/forum/index.php?action=stats;expand=200707#200707" onclick="return doingExpandCollapse || expand_collapse('200707', 7);"><img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/expand.gif" alt="" id="img_200707" /> July 2007</a>
+							</th>
+							<th align="center" width="15%">7</th>
+							<th align="center" width="15%">37</th>
+							<th align="center" width="15%">14</th>
+							<th align="center" width="15%">10</th>
+							<th align="center">3086</th>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+			var doingExpandCollapse = false;
+
+			function expand_collapse(curId, numDays)
+			{
+				if (window.XMLHttpRequest)
+				{
+					if (document.getElementById("img_" + curId).src.indexOf("expand") > 0)
+					{
+						if (typeof window.ajax_indicator == "function")
+							ajax_indicator(true);
+						getXMLDocument(smf_scripturl + "?action=stats;expand=" + curId + ";xml", onDocReceived);
+						doingExpandCollapse = true;
+					}
+					else
+					{
+						var myTable = document.getElementById("stats"), i;
+						var start = document.getElementById("tr_" + curId).rowIndex + 1;
+						for (i = 0; i < numDays; i++)
+							myTable.deleteRow(start);
+						// Adjust the image and link.
+						document.getElementById("img_" + curId).src = smf_images_url + "/expand.gif";
+						document.getElementById("link_" + curId).href = smf_scripturl + "?action=stats;expand=" + curId + "#" + curId;
+						// Modify the session variables.
+						getXMLDocument(smf_scripturl + "?action=stats;collapse=" + curId + ";xml");
+					}
+					return false;
+				}
+				else
+					return true;
+			}
+			function onDocReceived(XMLDoc)
+			{
+				var numMonths = XMLDoc.getElementsByTagName("month").length, i, j, k, numDays, curDay, start;
+				var myTable = document.getElementById("stats"), curId, myRow, myCell, myData;
+				var dataCells = [
+					"date",
+					"new_topics",
+					"new_posts",
+					"new_members",
+					"most_members_online"
+				];
+
+				if (numMonths > 0 && XMLDoc.getElementsByTagName("month")[0].getElementsByTagName("day").length > 0 && XMLDoc.getElementsByTagName("month")[0].getElementsByTagName("day")[0].getAttribute("hits") != null)
+					dataCells[5] = "hits";
+
+				for (i = 0; i < numMonths; i++)
+				{
+					numDays = XMLDoc.getElementsByTagName("month")[i].getElementsByTagName("day").length;
+					curId = XMLDoc.getElementsByTagName("month")[i].getAttribute("id");
+					start = document.getElementById("tr_" + curId).rowIndex + 1;
+					for (j = 0; j < numDays; j++)
+					{
+						curDay = XMLDoc.getElementsByTagName("month")[i].getElementsByTagName("day")[j];
+						myRow = myTable.insertRow(start + j);
+						myRow.className = "windowbg2";
+
+						for (k in dataCells)
+						{
+							myCell = myRow.insertCell(-1);
+							if (dataCells[k] == "date")
+								myCell.style.paddingLeft = "3ex";
+							else
+								myCell.style.textAlign = "center";
+							myData = document.createTextNode(curDay.getAttribute(dataCells[k]));
+							myCell.appendChild(myData);
+						}
+					}
+					// Adjust the arrow to point downwards.
+					document.getElementById("img_" + curId).src = smf_images_url + "/collapse.gif";
+					// Adjust the link to collapse instead of expand
+					document.getElementById("link_" + curId).href = smf_scripturl + "?action=stats;collapse=" + curId + "#" + curId;
+				}
+
+				doingExpandCollapse = false;
+				if (typeof window.ajax_indicator == "function")
+					ajax_indicator(false);
+			}
+		// ]]></script></td><td style="padding: 4px; background-color: transparent; padding-top: 4px;" valign="top" align="right">
+                 <div id="rightbarHeader" style="width: 170px; text-align: left; padding-top: 5px;"><div style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('17'); return false"><img id="blockcollapse17" style="margin: 0;" align="right" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/collapse.gif" border="0" alt="" /></a>IRC
+		</div>
+		<div style="padding:0px; " id="block17">
+	<div style="width: 100%; overflow: hidden;">&nbsp;&nbsp;<img src="http://railwarz.com/forum/Themes/BlackRain11fin/images/TPdivider2.gif" alt="" />&nbsp;<a href="http://widget.mibbit.com/?settings=d663da10e4a1603356835cb54e3ec44f&server=irc.accessirc.net&channel=%23acme">#ACME IRC Chat</a><br />
+	</div></div></div><div class="tborder" style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('6'); return false"><img id="blockcollapse6" style="margin: 0;" align="right" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/collapse.gif" border="0" alt="" /></a><a href="http://railwarz.com/forum/index.php?action=tpmod;sa=shoutbox">ShoutBox!</a>
+		</div>
+		<div class="windowbg" style="padding:4px; " id="block6">
+				<table cellpadding="0" align="center" width="100%" cellspacing="0" style="table-layout: fixed;">
+					<tr><td><div class="smalltext" style="width: 99%; height: 240px; overflow: auto;">Last 5 Shouts:<hr /><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://railwarz.com/forum/index.php?action=profile;u=151">KiD</a></b></div><div style="padding: 2px;"> August 16, 2013, 04:09:48 PM</div><div style="padding: 4px;">Game over???</div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://railwarz.com/forum/index.php?action=profile;u=151">KiD</a></b></div><div style="padding: 2px;"> August 07, 2013, 09:18:28 PM</div><div style="padding: 4px;">Miss u sexy &nbsp;geeks officially friday i will start having time for q2 again sorry for my absence seems like things didnt go on since i stopped handing out free railz</div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://railwarz.com/forum/index.php?action=profile;u=200">Beaver</a></b></div><div style="padding: 2px;"> July 31, 2013, 09:15:32 PM</div><div style="padding: 4px;">come to server zag</div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://railwarz.com/forum/index.php?action=profile;u=200">Beaver</a></b></div><div style="padding: 2px;"> July 28, 2013, 09:14:57 AM</div><div style="padding: 4px;">sorry guys been really busy if anyone wants email list try get some games going send me PM or put up a post on FACEBOOK it helps get games started.. hope to be back playing again someday soon!</div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://railwarz.com/forum/index.php?action=profile;u=9">wreck</a></b></div><div style="padding: 2px;"> July 26, 2013, 03:39:48 PM</div><div style="padding: 4px;">Has been dead. &nbsp;Haven't seen beav on in awhile, which is odd. &nbsp;Hope all is good.</div></div></div></td>
+					</tr>
+				</table>
+			<div style="text-align: center; margin-top: 5px; " class="smalltext"><a href="http://railwarz.com/forum/index.php?action=tpmod;sa=shoutbox;shouts=100">Show last 100</a></div>
+       <form  accept-charset="UTF-8" class="smalltext" style="padding: 0; margin: 0; margin-top: 8px; text-align: center;" name="tp-shoutbox" action="http://railwarz.com/forum/index.php?action=tpmod;id=shout" method="post"><input type="hidden" name="tp-shout-name" value="">
+             <input name="tp-shout-url" type="hidden" value="action=stats"><input type="hidden" name="sc" value="8af14a4c43c20029e187d1b17e861df2" />
+       </form></div></div><div class="tborder" style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('8'); return false"><img id="blockcollapse8" style="margin: 0;" align="right" src="http://railwarz.com/forum/Themes/BlackRain11fin/images/collapse.gif" border="0" alt="" /></a>Recent
+		</div>
+		<div class="windowbg" style="padding:4px; " id="block8">
+	<div style="width: 100%; ">
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?topic=243.msg1951;topicseen#new">Sunday Night Madness is b...</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?action=profile;u=151">KiD</a></b></div>
+		<div class="smalltext">[August 09, 2013, 09:29:03 PM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?topic=242.msg1950;topicseen#new">ACMECTF Railwarz server</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?action=profile;u=1">WORM.</a></b></div>
+		<div class="smalltext">[August 01, 2013, 12:10:11 PM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?topic=241.msg1949;topicseen#new">&quot;Please contact us on the...</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?action=profile;u=1">WORM.</a></b></div>
+		<div class="smalltext">[August 01, 2013, 11:58:33 AM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?topic=236.msg1946;topicseen#new">Railwarz Reunion Signatur...</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?action=profile;u=150">me</a></b></div>
+		<div class="smalltext">[July 12, 2013, 01:14:16 AM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?topic=121.msg1945;topicseen#new">q2 railwarz - the good ol...</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?action=profile;u=150">me</a></b></div>
+		<div class="smalltext">[July 12, 2013, 12:56:22 AM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?topic=240.msg1944;topicseen#new">GGs</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?action=profile;u=200">Beaver</a></b></div>
+		<div class="smalltext">[July 08, 2013, 11:49:10 PM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?topic=230.msg1943;topicseen#new">2013 Screenshots</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?action=profile;u=200">Beaver</a></b></div>
+		<div class="smalltext">[July 07, 2013, 10:41:57 AM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?topic=239.msg1942;topicseen#new">ACMECTF Summer Cup 2013</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?action=profile;u=1">WORM.</a></b></div>
+		<div class="smalltext">[July 01, 2013, 09:29:21 AM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?topic=238.msg1941;topicseen#new">Player Hunt List (Most Wa...</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?action=profile;u=156">shad</a></b></div>
+		<div class="smalltext">[July 01, 2013, 05:05:43 AM]
+		</div><hr />
+		<div class="smalltext"><a href="http://railwarz.com/forum/index.php?topic=92.msg1924;topicseen#new">Q2E &amp; Q2max</a></div>
+		<div class="smalltext">by <b><a href="http://railwarz.com/forum/index.php?action=profile;u=36">²smooth</a></b></div>
+		<div class="smalltext">[June 27, 2013, 07:13:43 PM]
+		</div>
+	</div></div></div>
+			<script language="Javascript" type="text/javascript">
+				function toggle( targetId )
+				{
+					var state = 0;
+					var blockname = "block" + targetId;
+					var blockimage = "blockcollapse" + targetId;
+
+					if ( document.getElementById ) {
+						target = document.getElementById( blockname );
+						if ( target.style.display == "none" ) {
+							target.style.display = "";
+							state = 1;
+						}
+						else {
+							target.style.display = "none";
+							state = 0;
+						}
+
+						document.getElementById( blockimage ).src = smf_images_url + (state ? "/collapse.gif" : "/expand.gif");
+						var tempImage = new Image();
+						tempImage.src = "http://railwarz.com/forum/index.php?action=tpmod;upshrink=" + targetId + ";state=" + state + ";" + (new Date().getTime());
+
+					}
+				}
+			</script></div></td></tr></table></div>
+	<div id="footerarea" style="text-align: center; padding-bottom: 1ex;">
+		<table cellspacing="0" cellpadding="3" border="0" align="center" width="100%">
+			<tr>
+				<td width="28%" valign="middle" align="left" class="copyright-links">
+					Theme by <a target="_blank" 
+href="mailto:crip@tinyportal.net?subject=BlackRain Theme!&amp;body=Hey Crip!"><span class="smalltext">Crip</a></span>
+				</td>
+				<td valign="middle" align="center" style="white-space: nowrap;" class="copyright-links">
+					
+		<span class="smalltext" style="display: inline; visibility: visible; font-family: Verdana, Arial, sans-serif;"><a href="http://www.simplemachines.org/" title="Simple Machines Forum" target="_blank">Powered by SMF 1.1.18</a> |
+<a href="http://www.simplemachines.org/about/copyright.php" title="Free Forum Software" target="_blank">SMF &copy; 2013, Simple Machines</a>
+		</span><br /><span class="smalltext">TinyPortal v0.9.8 &copy; <a href="http://www.tinyportal.net" target="_blank">Bloc</a></span>
+				</td>
+				<td width="28%" valign="middle" align="right" class="copyright-links">
+					<a href="http://www.mysql.com/" target="_blank" style="font-size:10px;">MySQL</a> | <a href="http://www.php.net/" target="_blank" style="font-size:10px;">PHP</a> | <a href="http://validator.w3.org/check/referer" target="_blank" style="font-size:10px;">XHTML</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank" style="font-size:10px;">CSS</a>
+				</td>
+			</tr>
+		</table><br />
+		<span class="smalltext">Page created in 0.054 seconds with 31 queries.</span>
+	</div>
+	<div id="ajax_in_progress" style="display: none;">Loading...</div>
+
+</body></html>
