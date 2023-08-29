@@ -128,7 +128,7 @@
 
 | Site | Source | Discord |
 | --- | --- | --- |
-| - | :octocat:https://github.com/QwazyWabbitWOS/expertctf | [![Q2RRR Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/mnA4Aew)
+| [Main Site (archive)](https://q2community.github.io/.github/websites/expertctf.net/) | :octocat:[Github](https://github.com/QwazyWabbitWOS/expertctf) | [![Q2RRR Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/mnA4Aew)
 
 ### LMCTF
 | Description |
@@ -137,7 +137,7 @@
 
 | Site | Source | Discord |
 | --- | --- | --- |
-[LMCTF](http://lmctf.com/) <br /> [LMCTF Wiki](http://lmctf.wikidot.com/) | :octocat:https://github.com/QwazyWabbitWOS/lmctf60 | [![Q2RRR Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/3udM8Vz)
+[LMCTF](http://lmctf.com/) <br /> [LMCTF Wiki](http://lmctf.wikidot.com/) | :octocat:[Github](https://github.com/QwazyWabbitWOS/lmctf60) | [![Q2RRR Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/3udM8Vz)
 
 ### LFire CTF
 | Description |
@@ -146,7 +146,7 @@
 
 | Site | Source | Discord |
 | --- | --- | --- |
-| | | [![NA Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/jzNs4FPjQQ) <br /> [![EU Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/ekfP8AM)
+| | | NA [![NA Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/jzNs4FPjQQ) <br /> EU [![EU Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/ekfP8AM)
 
 ### Railwarz CTF
 | Description |
@@ -155,7 +155,7 @@
 
 | Site | Source | Discord |
 | --- | --- | --- |
-|  <br /> ![Donde](https://dondeq2.com/2017/07/29/what-is-railwarz-by-skills/) <br /> ![Donde](https://dondeq2.com/2017/06/06/skills-theory-on-q2ctf-railwarz/) | :octocat:https://github.com/QwazyWabbitWOS/tmg | [![Quake 2 Railwarz Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/eKHVKfevbE)
+| [Main Site (archive)](https://q2community.github.io/.github/websites/railwarz.com/) <br /> [Donde](https://dondeq2.com/2017/07/29/what-is-railwarz-by-skills/) <br /> [Donde](https://dondeq2.com/2017/06/06/skills-theory-on-q2ctf-railwarz/) | :octocat:[Github](https://github.com/QwazyWabbitWOS/tmg) | [![Quake 2 Railwarz Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/eKHVKfevbE)
 
 ### Weapons Factory CTF
 | Description |
