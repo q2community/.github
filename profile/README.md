@@ -26,10 +26,8 @@
 
 ## Links to other Quake 2-focused Githubs
 
-| :octocat:[Packetflinger](https://github.com/orgs/packetflinger/repositories?type=all) | QwazyWabbitWOS |
-| --- | --- |
 | :octocat:[Packetflinger](https://github.com/orgs/packetflinger/repositories?type=all) | :octocat:[QwazyWabbitWOS](https://github.com/QwazyWabbitWOS?tab=repositories) |
-
+| --- | --- |
 
 ## Mods and Mod Resources
 
