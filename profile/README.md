@@ -69,7 +69,7 @@
 
 | Site | Source | Discord |
 | --- | --- | --- |
-| | | [![Gloom Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/nJ7zeeA)
+| | :octocat:[Github](https://github.com/QuakeMM/Q2-Gloom) | [![Gloom Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/nJ7zeeA)
 
 ### Freeze Tag
 | Description |
