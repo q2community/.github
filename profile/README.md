@@ -24,6 +24,13 @@
 | Source | :octocat:[Github](https://github.com/skullernet/q2pro) | | :octocat:[Github](https://github.com/yquake2/yquake2) | :octocat:[Github](https://github.com/NVIDIA/Q2RTX) | :octocat:[Github](https://github.com/jdolan/quetoo) | :octocat:[Github](https://github.com/tastyspleen/r1q2-archive) | :octocat:[Github](https://github.com/Shockblast/quake2-aprq2) |
 | Links | | | | | [![Quetoo Discord](https://github.com/q2community/.github/blob/main/profile/images/discord.jpg?raw=true)](https://discord.gg/unb9U4b) | | | |
 
+## Links to other Quake 2-focused Githubs
+
+| Packetflinger | QwazyWabbitWOS |
+| --- | --- |
+| :octocat:[Packetflinger](https://github.com/orgs/packetflinger/repositories?type=all) | :QwazyWabbitWOS:[Github](https://github.com/QwazyWabbitWOS?tab=repositories) |
+
+
 ## Mods and Mod Resources
 
 ### Action Quake II
